@@ -1,0 +1,58 @@
+# Drawing Board
+- **Afflatus:**
+	- Channel Catfish
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Pisces)|Pisces]]
+	- [[Actinopterygii]]
+	- [[Acipensaridae]]
+	- [[Wild (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Diet**
+	- Omnivorous
+- **Habitat**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Koromaea)|Coromea]]
+		- [[General (Hafna)|Hafna]]
+		- [[General (Morey)|Morey]]
+	- Biomes
+		- [[Large Lakes]]
+		- [[Large River Deltas]]
+		- [[Temperate Coastal Rivers]]
+		- [[Temperate Floodplain Rivers]]
+		- [[Tropical Coastal Rivers]]
+		- [[Tropical Floodplain Rivers]]
+	- Climate
+		- [[Humid Continental]]
+		- [[Humid Subtropical]]
+		- [[Mediterranean]]
+		- [[Subarctic]]
+		- [[Tropical Monsoon]]
+		- [[Tropical Rainforest]]
+		- [[Tropical Savanna]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

@@ -1,0 +1,35 @@
+# Drawing Board
+- **Afflatus:**
+	- Peach
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- Razor sharp leaves as defence
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+	- [[Speed Dial (Eudicotidae)|Eudicots]]
+	- [[Malvids]]
+	- [[Crop (Plant)]]
+- **Genetics & Reproduction**
+	- 
+- **Diet**
+	- N/A
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

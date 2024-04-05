@@ -1,0 +1,42 @@
+# Drawing Board
+- **Afflatus:**
+	- 
+- **Chimerism:**
+	- Dancer of the Boreal Valley
+	- One fiery wing and one dark wing
+- **Behavior:**
+	- 
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Arthropoda)]]
+	- [[Insecta]]
+	- [[Butterflies]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Diet**
+	- 
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

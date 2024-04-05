@@ -1,0 +1,42 @@
+# Generic
+- **Aliases/Titles**
+	- 
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Moon of Nobruu]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ethereal Deity|Ethereal Deity]]
+	- [[Fundamentals]]
+- **Divine Domains**
+	- Light
+	- Family
+	- Eating
+- **Source of Power (Trinity/Worship)**
+	- [[Trinity]]
+- **Power Level**
+	- [[2-A - Galaxy Level]]
+- **Alignment**
+	- Neutral Good
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices: 
+	- Virtues: 
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- Never
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- Never
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- Frequent
+- **Investment (Interested/Disinterested)**
+	- Disinterested

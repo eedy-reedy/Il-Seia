@@ -1,0 +1,92 @@
+# Enneagram
+
+**1SX - Zeal**
+*Sexual Ones focus on perfecting others; they are more reformers than perfectionists. The only One who is explicitly angry, they act out anger through their intense desire to improve others and get what they want. They feel entitled in the way a reformer or a zealot can feel entitled: they believe they have a right to change society and get what they want because they have a higher understanding of the truth and the reasons behind “the right way to be.” The countertype of the Ones, they are more impulsive and outwardly angry—they go against the “counter-instinctive” tendency of the One to repress anger and impulses.*
+# Generic
+- **Aliases/Titles**
+	- The Righteous
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Festival of Siskriaat (Reformers)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Justice
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Lawful Good]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Conceit]]
+		- [[Cowardice]]
+		- [[Cruelty]]
+		- [[Dishonesty]]
+		- [[Dissonance]]
+		- [[Hedonism]]
+		- [[Perversion]]
+		- [[Possession]]
+		- [[Prejudice]]
+	- Virtues
+		- [[Compassion]]
+		- [[Dedication]]
+		- [[Dignity]]
+		- [[Discipline]]
+		- [[Honesty]]
+		- [[Humility]]
+		- [[Justice]]
+		- [[Loyalty]]
+		- [[Wisdom]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Carnivoran Faun]] (African Painted Dog)
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 1 - The Reformer]]
+		- **Basic Fear:** Of being corrupt/evil, defective
+		- **Basic Desire:** To be good, to have integrity, to be balanced
+	- **Key Motivations:** Want to be right, to strive higher and improve everything, to be consistent with their ideals, to justify themselves, to be beyond criticism so as not to be condemned by anyone.
+	- **Level 1 (At Their Best):** Become extraordinarily wise and discerning. By accepting what is, they become transcendentally realistic, knowing the best action to take in each moment. Humane, inspiring, and hopeful: the truth will be heard.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

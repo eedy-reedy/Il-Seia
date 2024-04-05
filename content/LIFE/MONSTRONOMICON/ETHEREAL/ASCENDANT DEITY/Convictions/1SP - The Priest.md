@@ -1,0 +1,92 @@
+# Enneagram
+
+**1SP - Anxiety**
+*Self-Preservation Ones are the true perfectionists of the three Ones. They express the passion of anger through working hard to make themselves and the things they do more perfect. In this subtype, anger is the most repressed emotion; the defense mechanism of reaction formation transforms the heat of anger into warmth, resulting in a friendly and benevolent character.*
+# Generic
+- **Aliases/Titles**
+	- The Fearful
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Festival of Siskriaat (Reformers)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Fear
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Lawful Neutral]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Charisma]]
+		- [[Courage]]
+		- [[Cruelty]]
+		- [[Destruction]]
+		- [[Dissonance]]
+		- [[Independence]]
+		- [[Insecurity]]
+		- [[Neglect]]
+		- [[Weakness]]
+	- Virtues
+		- [[Conformity]]
+		- [[Cowardice]]
+		- [[Dedication]]
+		- [[Dignity]]
+		- [[Discipline]]
+		- [[Dishonesty]]
+		- [[Dogma]]
+		- [[Humility]]
+		- [[Loyalty]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Agaricale Shiitake]] (Cordyceps)
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 1 - The Reformer]]
+		- **Basic Fear:** Of being corrupt/evil, defective
+		- **Basic Desire:** To be good, to have integrity, to be balanced
+	- **Key Motivations:** Want to be right, to strive higher and improve everything, to be consistent with their ideals, to justify themselves, to be beyond criticism so as not to be condemned by anyone.
+	- **Level 5:** Afraid of making a mistake: everything must be consistent with their ideals. Become orderly and well-organized, but impersonal, puritanical, emotionally constricted, rigidly keeping their feelings and impulses in check. Often workaholics—"anal-compulsive," punctual, pedantic, and fastidious.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

@@ -1,0 +1,55 @@
+# Generic
+- **Motto/Slogan/Axiom**
+	- 
+- **Alternative Names/Aliases**
+	- 
+- **Demonym**
+	- 
+- **Founding Date**
+	- 
+- **Leader**
+	- 
+- **Parent Organization**
+	- 
+- **Leader Title**
+	- 
+- **Founders**
+	- 
+- **Regional Spread**
+	- 
+- **Related Species/Races**
+	- 
+- **Related Cultures**
+	- 
+- **Hierarchy**
+	- 
+# Geopolitical
+- **Capital**
+	- 
+- **Head of State**
+	- 
+- **Government System**
+	- 
+- **Power Structure System**
+	- 
+- **Economic System**
+	- 
+- **Recognized/Official Languages**
+	- 
+- **Gazetteer**
+	- 
+- **Official Currency**
+	- N/A
+- **Laws**
+	- 
+- **Agriculture and Industry**
+	- 
+- **Imports**
+	- 
+- **Exports**
+	- 
+- **Technological Level**
+	- 
+# Religious
+- **Official State Religion**
+	- 

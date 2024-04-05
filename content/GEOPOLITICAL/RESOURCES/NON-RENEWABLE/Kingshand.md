@@ -1,0 +1,57 @@
+---
+sticker: ""
+---
+# Properties
+- **Taste**
+	- 
+- **Odor**
+	- 
+- **Color**
+	- 
+- **Common Found State**
+	- 
+- **Physical Characteristics**
+	- 
+- **Properties**
+	- 
+- **Compounds**
+	- 
+- **Geology/Geography**
+	- 
+- **Origin**
+	- 
+# Usage
+- **History**
+	- 
+- **Discovery**
+	- 
+- **Common Use**
+	- 
+- **Cultural Use**
+	- 
+- **Refinement**
+	- 
+- **Manufacturing/Products**
+	- 
+- **Byproducts**
+	- 
+- **Hazards**
+	- 
+- **Environmental Impact**
+	- 
+# Distribution
+- **Value**
+	- Hand: $1
+	- Knightshand: $3
+	- Princehand:$9
+	- Queenshand: $27
+	- Lordshand: $81
+	- Kingshand: $243
+- **Rarity**
+	- 
+- **Trade & Market**
+	- 
+- **Storage**
+	- 
+- **Law & Regulation**
+	- 

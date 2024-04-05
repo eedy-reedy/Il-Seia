@@ -1,0 +1,92 @@
+# Enneagram
+
+**7SX - Thahi**
+*Sexual Sevens express gluttony through a need to imagine something better than ordinary reality. Gluttons for things of a higher world, they are idealistic dreamers with a passion for living in their imaginations. Sexual Sevens look at things with the optimism of someone who is in love; they see the world through rose-colored glasses. “Suggestibility” refers to being somewhat naive and easy to hypnotize. Light-hearted and enthusiastic, they focus on exciting possibilities and pleasurable fantasies, and they believe they can do everything.*
+# Generic
+- **Aliases/Titles**
+	- [[Miri Thahi]] ([[Isra (Main Branch)]])
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Springs of Eihapriaath (Enthusiasts)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Pleasure
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[True Neutral]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Conformity]]
+		- [[Cowardice]]
+		- [[Dignity]]
+		- [[Discipline]]
+		- [[Insecurity]]
+		- [[Loyalty]]
+		- [[Prejudice]]
+		- [[Sobriety]]
+		- [[Weakness]]
+	- Virtues
+		- [[Conceit]]
+		- [[Charisma]]
+		- [[Dissonance]]
+		- [[Dishonesty]]
+		- [[Hedonism]]
+		- [[Independence]]
+		- [[Passion]]
+		- [[Perversion]]
+		- [[Romanticism]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Vitales Sages]]
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 7 - The Enthusiast]]
+		- **Basic Fear:** Of being deprived and in pain
+		- **Basic Desire:** To be satisfied and content—to have their needs fulfilled
+		- **Key Motivations:** Want to maintain their freedom and happiness, to avoid missing out on worthwhile experiences, to keep themselves excited and occupied, to avoid and discharge pain.
+		- **Level 5:** Unable to discriminate what they really need, become hyperactive, unable to say "no" to themselves, throwing self into constant activity. Uninhibited, doing and saying whatever comes to mind: storytelling, flamboyant exaggerations, witty wise-cracking, performing. Fear being bored: in perpetual motion, but do too many things—many ideas but little follow through.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

@@ -1,0 +1,45 @@
+# Drawing Board
+- **Afflatus**
+	- 
+- **Chimerism**
+	- 
+- **Behavior**
+	- 
+- **Personality**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Aves)|Aves]]
+	- [[Speed Dial (Hieraves)]]
+	- [[Cathartidae]]
+	- [[Wild (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Diet**
+	- Omnivorous
+- **Habitat**
+	- Regions
+		- [[General (Cerul)|Cerul]]
+		- [[General (Morey)|Morey]]
+	- Biomes
+		- [[Temperate Coastal Rivers]]
+		- [[Littoral Zone]]
+	- Climate
+		- [[Humid Continental]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

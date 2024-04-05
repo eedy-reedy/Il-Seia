@@ -1,0 +1,61 @@
+# Drawing Board
+- **Afflatus:**
+	- 
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Mammalia)]]
+	- [[Carnivora]]
+	- [[Canidae]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Diet**
+	- Carnivorous
+		- [[Cassowary Turkeys]]
+		- [[Beavers]]
+		- [[Elk]]
+		- [[Forest Deer]]
+		- [[Common Goats]]
+		- [[Kangaroo Hares]]
+		- [[Plains Bison]]
+		- [[Plains Deer]]
+		- [[Rabbits]]
+		- [[Common Sheep]]
+		- [[Shovel Tusk Boars]]
+		- [[Wood Bison]]
+- **Habitat**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Morey)|Morey]]
+	- Biomes
+		- [[Flooded Steppes]]
+		- [[Mediterranean Forests]]
+		- [[Montane Steppes]]
+		- [[Temperate Forests]]
+		- [[Temperate Steppes]]
+	- Climate
+		- [[Alpine]]
+		- [[Humid Continental]]
+		- [[Mediterranean]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

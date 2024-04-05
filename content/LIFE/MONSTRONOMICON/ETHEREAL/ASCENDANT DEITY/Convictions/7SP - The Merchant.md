@@ -1,0 +1,92 @@
+# Enneagram
+
+**7SP - Network**
+*The Self-Preservation Seven expresses gluttony through making alliances and creating opportunities for gaining an advantage. Pragmatic and self-interested, these Sevens find safety through networking and being alert to opportunities that support their survival. The name “Keepers of the Castle” refers to their way of establishing a partisan network of allies through which they create safety and satisfy their needs. Cheerful and amiable, they have a love of pleasure and tend to get what they want.*
+# Generic
+- **Aliases/Titles**
+	- The Merchant
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Springs of Eihapriaath (Enthusiasts)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Trade
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Neutral Good]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Conformity]]
+		- [[Cowardice]]
+		- [[Destruction]]
+		- [[Humility]]
+		- [[Indignity]]
+		- [[Insecurity]]
+		- [[Neglect]]
+		- [[Perversion]]
+		- [[Prejudice]]
+	- Virtues
+		- [[Charisma]]
+		- [[Creativity]]
+		- [[Dedication]]
+		- [[Dignity]]
+		- [[Dishonesty]]
+		- [[Greed]]
+		- [[Independence]]
+		- [[Passion]]
+		- [[Possession]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Anura Kappa]] (Bullfrog)
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 7 - The Enthusiast]]
+		- **Basic Fear:** Of being deprived and in pain
+		- **Basic Desire:** To be satisfied and content—to have their needs fulfilled
+		- **Key Motivations:** Want to maintain their freedom and happiness, to avoid missing out on worthwhile experiences, to keep themselves excited and occupied, to avoid and discharge pain.
+		- **Level 1 (At Their Best):** Assimilate experiences in depth, making them deeply grateful and appreciative for what they have. Become awed by the simple wonders of life: joyous and ecstatic. Intimations of spiritual reality, of the boundless goodness of life.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

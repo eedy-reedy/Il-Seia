@@ -1,0 +1,41 @@
+# Drawing Board
+- **Afflatus:**
+	- Stag Beetles
+- **Chimerism:**
+	- Has horns more akin to deer antlers in shape
+- **Behavior:**
+	- 
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Arthropoda)]]
+	- [[Insecta]]
+	- [[Coleoptera]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Diet**
+	- 
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

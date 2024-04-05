@@ -1,0 +1,42 @@
+# Drawing Board
+- **Afflatus:**
+	- Grizzly Bears
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Mammalia)]]
+	- [[Carnivora]]
+	- [[Ursidae]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Diet**
+	- Omnivorous
+		- 
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

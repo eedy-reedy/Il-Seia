@@ -1,0 +1,47 @@
+# Drawing Board
+- **Afflatus:**
+	- Blueberry Bush
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+	- [[Speed Dial (Eudicotidae)|Eudicots]]
+	- [[Ericales]]
+	- [[Crop (Plant)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Seed Birth
+- **Diet**
+	- N/A
+- **Habitat**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Alaethia)|Alethia]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Harmolipe)|Harmolipi]]
+		- [[General (Etra)|Ilsu]]
+		- [[General (Koromaea)|Koromaea]]
+	- Biomes
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Mangroves|Mangroves]]
+		- [[Temperate Forests]]
+		- [[Tropical Forests]]
+	- Climate
+		- [[Humid Continental]]
+		- [[Humid Subtropical]]
+		- [[Mediterranean]]
+		- [[Tropical Monsoon]]
+		- [[Tropical Rainforest]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- Black Coloring
+- **Byproducts & Exploitation**
+	- 

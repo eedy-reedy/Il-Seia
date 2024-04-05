@@ -1,0 +1,1 @@
+*If they get in danger, they may brutally destroy everything that has not conformed to their will rather than surrender to anyone else. Vengeful, barbaric, murderous. Sociopathic tendencies. Generally corresponds to the Antisocial Personality Disorder.*

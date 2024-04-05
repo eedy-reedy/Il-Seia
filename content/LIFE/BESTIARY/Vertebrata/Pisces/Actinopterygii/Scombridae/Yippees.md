@@ -1,0 +1,45 @@
+# Drawing Board
+- **Afflatus:**
+	- Wahoos
+- **Chimerism:**
+	- White underbelly
+	- Big black eyes
+- **Behavior:**
+	- Active at night
+	- Eats fish, squids, and crustaceans
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Pisces)|Pisces]]
+	- [[Actinopterygii]]
+	- [[Scombridae]]
+	- [[Wild (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Diet**
+	- 
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

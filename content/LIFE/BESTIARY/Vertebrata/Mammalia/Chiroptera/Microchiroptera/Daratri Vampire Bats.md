@@ -1,0 +1,40 @@
+# Drawing Board
+- **Afflatus:**
+	- Common Vampire Bats
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Mammalia)]]
+	- [[Chiroptera]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Diet:**
+	- 
+- **Habitat:**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

@@ -1,0 +1,10 @@
+# Generic
+- [[Speed Dial (Culinary)|Culinary]]
+- [[Speed Dial (Items)|Items]]
+- [[Speed Dial (Landmarks)|Landmarks]]
+- [[Speed Dial (Languages)|Languages]]
+- [[Speed Dial (Organizations & Cultures)|Organizations & Cultures]]
+- [[Speed Dial (Political)|Political]]
+- [[Speed Dial (Resources)|Resources]]
+- [[Speed Dial (Structures)|Structures]]
+- [[Speed Dial (Technology)|Technology]]

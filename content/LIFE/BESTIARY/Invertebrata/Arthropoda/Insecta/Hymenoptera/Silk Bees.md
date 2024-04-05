@@ -1,0 +1,41 @@
+# Drawing Board
+- **Afflatus:**
+	- 
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- Make a honey-like fluid that can be turned into strong silk fibers
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Arthropoda)]]
+	- [[Insecta]]
+	- [[Hymenoptera]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Diet**
+	- 
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

@@ -1,0 +1,1 @@
+*Finally, their energy and health is completely spent: become claustrophobic and panic-stricken. Often give up on themselves and life: deep depression and despair, self-destructive overdoses, impulsive suicide. Generally corresponds to the Bipolar disorder and Histrionic personality disorder.*

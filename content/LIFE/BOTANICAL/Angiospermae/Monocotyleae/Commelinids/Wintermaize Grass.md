@@ -1,0 +1,45 @@
+# Drawing Board
+- **Afflatus:**
+	- Barley
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+	- [[Speed Dial (Monocotyleae)|Monocots]]
+	- [[Commelinids]]
+	- [[Crop (Plant)]]
+- **Genetics & Reproduction**
+	- 
+- **Diet**
+	- N/A
+- **Habitat**
+	- Regions
+		- [[General (Deirau)|Deirau]]
+		- [[General (Etra)|Ilsu]]
+		- [[General (Satra)|Jara]]
+		- [[General (Surusa)|Leir]]
+		- [[General (Lemeinsi)|Lemeinsi]]
+		- [[General (Umalia)|Umalia]]
+	- Biomes
+		- [[Montane Steppes]]
+		- [[Temperate Steppes]]
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Tundra|Tundra]]
+	- Climate
+		- [[Alpine]]
+		- [[Humid Continental]]
+		- [[Subarctic]]
+		- [[NATURE/BIOMES & CLIMATES/Climates/Tundra|Tundra]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

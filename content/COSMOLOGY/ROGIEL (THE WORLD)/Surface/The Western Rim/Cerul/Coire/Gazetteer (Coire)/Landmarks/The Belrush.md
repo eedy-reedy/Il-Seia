@@ -1,0 +1,30 @@
+# Generic
+- **Class**
+	- 
+- **Parent Location**
+	- 
+- **Ruler**
+	- 
+- **Owning Rank**
+	- 
+- **Owning Organization**
+	- 
+- **Alternative Names**
+	- 
+- **Geography**
+	- 
+- **Ecosystem**
+	- 
+- **Ecosystem Cycles**
+	- 
+- **Localized Phenomena**
+	- 
+- **Climate**
+	- 
+- **Flora & Fauna**
+	- 
+- **Natural Resources**
+	- 
+- **History**
+	- 
+- **Tourism**

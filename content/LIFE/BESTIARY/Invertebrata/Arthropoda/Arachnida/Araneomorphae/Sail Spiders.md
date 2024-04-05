@@ -1,0 +1,43 @@
+# Drawing Board
+- **Afflatus:**
+	- Fishing Spider
+- **Chimerism:**
+	- Basilisks
+	- Sail on Back
+	- Resembles a Leaf
+- **Behavior:**
+	- Catches the wind with its sail to run on water and avoid predators
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Arthropoda)]]
+	- [[Arachnida]]
+	- [[Araneomorphae]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Diet**
+	- 
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

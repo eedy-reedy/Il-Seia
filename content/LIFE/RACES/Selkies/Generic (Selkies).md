@@ -1,0 +1,73 @@
+# Generic
+
+- **Grammar**
+	- Demonym: 
+	- Plural:
+- **Creature Class**
+	- [[Humanoid]]
+- **Origin/Ancestry**
+	- [[Generic (Fauns)|Satyrs]]
+- **Geographic Distribution**
+	- [[Great Western Sea (Redselie)]]
+	- [[Aetikan Sea (Azelda)]]
+	- [[Sea of the Banished (Natspar)]]
+	- [[Sea of Dusk (Djole)]]
+	- [[Kirkjar Ocean (Keselie)]]
+	- [[White Sea (Lohie)]]
+	- [[Sea of Dawn (Ktrove)]]
+	- [[Moreyan Ocean Sparko]]
+- **Related Races**
+	- Cetacea Selkies
+	- Pinnipedia Selkies
+	- Sirenia Selkies
+- **Perception & Sensory/Extrasensory Capabilities**
+	- Echolocation ([[(Toothed) Selkie]])
+	- Lateral Line
+	- Vibration Sensitivity ([[Pinnipedia Selkies]])
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Growth Rate & Stages**
+	- Average
+		- Infancy: 1-5 years
+		- Childhood: 6-15 years
+		- Puberty: 16-30 years
+		- Adulthood: 31-120 years
+	- [[Pinnipedia Selkies]]
+		- Infancy: 1-3 years
+		- Childhood: 4-8 years
+		- Puberty: 9-17 years
+		- Adulthood: 18-50 years
+	- [[Sirenia Selkies]]
+		- Infancy: 1-5 years
+		- Childhood: 6-15 years
+		- Puberty: 16-30 years
+		- Adulthood: 31-100 years
+- **Dietary Needs & Habits**
+	- Carnivorous (Average); Herbivores ([[Sirenia Selkies]])
+- **Behavior & Psychology**
+	- Alignment: [[Chaotic Good]]
+# Extended
+- **Average Lifespan**
+	- 
+- **Average Height**
+	- 12-20ft ([[Cetacea Selkies]]); 5-17ft ([[(Toothed) Selkie]]); 4-10ft ([[Pinnipedia Selkies]]); 6-10ft ([[Sirenia Selkies]])
+- **Average Weight**
+	- 737-2048lbs ([[Cetacea Selkies]]); 128-1451lbs ([[(Toothed) Selkie]]); 82-512lbs ([[Pinnipedia Selkies]]); 184-512lbs ([[Sirenia Selkies]])
+- **Characteristics & Features**
+	- Generic
+		- Head
+		- Torso
+		- Arms
+		- Legs
+		- Other
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Symbiotic & Parasitic Species**
+	- 
+- **Social Structure**
+	- 
+- **Byproducts & Exploitation**
+	- 
+- **Special Trait**
+	- Satyr's Song

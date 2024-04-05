@@ -1,0 +1,43 @@
+# Drawing Board
+- **Afflatus**
+	- Newts
+- **Chimerism**
+	- Poison Dart Frogs
+- **Behavior**
+	- Has antimicrobial/antifungal agent similar to [[Silent Banshee]] poison that can be lethal at high doses and used as a painkiller at low doses
+- **Personality**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Amphibia)|Amphibia]]
+	- [[Speed Dial (Urodela)|Urodela]]
+	- [[Salamandridae]]
+	- [[Wild (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- 
+- **Diet**
+	- Carnivorous
+		- 
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

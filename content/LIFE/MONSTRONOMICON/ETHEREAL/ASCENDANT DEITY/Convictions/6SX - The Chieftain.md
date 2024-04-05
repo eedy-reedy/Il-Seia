@@ -1,0 +1,92 @@
+# Enneagram
+
+**6SX - Strength**
+*Sexual Sixes express fear by going against fear—by becoming strong and intimidating. Trusting themselves more than others, these Sixes have the inner programming that when you are afraid, the best defense is a good offense. They take on a powerful stance, both in what they do and how they look, as a way of holding the enemy at a distance. Their anxiety is allayed through skill and readiness in the face of an attack.*
+# Generic
+- **Aliases/Titles**
+	- [[Avery Morey]] ([[Averyism]])
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Isles of Valoaath (Loyalists)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- War
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Neutral Evil]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Compassion]]
+		- [[Conformity]]
+		- [[Dignity]]
+		- [[Humility]]
+		- [[Insecurity]]
+		- [[Justice]]
+		- [[Loyalty]]
+		- [[Selflessness]]
+		- [[Weakness]]
+	- Virtues
+		- [[Courage]]
+		- [[Cruelty]]
+		- [[Destruction]]
+		- [[Dogma]]
+		- [[Independence]]
+		- [[Loathing]]
+		- [[Passion]]
+		- [[Possession]]
+		- [[Romanticism]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Morey Human]]
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 6 - The Loyalist]]
+		- **Basic Fear:** Of being without support and guidance
+		- **Basic Desire:** To have security and support
+		- **Key Motivations:** Want to have security, to feel supported by others, to have certitude and reassurance, to test the attitudes of others toward them, to fight against anxiety and insecurity.
+		- **Level 5:** To resist having more demands made on them, they react against others passive-aggressively. Become evasive, indecisive, cautious, procrastinating, and ambivalent. Are highly reactive, anxious, and negative, giving contradictory, "mixed signals." Internal confusion makes them react unpredictably.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

@@ -1,0 +1,45 @@
+# Drawing Board
+- **Afflatus:**
+	- 
+- **Chimerism:**
+	- Long tail like a kite
+- **Behavior:**
+	- 
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Mammalia)]]
+	- [[Glires]]
+	- [[Sciuridae]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Main Trait:**
+	- 
+- **Ability:**
+	- 
+- **Diet:**
+	- 
+- **Habitat:**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

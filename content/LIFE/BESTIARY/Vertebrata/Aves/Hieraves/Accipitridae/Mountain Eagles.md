@@ -1,0 +1,54 @@
+# Drawing Board
+- **Afflatus**
+	- Golden Eagles
+- **Chimerism**
+	- Crown of Feathers
+- **Behavior**
+	- Picks up animals and kills them by dropping them from up high
+- **Personality**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Aves)|Aves]]
+	- [[Speed Dial (Hieraves)]]
+	- [[Accipitridae]]
+	- [[Wild (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Diet**
+	- Carnivorous
+		- Carrion
+		- [[Marmots]]
+		- [[Northern Hawks]]
+		- [[Pikas]]
+		- [[Radar Owls]]
+		- [[Ruffed Grouses]]
+- **Habitat**
+	- Regions
+		- [[General (Cerul)|Cerul]]
+		- [[General (Hafna)|Hafna]]
+		- [[General (Hiraeth)|Hiraeth]]
+		- [[General (Libelle)|Libelle]]
+		- [[General (Morey)|Morey]]
+	- Biomes
+		- [[Montane Steppes]]
+	- Climate
+		- [[Alpine]]
+		- [[Humid Continental]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

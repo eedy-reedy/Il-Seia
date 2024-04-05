@@ -1,0 +1,48 @@
+# Drawing Board
+- **Afflatus:**
+	- 
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Mammalia)]]
+	- [[Glires]]
+	- [[Leporidae]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Main Trait:**
+	- 
+- **Ability:**
+	- 
+- **Diet:**
+	- Herbivorous
+- **Habitat:**
+	- Regions
+		- [[General (Hafna)|Hafna]]
+		- [[General (Hiraeth)|Hiraeth]]
+		- [[General (Libelle)|Libelle]]
+	- Biomes
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Taigas|Taigas]]
+	- Climate
+		- [[Alpine]]
+		- [[Subarctic]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

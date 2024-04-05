@@ -1,0 +1,45 @@
+# Drawing Board
+- **Afflatus:**
+	- 
+- **Chimerism:**
+	- Serrated shells
+- **Behavior:**
+	- Freshwater
+	- Latches on to fish and lays its eggs onto them
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Mollusca)]]
+	- [[Bivalvia]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Main Trait:**
+	- 
+- **Ability:**
+	- 
+- **Diet:**
+	- 
+- **Habitat:**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

@@ -1,0 +1,138 @@
+# Generic
+
+- **Motto/Slogan/Axiom**
+	- 
+- **Alternative Names/Aliases**
+	- 
+- **Demonym**
+	- Isril
+- **Founding Date**
+	- 
+- **Leader**
+	- 
+- **Parent Organization**
+	- 
+- **Leader Title**
+	- 
+- **Founders**
+	- 
+- **Regional Spread**
+	- 
+- **Related Species/Races**
+	- [[Generic (Sages)|Sages]]
+- **Related Cultures**
+	- 
+- **Hierarchy**
+	- 1 [[Druiden|Druid]]
+		- 9 [[Lunin]]
+			- [[Arun]]
+- **Core Beliefs/Customs**
+	- 
+- **Public Agenda**
+# Religious
+
+- **Deities**
+	- Polytheistic
+		- **Sovereign**
+			- [[Fri, Lord of the Crystal Waters]]
+		- **Pantheon**
+			- [[1SP - The Priest]]
+			- [[2SO - The Noble]]
+			- [[3SO - The Actor]]
+			- [[3SP - The Silversmith]]
+			- [[3SX - The Friend]]
+			- [[4SO - The Victim]]
+			- [[5SO - The Professor]]
+			- [[6SO - The Judge]]
+			- [[6SP - The Mother]]
+			- [[7SO - The Martyr]]
+			- [[7SP - The Merchant]]
+			- [[7SX - The Hedon]]
+			- [[8SP - The Farmhand]]
+			- [[9SX - The Dreamer]]
+		- **Saints**
+- **Myths & Legends**
+	- 
+- **Origins**
+	- 
+- **Cosmology**
+	- 
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- [[The Zeitra]]
+- **Holy Sites**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- **Three Truths**
+		- All things are
+		- All things move
+		- All things change
+	- **Isril Hierarchy**
+		- Time; Fate; Fortune
+		- Earth; Water; Wind
+		- Power; Mind; Passion
+- **Priesthood**
+	- 
+- **Ethics**
+	- Vices
+		- [[Conceit]]
+		- [[Cruelty]]
+		- [[Destruction]]
+		- [[Independence]]
+		- [[Indignity]]
+		- [[Loathing]]
+		- [[Neglect]]
+		- [[Perversion]]
+		- [[Prejudice]]
+	- Virtues
+		- [[Compassion]]
+		- [[Conformity]]
+		- [[Creativity]]
+		- [[Dignity]]
+		- [[Discipline]]
+		- [[Dogma]]
+		- [[Hedonism]]
+		- [[Passion]]
+		- [[Wisdom]]
+- **Political Influence**
+	- 
+- **Worship**
+	- 
+- **Holidays**
+	- 
+
+# Ideals
+
+- **Are clergy permitted to marry or must they remain chaste?**
+- **Is this position limited to only certain groups?**
+- **Are totems/images of god(s) permitted or it is viewed as blasphemy?**
+- **How are ceremonies performed for:**
+	- **Weddings?**
+	- **Funerals?**
+	- **Coming of Age?**
+	- **Birth?**
+	- **Other Rituals?**
+- **What does this religion believe happens after death? Does this happen to nonbelievers as well?**
+- **What do they define as sin? How must they atone for it?**
+- **How do followers communicate with their divine power? Do they interact by making offerings?**
+- **What are its thoughts on:**
+	- **Gender Roles?**
+	- **Sex?**
+	- **Nudity?**
+	- **Love?**
+	- **Queer Identity?**
+	- **Substance Use?**
+	- **Murder & Suicide?**
+	- **Social Hierarchies?**
+	- **The Family Unit?**
+	- **Morality?**
+- **What are its thoughts on interfaith marriages? Are they permitted?**
+- **What are its thoughts on nonbelievers? Does this religion have missionaries?**
+- **Do followers of this religion have to follow any dietary restrictions?**
+- **Are there any specific articles of clothing worn during certain rituals? Daily?**
+- **Are there any specific things that are considered taboo by this religion?**
+- **How does it interact with other religions?**
+- **Are there any other sects of this religion? What are their major differences? How do they interact with one another?**

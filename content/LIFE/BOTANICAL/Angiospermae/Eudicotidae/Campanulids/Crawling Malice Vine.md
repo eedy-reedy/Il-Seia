@@ -1,0 +1,55 @@
+# Drawing Board
+- **Afflatus:**
+	- Common Ivy
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+	- [[Speed Dial (Eudicotidae)|Eudicots]]
+	- [[Campanulids]]
+	- [[Crop (Plant)]]
+- **Genetics & Reproduction**
+	- Asexual
+	- Propagation
+- **Diet**
+	- N/A
+- **Habitat**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Alaethia)|Alethia]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Feilu)|Feilu]]
+		- [[General (Litreia)|Esura]]
+		- [[General (Hafna)|Hafna]]
+		- [[General (Harmolipe)|Harmolipi]]
+		- [[General (Hiraeth)|Hiraeth]]
+		- [[General (Isaz)|Isaz]]
+		- [[General (Kveld)|Kveld]]
+		- [[General (Libelle)|Libelle]]
+		- [[General (Morey)|Morey]]
+		- [[General (Storelva)|Storelva]]
+	- Biomes
+		- [[Mediterranean Forests]]
+		- [[Montane Steppes]]
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Taigas|Taigas]]
+		- [[Temperate Forests]]
+		- [[Temperate Steppes]]
+	- Climate
+		- [[Alpine]]
+		- [[Humid Continental]]
+		- [[Mediterranean]]
+		- [[Subarctic]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- Channels [[Trinity]] in a manner similar to [[Bloody Malice]]

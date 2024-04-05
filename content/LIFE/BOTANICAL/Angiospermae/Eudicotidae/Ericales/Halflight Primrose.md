@@ -1,0 +1,46 @@
+# Drawing Board
+- **Afflatus:**
+	- Evening Primrose
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+- [[Speed Dial (Eudicotidae)|Eudicots]]
+	- [[Ericales]]
+	- [[Wild (Plant)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Seed Birth
+- **Diet**
+	- N/A
+- **Habitat**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Hafna)|Hafna]]
+		- [[General (Hiraeth)|Hiraeth]]
+		- [[General (Libelle)|Libelle]]
+		- [[General (Morey)|Morey]]
+	- Biomes
+		- [[Mediterranean Forests]]
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Taigas|Taigas]]
+		- [[Temperate Forests]]
+	- Climate
+		- [[Alpine]]
+		- [[Humid Continental]]
+		- [[Mediterranean]]
+		- [[Subarctic]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

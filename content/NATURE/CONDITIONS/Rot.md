@@ -1,0 +1,28 @@
+# Generic
+- **Origin (Engineered/Magical/Natural)**
+	- Natural
+- **Rarity (Common/Uncommon/Rare/Extremely Rare/Unique)**
+	- Uncommon
+- **Cycle (Short-Term/Chronic Acquired/Chronic Congenital)**
+	- Chronic Acquired; Chronic Congenital
+- **Transmission**
+	- 
+- **Cause**
+	- 
+- **Symptoms**
+	- 
+- **Treatment**
+- **Prognosis**
+	- 
+- **Sequela**
+- **Prevention**
+	- 
+- **Epidemiology**
+	- N/A
+- **History**
+- **Cultural Reception**
+	- 
+- **Affected Groups**
+	- [[Generic (Sages)|Sages]]
+- **Hosts & Carriers**
+	- 

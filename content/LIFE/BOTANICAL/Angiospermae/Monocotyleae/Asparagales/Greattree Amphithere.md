@@ -1,0 +1,35 @@
+# Drawing Board
+- **Afflatus:**
+	- Dragon Tree
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+	- [[Speed Dial (Monocotyleae)|Monocots]]
+	- [[Asparagales]]
+	- [[Wild (Plant)]]
+- **Genetics & Reproduction**
+	- 
+- **Diet**
+	- N/A
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

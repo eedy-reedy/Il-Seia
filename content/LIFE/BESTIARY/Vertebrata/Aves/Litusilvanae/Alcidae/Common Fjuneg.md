@@ -1,0 +1,54 @@
+# Drawing Board
+- **Afflatus**
+	- 
+- **Chimerism**
+	- 
+- **Behavior**
+	- 
+- **Personality**
+	- 
+# Creature Basics
+- **Creature Class:**
+	- [[Beast]]
+	- [[Speed Dial (Aves)|Aves]]
+	- [[Speed Dial (Litusilvanae)|Litusilvanae]]
+	- [[Alcidae]]
+	- [[Wild (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Diet**
+	- Carnivorous
+- **Habitat**
+	- Regions
+		- [[General (Alskar)|Alskar]]
+		- [[General (Hafna)|Hafna]]
+		- [[General (Hiraeth)|Hiraeth]]
+		- [[General (Lumi)|Lumi]]
+		- [[General (Lyot)|Lyot]]
+	- Biomes
+		- [[Oceanic Islands]]
+		- [[Kelp Forests]]
+		- [[Littoral Zone]]
+		- [[Pelagic Zone]]
+		- [[Polar Seas]]
+	- Climate
+		- [[Ice Cap]]
+		- [[Oceanic]]
+		- [[Polar]]
+		- [[Subarctic]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

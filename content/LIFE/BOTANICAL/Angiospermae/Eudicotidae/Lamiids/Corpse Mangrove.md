@@ -1,0 +1,36 @@
+# Drawing Board
+- **Afflatus:**
+	- Mangrove Tree
+- **Chimerism:**
+	- Strangler Fig
+	- Corpse Flower
+- **Behavior:**
+	- Parasitic
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+	- [[Speed Dial (Eudicotidae)|Eudicots]]
+	- [[Lamiids]]
+	- [[Wild (Plant)]]
+- **Genetics & Reproduction**
+	- 
+- **Diet**
+	- N/A
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

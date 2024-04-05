@@ -1,0 +1,43 @@
+# Drawing Board
+- **Afflatus**
+	- Great Turtle
+- **Chimerism**
+	- Size of hippos, 9 ft or so
+	- Long necks for reaching tree leaves
+- **Behavior**
+	- 
+- **Personality**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Reptilia)|Reptilia]]
+	- [[Speed Dial (Testudinata)|Testudinata]]
+	- [[Testudinoidea]]
+	- [[Wild (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- 
+- **Diet**
+	- 
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

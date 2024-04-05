@@ -1,0 +1,43 @@
+# Drawing Board
+- **Afflatus**
+	- Puffins
+- **Chimerism**
+	- 
+- **Behavior**
+	- 
+- **Personality**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Aves)|Aves]]
+	- [[Speed Dial (Litusilvanae)|Litusilvanae]]
+	- [[Alcidae]]
+	- [[Domesticated (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Diet**
+	- 
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

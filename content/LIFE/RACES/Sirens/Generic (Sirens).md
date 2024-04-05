@@ -1,0 +1,78 @@
+# Generic
+
+- **Grammar**
+	- Demonym: 
+	- Plural:
+- **Creature Class**
+	- [[Humanoid]]
+- **Origin/Ancestry**
+	- [[Generic (Dohil)|Dohil]]
+- **Geographic Distribution**
+	- [[Great Western Sea (Redselie)]]
+	- [[Aetikan Sea (Azelda)]]
+	- [[Sea of the Banished (Natspar)]]
+	- [[Sea of Dusk (Djole)]]
+	- [[Kirkjar Ocean (Keselie)]]
+	- [[White Sea (Lohie)]]
+	- [[Sea of Dawn (Ktrove)]]
+	- [[Moreyan Ocean Sparko]]
+- **Related Races**
+	- Acinopterygii Sirens
+	- Cyclostomi Sirens
+	- Elasmobranchii Sirens
+	- Placodermi Sirens
+	- Sarcopterygii Sirens
+- **Perception & Sensory/Extrasensory Capabilities**
+	- Lateral Line
+	- Electroreception ([[Sarcopterygian Siren]], Cartilaginous Siren)
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Growth Rate & Stages**
+	- Average
+		- Infancy: 1-3 years
+		- Childhood: 4-8 years
+		- Puberty: 9-17 years
+		- Adulthood: 18-60
+	- [[Shark Siren]]
+		- Infancy: 1-5 years
+		- Childhood: 6-15 years
+		- Puberty: 16-30 years
+		- Adulthood: 31-100 years
+- **Dietary Needs & Habits**
+	- Omnivorous (Bony Siren); Carnivorous (Cartilaginous Siren)
+- **Behavior & Psychology**
+	- Alignment: [[Chaotic Evil]]
+# Extended
+- **Average Lifespan**
+	- 40 Years (Average); 75 Years ([[Shark Siren]], [[Ray Siren]])
+- **Average Height**
+	- 1-10ft (Bony Siren); 3-15ft (Cartilaginous Siren)
+- **Average Weight**
+	- 5-512lbs (Bony Siren); 46-1152lbs (Cartilaginous Siren)
+- **Characteristics & Features**
+	- Generic
+		- Head
+			- Retains hair
+			- Nictitating membranes over eyes
+			- Gills on neck
+			- Fins in place of ears
+		- Torso
+			- Dorsal fin(s) on back
+		- Arms
+			- Barbed pectoral fins on forearms for slashing prey
+		- Legs
+		- Other
+			- Webbed hands and feet
+			- Tail length should be 0.75x body length and 1x leg width
+- **Body Tint, Coloring, & Marking**
+	- Tint and marking aligns with afflatus
+	- Countershading is placed on the face (below the cheekbones), neck, and torso
+- **Symbiotic & Parasitic Species**
+	- 
+- **Social Structure**
+	- 
+- **Byproducts & Exploitation**
+	- 
+- **Special Trait**
+	- Siren’s Song

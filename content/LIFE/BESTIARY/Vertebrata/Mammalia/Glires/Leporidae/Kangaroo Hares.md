@@ -1,0 +1,48 @@
+# Drawing Board
+- **Afflatus:**
+	- 
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Mammalia)]]
+	- [[Glires]]
+	- [[Leporidae]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Main Trait:**
+	- 
+- **Ability:**
+	- 
+- **Diet:**
+	- Herbivorous
+- **Habitat:**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Morey)|Morey]]
+	- Biomes
+		- [[Flooded Steppes]]
+		- [[Temperate Steppes]]
+	- Climate
+		- [[Humid Continental]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

@@ -1,0 +1,80 @@
+# Generic
+
+- **Grammar**
+	- Demonym: 
+	- Plural:
+- **Creature Class**
+	- [[Humanoid]]
+- **Origin/Ancestry**
+	- [[Generic (Kappa)|Kappa]]
+- **Geographic Distribution**
+	- [[Elendu]]
+	- [[Athelu]]
+	- [[Skagi]]
+	- [[Kirkja]]
+	- [[The Advent]]
+- **Related Races**
+	- Crocodilia Naga
+	- Dinosauria Naga
+	- Rhynchocephalia Naga
+	- Squamata Naga
+	- Testudinata Naga
+- **Perception & Sensory/Extrasensory Capabilities**
+	- Baroreception ([[Crocodilia Naga]])
+	- Infrared Vision ([[Squamata Naga]])
+	- Magnetoreception ([[Turtle Naga]])
+	- Smell w/ Tongue ([[Squamata Naga]])
+	- Vibration Sensitivity ([[Turtle Naga]])
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Growth Rate & Stages**
+	- [[Crocodilia Naga]]
+		- Infancy: 1-5 years
+		- Childhood: 6-15 years
+		- Puberty: 16-30 years
+		- Adulthood: 31-100 years
+	- [[Squamata Naga]]
+		- Infancy: 1-3 years
+		- Childhood: 4-8 years
+		- Puberty: 9-17 years
+		- Adulthood: 18-50 years
+	- [[Turtle Naga]]
+		- Infancy: 1-5 years
+		- Childhood: 6-15 years
+		- Puberty: 16-30 years
+		- Adulthood: 31-120 years
+	- [[Testudinata Naga]]
+		- Infancy: 1-5 years
+		- Childhood: 6-15 years
+		- Puberty: 16-30 years
+		- Adulthood: 31-120 years
+- **Dietary Needs & Habits**
+	- Carnivorous (Average); Omnivorous ([[Turtle Naga]])
+- **Behavior & Psychology**
+	- Alignment: [[Lawful Evil]]
+# Extended
+- **Average Lifespan**
+	- 
+- **Average Height**
+	- 2-8ft; (Average); 4-12ft ([[Crocodilia Naga]]); 3ft ([[Testudinata Naga]])
+- **Average Weight**
+	- 20-328lbs; (Average); 82-748lbs ([[Crocodilia Naga]]); 46lbs ([[Testudinata Naga]]) 
+- **Characteristics & Features**
+	- Generic
+		- Head
+		- Torso
+		- Arms
+		- Legs
+		- Other
+			- Sheds skin 6 times per year in sync with seasons
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Symbiotic & Parasitic Species**
+	- 
+- **Social Structure**
+	- 
+- **Byproducts & Exploitation**
+	- 
+- **Special Trait**
+	- Petrification (Stone)

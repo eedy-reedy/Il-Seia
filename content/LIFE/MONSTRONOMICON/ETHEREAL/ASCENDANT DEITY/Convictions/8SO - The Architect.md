@@ -1,0 +1,92 @@
+# Enneagram
+
+**8SO - Solidarity**
+*Social Eights express lust and aggression in the service of others. A social antisocial person, this is the countertype of the Eights, a helpful Eight who appears less aggressive and more loyal than the other two Eight subtypes. The name “Solidarity” emphasizes their tendency to offer help when people need protection.*
+# Generic
+- **Aliases/Titles**
+	- [[Ekliha Signai]] ([[Kavora]])
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Colosseum of Kartaath (Challengers)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Civilization
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Chaotic Good]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Conceit]]
+		- [[Cruelty]]
+		- [[Destruction]]
+		- [[Dissonance]]
+		- [[Greed]]
+		- [[Hedonism]]
+		- [[Independence]]
+		- [[Possession]]
+		- [[Prejudice]]
+	- Virtues
+		- [[Conformity]]
+		- [[Dedication]]
+		- [[Dignity]]
+		- [[Discipline]]
+		- [[Honesty]]
+		- [[Justice]]
+		- [[Loyalty]]
+		- [[Protection]]
+		- [[Wisdom]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Isaz Alf]]
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 8 - The Challenger]]
+		- **Basic Fear:** Of being harmed or controlled by others
+		- **Basic Desire:** To protect themselves (to be in control of their own life  
+		- **Key Motivations:** Want to be self-reliant, to prove their strength and resist weakness, to be important in their world, to dominate the environment, and to stay in control of their situation.
+		- **Level 5:** Begin to dominate their environment, including others: want to feel that others are behind them, supporting their efforts. Swaggering, boastful, forceful, and expansive: the "boss" whose word is law. Proud, egocentric, want to impose their will and vision on everything, not seeing others as equals or treating them with respect.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

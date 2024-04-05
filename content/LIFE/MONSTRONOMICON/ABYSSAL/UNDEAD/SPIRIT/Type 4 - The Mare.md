@@ -1,0 +1,1 @@
+*Despairing, feel hopeless and become self-destructive, possibly abusing alcohol or drugs to escape. In the extreme: emotional breakdown or suicide is likely. Generally corresponds to the Avoidant, Depressive, and Narcissistic personality disorders.*

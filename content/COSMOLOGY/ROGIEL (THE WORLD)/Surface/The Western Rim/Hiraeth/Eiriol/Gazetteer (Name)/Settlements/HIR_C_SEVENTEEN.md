@@ -1,0 +1,49 @@
+# Generic
+- **Class**
+	- 
+- **Parent Location**
+	- 
+- **Founding Date**
+	- 
+- **Founders**
+	- 
+- **Destruction Date**
+	- 
+- **Ruler**
+	- 
+- **Owning Rank**
+	- 
+- **Owning Organization**
+	- 
+- **Alternative Names**
+	- 
+- **Population**
+	- 
+- **Demonym**
+	- 
+- **Related Species/Races**
+	- 
+- **Government**
+	- 
+- **Infrastructure**
+	- 
+- **Districts**
+	- 
+- **Assets**
+	- 
+- **Defences**
+	- 
+- **Imports**
+	- 
+- **Exports**
+	- 
+- **Guilds & Factions**
+	- 
+- **History**
+	- 
+- **Points of Interest**
+	- 
+- **Architecture**
+	- 
+- **Geography**
+	- 

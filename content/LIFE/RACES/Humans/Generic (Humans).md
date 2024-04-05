@@ -1,0 +1,57 @@
+# Generic
+
+- **Grammar**
+	- Demonym: 
+	- Plural:
+- **Creature Class**
+	- [[Humanoid]]
+- **Origin/Ancestry**
+	- [[Generic (Alves)|Alves]]
+- **Geographic Distribution**
+	- [[The Western Rim]]
+	- [[Aetika]]
+	- [[The Advent]]
+	- [[Skagi]]
+- **Related Races**
+	- [[Morey Human]]
+	- [[Old Cerul Human]]
+	- [[East Libelle Human]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- Average as fuck. Poor them
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Growth Rate & Stages**
+	- Average
+		- Infancy: 1-3 years
+		- Childhood: 4-8 years
+		- Puberty: 9-17 years
+		- Adulthood: 18-60 years
+- **Dietary Needs & Habits**
+	- Omnivorous
+- **Behavior & Psychology**
+	- Alignment: [[Neutral Evil]]
+# Extended
+- **Average Lifespan**
+	- 40 years
+- **Average Height**
+	- 5-6ft (Average)
+- **Average Weight**
+	- 128-183lbs (Average)
+- **Characteristics & Features**
+	- Generic
+		- Head
+		- Torso
+		- Arms
+		- Legs
+		- Other
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Symbiotic & Parasitic Species**
+	- 
+- **Social Structure**
+	- 
+- **Byproducts & Exploitation**
+	- 
+- **Special Trait**
+	- Average as fuck but exceptional in their own right

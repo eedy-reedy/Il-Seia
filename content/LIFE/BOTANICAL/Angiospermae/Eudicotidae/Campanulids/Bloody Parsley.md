@@ -1,0 +1,63 @@
+# Drawing Board
+- **Afflatus:**
+	- Parsley
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+	- [[Speed Dial (Eudicotidae)|Eudicots]]
+	- [[Campanulids]]
+	- [[Crop (Plant)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Seed Birth
+- **Diet**
+	- N/A
+- **Habitat**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Alaethia)|Alethia]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Koromaea)|Coromea]]
+		- [[General (Ersan)|Ersan]]
+		- [[General (Litreia)|Esura]]
+		- [[General (Harmolipe)|Harmolipi]]
+		- [[General (Ibere)|Ibere]]
+		- [[General (Etra)|Ilsu]]
+		- [[General (Isaz)|Isaz]]
+		- [[General (Kveld)|Kveld]]
+		- [[General (Surusa)|Leir]]
+		- [[General (Maen Alae)|Maen Alae]]
+		- [[General (Morey)|Morey]]
+		- [[General (Pavitra)|Pavitra]]
+		- [[General (Sahalas)|Seleilu]]
+		- [[General (Storelva)|Storelva]]
+		- [[General (Suay)|Suay]]
+	- Biomes
+		- [[Mediterranean Forests]]
+		- [[Montane Steppes]]
+		- [[Temperate Forests]]
+		- [[Temperate Steppes]]
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Taigas|Taigas]]
+		- [[Temperate Forests]]
+		- [[Tropical Forests]]
+	- Climate
+		- [[Alpine]]
+		- [[Humid Continental]]
+		- [[Humid Subtropical]]
+		- [[Mediterranean]]
+		- [[Semi-Arid]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

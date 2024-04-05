@@ -1,0 +1,92 @@
+# Enneagram
+
+**2SX - Seduction**
+*Sexual Twos seduce specific individuals as a way of getting needs met and feeding their pride. Similar to the “femme fatale” archetype (and male equivalent) this Two employs the methods of classical seduction to attract a partner who will meet all their needs and give them whatever they want. The name “Aggressive-Seductive” suggests a character who is appealing, but who also wants to wield some power. Energetically like a force of nature, this is a person who becomes irresistible, who inspires great passions and positive feelings as a way to meet needs in life.*
+# Generic
+- **Aliases/Titles**
+	- [[Komie]] ([[Vokelie]])
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Church of Eihaat (Helpers)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Lust
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Chaotic Evil]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Dignity]]
+		- [[Discipline]]
+		- [[Honesty]]
+		- [[Humility]]
+		- [[Insecurity]]
+		- [[Justice]]
+		- [[Loyalty]]
+		- [[Selflessness]]
+		- [[Sobriety]]
+	- Virtues
+		- [[Conceit]]
+		- [[Creativity]]
+		- [[Dissonance]]
+		- [[Greed]]
+		- [[Hedonism]]
+		- [[Indignity]]
+		- [[Loathing]]
+		- [[Perversion]]
+		- [[Possession]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Chondrostei Siren]] (Viperfish)
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 2 - The Helper]]
+		- **Basic Fear:** Of being unwanted, unworthy of being loved
+		- **Basic Desire:** To feel loved
+		- **Key Motivations:** Want to be loved, to express their feelings for others, to be needed and appreciated, to get others to respond to them, to vindicate their claims about themselves.
+		- **Level 9:** Able to excuse and rationalize what they do since they feel abused and victimized by others and are bitterly resentful and angry. Somatization of their aggressions results in chronic health problems as they vindicate themselves by "falling apart" and burdening others. Generally corresponds to the Histrionic Personality Disorder and Factitious Disorder.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

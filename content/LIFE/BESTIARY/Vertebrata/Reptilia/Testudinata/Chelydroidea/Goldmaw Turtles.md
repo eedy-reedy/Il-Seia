@@ -1,0 +1,43 @@
+# Drawing Board
+- **Afflatus**
+	- Snapping Turtle
+- **Chimerism**
+	- 
+- **Behavior**
+	- Gold shiny scales on tongue
+- **Personality**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Reptilia)|Reptilia]]
+	- [[Speed Dial (Testudinata)|Testudinata]]
+	- [[Chelydroidea]]
+	- [[Wild (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- 
+- **Diet**
+	- Carnivorous
+		- 
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

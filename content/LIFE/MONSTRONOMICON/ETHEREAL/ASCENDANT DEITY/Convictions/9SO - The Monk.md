@@ -1,0 +1,92 @@
+# Enneagram
+
+**9SO - Participation**
+*Social Nines fuse with groups. They act out laziness when connecting with their own inner life by working hard to be a part of the different groups in their lives. Fun-loving, sociable, and congenial characters, Social Nines can be workaholics, prioritizing the group’s needs above their own. This high level of activity makes them the countertype of the three Nine subtypes.*
+# Generic
+- **Aliases/Titles**
+	- The Stayed
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Skyway of Seliaath (Peacemakers)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Patience
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Lawful Good]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Conceit]]
+		- [[Cruelty]]
+		- [[Destruction]]
+		- [[Dishonesty]]
+		- [[Dissonance]]
+		- [[Greed]]
+		- [[Insecurity]]
+		- [[Neglect]]
+		- [[Prejudice]]
+	- Virtues
+		- [[Compassion]]
+		- [[Courage]]
+		- [[Dedication]]
+		- [[Dignity]]
+		- [[Discipline]]
+		- [[Honesty]]
+		- [[Humility]]
+		- [[Justice]]
+		- [[Wisdom]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Paenungulate Faun]] (Wooly Mammoth)
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 9 - The Peacemaker]]
+		- **Basic Fear:** Of loss and separation
+		- **Basic Desire:** To have inner stability "peace of mind"
+		- **Key Motivations:** Want to create harmony in their environment, to avoid conflicts and tension, to preserve things as they are, to resist whatever would upset or disturb them.
+		- **Level 1 (At Their Best):** Become self-possessed, feeling autonomous and fulfilled: have great equanimity and contentment because they are present to themselves. Paradoxically, at one with self, and thus able to form more profound relationships. Intensely alive, fully connected to self and others.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

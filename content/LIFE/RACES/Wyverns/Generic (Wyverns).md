@@ -1,0 +1,52 @@
+# Generic
+
+- **Grammar**
+	- Demonym: 
+	- Plural:
+- **Creature Class**
+	- [[Humanoid]]
+- **Origin/Ancestry**
+	- 
+- **Geographic Distribution**
+	- 
+- **Related Races**
+	- Pterosauria Wyverns
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Growth Rate & Stages**
+	- Average
+		- Infancy: 
+		- Childhood: 
+		- Puberty: 
+		- Adulthood: 
+- **Dietary Needs & Habits**
+	- 
+- **Behavior & Psychology**
+	- Alignment: [[Chaotic Evil]]
+# Extended
+- **Average Lifespan**
+	- 
+- **Average Height**
+	- 
+- **Average Weight**
+	- 
+- **Characteristics & Features**
+	- Generic
+		- Head
+		- Torso
+		- Arms
+		- Legs
+		- Other
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Symbiotic & Parasitic Species**
+	- 
+- **Social Structure**
+	- 
+- **Byproducts & Exploitation**
+	- 
+- **Special Trait**
+	- 

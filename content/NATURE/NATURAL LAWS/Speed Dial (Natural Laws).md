@@ -1,0 +1,2 @@
+# Generic
+- [[Solar Tetreclipses]]

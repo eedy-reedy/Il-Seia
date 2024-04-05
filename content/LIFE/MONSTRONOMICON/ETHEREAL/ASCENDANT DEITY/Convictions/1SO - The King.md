@@ -1,0 +1,92 @@
+# Enneagram
+
+**1SO - Inadaptibility**
+*Social Ones (unconsciously) consider themselves to be perfect; they express anger through focusing on being the perfect model of “the right way” to be. They have a teacher mentality that reflects an unconscious need for superiority. In the Social One, anger is half-hidden—there’s a transformation of the heat of anger into cold. This is a cooler, intellectual personality type in which the main theme is control.*
+# Generic
+- **Aliases/Titles**
+	- The King
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Festival of Siskriaat (Reformers)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Tyranny
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Lawful Evil]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Compassion]]
+		- [[Conformity]]
+		- [[Cowardice]]
+		- [[Honesty]]
+		- [[Humility]]
+		- [[Insecurity]]
+		- [[Loyalty]]
+		- [[Selflessness]]
+		- [[Weakness]]
+	- Virtues
+		- [[Charisma]]
+		- [[Conceit]]
+		- [[Courage]]
+		- [[Cruelty]]
+		- [[Destruction]]
+		- [[Dogma]]
+		- [[Greed]]
+		- [[Loathing]]
+		- [[Possession]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Dinosauria Naga]] (Tyrannosaurus Rex)
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 1 - The Reformer]]
+		- **Basic Fear:** Of being corrupt/evil, defective
+		- **Basic Desire:** To be good, to have integrity, to be balanced
+	- **Key Motivations:** Want to be right, to strive higher and improve everything, to be consistent with their ideals, to justify themselves, to be beyond criticism so as not to be condemned by anyone.
+	- **Level 9:** Become condemnatory toward others, punitive and cruel to rid themselves of wrongdoers. Severe depressions, nervous breakdowns, and suicide attempts are likely. Generally corresponds to the Obsessive-Compulsive and Depressive personality disorders.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

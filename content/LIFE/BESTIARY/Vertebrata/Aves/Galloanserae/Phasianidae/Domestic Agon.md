@@ -1,0 +1,49 @@
+# Drawing Board
+- **Afflatus**
+	- 
+- **Chimerism**
+	- 
+- **Behavior**
+	- 
+- **Personality**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Aves)|Aves]]
+	- [[Speed Dial (Galloanserae)|Galloanserae]]
+	- [[Phasianidae]]
+	- [[Livestock (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Diet**
+	- Omnivorous
+		- 
+- **Habitat**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Morey)|Morey]]
+	- Biomes
+		- [[Temperate Steppes]]
+	- Climate
+		- [[Humid Continental]]
+		- [[Humid Subtropical]]
+		- [[Mediterranean]]
+		- [[Tropical Savanna]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

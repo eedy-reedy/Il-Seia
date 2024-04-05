@@ -1,0 +1,92 @@
+# Enneagram
+
+**3SX - Charisma**
+*Sexual Threes focus on achievement in terms of personal attractiveness and supporting others. In this Three, vanity is not denied (as in the SP Three) nor embraced (as in the Social Three), but is somewhere in between: it’s employed in the service of creating an attractive image and promoting important others. These threes have a harder time talking about themselves and often put the focus on others they want to promote. They put a lot of energy into pleasing others and they have a family/team mentality.*
+# Generic
+- **Aliases/Titles**
+	- The Friend
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Peaks of Vakiaath (Achievers)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Love
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Neutral Good]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Cruelty]]
+		- [[Dishonesty]]
+		- [[Destruction]]
+		- [[Greed]]
+		- [[Insecurity]]
+		- [[Loathing]]
+		- [[Neglect]]
+		- [[Perversion]]
+		- [[Prejudice]]
+	- Virtues
+		- [[Charisma]]
+		- [[Compassion]]
+		- [[Dedication]]
+		- [[Dignity]]
+		- [[Honesty]]
+		- [[Humility]]
+		- [[Loyalty]]
+		- [[Passion]]
+		- [[Protection]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Urodela Kappa]] (Axolotl)
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 3 - The Achiever]]
+		- **Basic Fear:** Of being worthless
+		- **Basic Desire:** To feel valuable and worthwhile
+		- **Key Motivations:** Want to be affirmed, to distinguish themselves from others, to have attention, to be admired, and to impress others.
+		- **Level 1 (At Their Best):** Self-accepting, inner-directed, and authentic, everything they seem to be. Modest and charitable, self-deprecatory humor and a fullness of heart emerge. Gentle and benevolent.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

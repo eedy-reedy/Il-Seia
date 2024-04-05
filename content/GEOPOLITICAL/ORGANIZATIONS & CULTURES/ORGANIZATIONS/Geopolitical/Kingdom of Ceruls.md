@@ -1,0 +1,48 @@
+# Generic
+- **Motto/Slogan/Axiom**
+- **Alternative Names/Aliases**
+- **Demonym**
+	- Cerulic
+- **Founding Date**
+- **Leader**
+- **Parent Organization**
+- **Leader Title**
+- **Founders**
+- **Regional Spread**
+	- [[General (Cerul)|Cerul]]
+- **Related Species/Races**
+	- [[Generic (Alves)|Alf]]
+		- [[Mainland Kirkja Alf]]
+	- [[Generic (Humans)|Human]]
+		- [[Morey Human]]
+		- [[Old Cerul Human]]
+	- [[Generic (Sages)|Sage]]
+		- [[Gnetidae Sages]]
+- **Related Cultures**
+	- 
+- **Hierarchy**
+# Geopolitical
+- **Capital**
+- **Head of State**
+- **Government System**
+	- [[Monarchy]]
+- **Power Structure System**
+	- [[Confederation]]
+- **Economic System**
+	- [[Mixed Economy]]
+- **Recognized/Official Languages**
+	- [[Proto-Etskar]]
+	- [[Druil Language]]
+	- [[Proto-Soman]]
+- **Gazetteer**
+- **Official Currency**
+	- [[Kingshand]]
+- **Laws**
+- **Agriculture and Industry**
+- **Imports**
+- **Exports**
+- **Technological Level**
+	- [[Medieval Age]]
+# Religious
+- **Official State Religion**
+	- [[Averyism]] (Sect of the Mother)

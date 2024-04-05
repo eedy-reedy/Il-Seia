@@ -1,0 +1,1 @@
+*Hysterical, and seeking to escape punishment, they become self-destructive and suicidal. Alcoholism, drug overdoses, self-abasing behavior. Generally corresponds to the Passive-Aggressive and Paranoid personality disorders.*

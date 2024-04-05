@@ -1,0 +1,92 @@
+# Enneagram
+
+**5SO - Totem**
+*The Social Five expresses avarice through a need for “super-ideals,” relating to others with common interests through knowledge and shared values (rather than emotional connection). In this Five, avarice is connected to knowledge. Needs for people and for the sustenance that relationships provide get channeled into a thirst for information. “Totem” refers to a passion for high ideals, the need to idealize experts and seek knowledge connected to whatever ultimate values this Five adheres to. Social Fives engage in a search for the ultimate meaning to avoid experiencing life as meaningless.*
+# Generic
+- **Aliases/Titles**
+	- The Thoughtful
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Library of Pseliaat (Investigators)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Knowledge
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Lawful Neutral]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Conformity]]
+		- [[Cowardice]]
+		- [[Destruction]]
+		- [[Dishonesty]]
+		- [[Hedonism]]
+		- [[Indignity]]
+		- [[Insecurity]]
+		- [[Neglect]]
+		- [[Prejudice]]
+	- Virtues
+		- [[Creativity]]
+		- [[Dedication]]
+		- [[Discipline]]
+		- [[Dogma]]
+		- [[Honesty]]
+		- [[Passion]]
+		- [[Romanticism]]
+		- [[Sobriety]]
+		- [[Wisdom]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Cephalopoda Kanaloa]] (Giant Pacific Octopus)
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 5 - The Investigator]]
+		- **Basic Fear:** Being useless, helpless, or incapable
+		- **Basic Desire:** To be capable and competent
+		- **Key Motivations:** Want to possess knowledge, to understand the environment, to have everything figured out as a way of defending the self from threats from the environment.
+		- **Level 5:** Increasingly detached as they become involved with complicated ideas or imaginary worlds. Become preoccupied with their visions and interpretations rather than reality. Are fascinated by off-beat, esoteric subjects, even those involving dark and disturbing elements. Detached from the practical world, a "disembodied mind," although high-strung and intense.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

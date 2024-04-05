@@ -1,0 +1,92 @@
+# Enneagram
+
+**7SO - Sacrifice**
+*As the countertype, Social Sevens go against gluttony through conscientious efforts to be of service to others. Conscious of wanting to avoid exploiting others, they have a need to be good and pure and to sacrifice their own needs in supporting the needs of others. They have a passion for being seen as good for the sacrifice of their own desires. They express an ascetic ideal and make a virtue of getting by on little. They express idealism and enthusiasm as a way of making themselves feel active and valued in the world.*
+# Generic
+- **Aliases/Titles**
+	- [[Alumi Sersia]] ([[Isra (Main Branch)]])
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Springs of Eihapriaath (Enthusiasts)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Balance
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Neutral Evil]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Conceit]]
+		- [[Cruelty]]
+		- [[Destruction]]
+		- [[Dissonance]]
+		- [[Greed]]
+		- [[Hedonism]]
+		- [[Neglect]]
+		- [[Perversion]]
+		- [[Possession]]
+	- Virtues
+		- [[Dedication]]
+		- [[Discipline]]
+		- [[Dogma]]
+		- [[Honesty]]
+		- [[Humility]]
+		- [[Indignity]]
+		- [[Justice]]
+		- [[Selflessness]]
+		- [[Weakness]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Gnetales Sages]]
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 7 - The Enthusiast]]
+		- **Basic Fear:** Of being deprived and in pain
+		- **Basic Desire:** To be satisfied and content—to have their needs fulfilled
+		- **Key Motivations:** Want to maintain their freedom and happiness, to avoid missing out on worthwhile experiences, to keep themselves excited and occupied, to avoid and discharge pain.
+		- **Level 9:** Finally, their energy and health is completely spent: become claustrophobic and panic-stricken. Often give up on themselves and life: deep depression and despair, self-destructive overdoses, impulsive suicide. Generally corresponds to the Bipolar disorder and Histrionic personality disorder.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

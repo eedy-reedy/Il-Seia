@@ -1,0 +1,44 @@
+# Drawing Board
+- **Afflatus**
+	- 
+- **Chimerism**
+	- 
+- **Behavior**
+	- 
+- **Personality**
+	- 
+# Creature Basics
+- **Class**
+	- [[LIFE/CREATURE CLASSES/Magical Beast|Magical Beast]]
+- **Rarity (Uncommon/Rare/Unique)**
+	- Rare
+- **Power Level**
+	- 
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- 
+- **Diet**
+	- 
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Appearance
+		- 
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

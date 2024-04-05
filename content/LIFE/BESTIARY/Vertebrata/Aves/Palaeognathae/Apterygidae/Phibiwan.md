@@ -1,0 +1,45 @@
+# Drawing Board
+- **Afflatus**
+	- Kiwi
+- **Chimerism**
+	- Has body shape of an ostrich but stays small
+	- Incredibly cute
+- **Behavior**
+	- Extremely aggressive and territorial, will attack anything
+	- Burrows underground to escape predators
+- **Personality**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Aves)|Aves]]
+	- [[Speed Dial (Palaeognathae)|Palaeognathae]]
+	- [[Apterygidae]]
+	- [[Wild (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Diet**
+	- 
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

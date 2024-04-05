@@ -1,0 +1,22 @@
+# INSPIRED
+- [[Barbers]]
+- [[Butlers]]
+- [[Carriers]]
+- [[Chamberlains]]
+- [[Cooks]]
+- [[Executioners]]
+- [[Governesses]]
+- [[Herbalists]]
+- [[Launderers]]
+- [[Maids]]
+- [[Marshals]]
+- [[Milkmen]]
+- [[Millers]]
+- [[Naperers]]
+- [[Pages]]
+- [[Prostitutes]]
+- [[Servants]]
+- [[Slaves]]
+- [[Stewards]]
+# ORIGINAL
+- 

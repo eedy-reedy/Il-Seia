@@ -1,0 +1,53 @@
+# Drawing Board
+- **Afflatus**
+	- 
+- **Chimerism**
+	- 
+- **Behavior**
+	- 
+- **Personality**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Aves)|Aves]]
+	- [[Speed Dial (Aequorlitornithes)|Aequorlitornithes]]
+	- [[Balaenicipitidae]]
+	- [[Wild (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Diet**
+	- Carnivorous
+- **Habitat**
+	- Regions
+		- [[General (Cerul)|Cerul]]
+	- Biomes
+		- [[Flooded Steppes]]
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Mangroves|Mangroves]]
+		- [[Large Lakes]]
+		- [[Large River Deltas]]
+		- [[Temperate Coastal Rivers]]
+		- [[Temperate Floodplain Rivers]]
+		- [[Tropical Coastal Rivers]]
+		- [[Tropical Floodplain Rivers]]
+	- Climate
+		- [[Humid Continental]]
+		- [[Humid Subtropical]]
+		- [[Mediterranean]]
+		- [[Tropical Monsoon]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

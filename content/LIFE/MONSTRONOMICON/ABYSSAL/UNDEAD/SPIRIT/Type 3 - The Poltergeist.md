@@ -1,0 +1,1 @@
+*Become vindictive, attempting to ruin others' happiness. Relentless, obsessive about destroying whatever reminds them of their own shortcomings and failures. Psychopathic behavior. Generally corresponds to the Narcissistic Personality Disorder.*

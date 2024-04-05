@@ -1,0 +1,1 @@
+*They finally become severely disoriented and catatonic, abandoning themselves, turning into shattered shells. Multiple personalities possible. Generally corresponds to the Schizoid and Dependent personality disorders.*

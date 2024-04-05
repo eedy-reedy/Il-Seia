@@ -1,0 +1,26 @@
+# Drawing Board
+- **Afflatus:**
+	- 
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+	- [[Speed Dial (Monocotyleae)|Monocots]]
+	- [[Commelinids]]
+	- [[Crop (Plant)]]
+- **Main Trait:**
+	- 
+- **Ability:**
+	- 
+- **Diet:**
+	- 
+- **Habitat:**
+	- Regions:
+		- 
+	- Biomes
+		- 
+- **Body:**
+	- 

@@ -1,0 +1,58 @@
+# Drawing Board
+- **Afflatus:**
+	- 
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Mammalia)]]
+	- [[Carnivora]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Diet**
+	- Carnivorous
+		- [[Beavers]]
+		- Carrion
+		- [[Elk]]
+		- [[Giant Squirrels]]
+		- [[Marmots]]
+		- [[Reindeer]]
+		- [[Common Sheep]]
+		- [[Snowshoe Hares]]
+- **Habitat**
+	- Regions
+		- [[General (Alskar)|Alskar]]
+		- [[General (Hafna)|Hafna]]
+		- [[General (Hiraeth)|Hiraeth]]
+		- [[General (Libelle)|Libelle]]
+		- [[General (Lumi)|Lumi]]
+	- Biomes
+		- [[Flooded Steppes]]
+		- [[Montane Steppes]]
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Taigas|Taigas]]
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Tundra|Tundra]]
+	- Climate
+		- [[Alpine]]
+		- [[Polar]]
+		- [[Subarctic]]
+		- [[NATURE/BIOMES & CLIMATES/Climates/Tundra|Tundra]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

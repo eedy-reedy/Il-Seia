@@ -1,0 +1,49 @@
+# Generic
+- **Grammar**
+	- Demonym:
+	- Plural:
+- **Afflatus**
+	- Pinnipeds
+- **Origin/Ancestry**
+	- 
+- **Geographic Distribution**
+# Extended
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Social Structure**
+	- 
+- **Special Trait**
+	- 
+# Sapience
+- **History**
+	- 
+- **Naming Traditions**
+	- 
+- **Major Subcultures**
+	- 
+- **Beauty Ideals**
+	- 
+- **Gender Ideals**
+	- 
+- **Courtship Ideals**
+	- 
+- **Relationship Ideals**
+	- 
+- **Major Language Groups & Dialects**
+	- 
+- **Common Etiquette**
+	- 
+- **Dress Code**
+	- 
+- **Culture & Cultural Heritage**
+	- 
+- **Common Customs & Observed Traditions**
+	- 
+- **Taboos**
+	- 
+- **Religion**
+	- Myths & Legends
+- **Major Historical Figures**
+	- 
+- **Interracial Relations**
+	- 

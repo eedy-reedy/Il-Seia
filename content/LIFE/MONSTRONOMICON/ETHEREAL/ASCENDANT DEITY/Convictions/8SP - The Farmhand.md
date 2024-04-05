@@ -1,0 +1,92 @@
+# Enneagram
+
+**8SP - Satisfaction**
+*Self-Preservation Eights express the passion of lust through a focus on getting what they need for survival. SP Eights have a strong desire for the timely satisfaction of material needs and an intolerance for frustration. SP Eights know how to survive in difficult situations and feel omnipotent when it comes to getting what they need. They are the least expressive and the most armed of the three Eight subtypes.*
+# Generic
+- **Aliases/Titles**
+	- The Harvest
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Colosseum of Kartaath (Challengers)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Agriculture
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Chaotic Neutral]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Conceit]]
+		- [[Cruelty]]
+		- [[Destruction]]
+		- [[Dishonesty]]
+		- [[Dissonance]]
+		- [[Loathing]]
+		- [[Neglect]]
+		- [[Romanticism]]
+		- [[Weakness]]
+	- Virtues
+		- [[Creativity]]
+		- [[Dedication]]
+		- [[Discipline]]
+		- [[Greed]]
+		- [[Independence]]
+		- [[Passion]]
+		- [[Possession]]
+		- [[Protection]]
+		- [[Wisdom]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Hymenoptera Iktomi]] (Honey Bee)
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 8 - The Challenger]]
+		- **Basic Fear:** Of being harmed or controlled by others
+		- **Basic Desire:** To protect themselves (to be in control of their own life  
+		- **Key Motivations:** Want to be self-reliant, to prove their strength and resist weakness, to be important in their world, to dominate the environment, and to stay in control of their situation.
+		- **Level 1 (At Their Best):** Become self-restrained and magnanimous, merciful and forbearing, mastering self through their self-surrender to a higher authority. Courageous, willing to put self in serious jeopardy to achieve their vision and have a lasting influence. May achieve true heroism and historical greatness.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

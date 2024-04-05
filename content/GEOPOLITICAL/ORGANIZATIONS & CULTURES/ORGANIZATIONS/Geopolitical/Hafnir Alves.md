@@ -1,0 +1,45 @@
+# Generic
+- **Motto/Slogan/Axiom**
+- **Alternative Names/Aliases**
+- **Demonym**
+	- Hafnir
+- **Founding Date**
+- **Leader**
+- **Parent Organization**
+- **Leader Title**
+- **Founders**
+- **Regional Spread**
+	- [[General (Hafna)|Hafna]]
+- **Related Species/Races**
+	- [[Generic (Alves)|Alf]]
+		- [[Mainland Kirkja Alf]]
+	- [[Generic (Sages)|Sage]]
+- **Related Cultures**
+	- 
+- **Hierarchy**
+# Geopolitical
+- **Capital**
+- **Head of State**
+- **Government System**
+	- [[Kratocracy]]
+- **Power Structure System**
+	- [[Autonomous Area]]
+- **Economic System**
+	- [[Barter System]]
+- **Recognized/Official Languages**
+	- [[Proto-Etskar]]
+	- [[Druil Language]]
+- **Gazetteer**
+- **Official Currency**
+	- N/A
+- **Laws**
+- **Agriculture and Industry**
+- **Imports**
+	- N/A
+- **Exports**
+	- N/A
+- **Technological Level**
+	- [[Medieval Age]]
+# Religious
+- **Official State Religion**
+	- [[Kavora]]

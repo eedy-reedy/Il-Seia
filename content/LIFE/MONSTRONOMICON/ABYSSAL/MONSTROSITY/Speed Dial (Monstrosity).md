@@ -1,0 +1,6 @@
+# SOCIAL
+- 
+# ASOCIAL
+- 
+# ANTISOCIAL
+- 

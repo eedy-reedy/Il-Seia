@@ -1,0 +1,2 @@
+# Generic
+*Characters or objects that can destroy or significantly damage extremely resistant materials such as stone, metal or steel, as well as similarly resistant parts of constructions such as structural boulders and walls.*

@@ -1,0 +1,53 @@
+# Drawing Board
+- **Afflatus**
+	- 
+- **Chimerism**
+	- 
+- **Behavior**
+	- 
+- **Personality**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Aves)|Aves]]
+	- [[Speed Dial (Hieraves)]]
+	- [[Accipitridae]]
+	- [[Wild (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Diet**
+	- Carnivorous
+- **Habitat**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Ersan)|Ersan]]
+		- [[General (Litreia)|Esura]]
+		- [[General (Etra)|Ilsu]]
+		- [[General (Surusa)|Leir]]
+		- [[General (Lemeinsi)|Lemeinsi]]
+		- [[General (Sahalas)|Seleilu]]
+	- Biomes
+		- [[Temperate Coastal Rivers]]
+		- [[Littoral Zone]]
+	- Climate
+		- [[Humid Continental]]
+		- [[Humid Subtropical]]
+		- [[Mediterranean]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

@@ -1,0 +1,44 @@
+# Drawing Board
+- **Afflatus:**
+	- Common Oat
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+	- [[Speed Dial (Monocotyleae)|Monocots]]
+	- [[Commelinids]]
+	- [[Crop (Plant)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Seed Birth
+- **Diet**
+	- N/A
+- **Habitat**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Hiraeth)|Hiraeth]]
+		- [[General (Libelle)|Libelle]]
+		- [[General (Morey)|Morey]]
+	- Biomes
+		- [[Flooded Steppes]]
+		- [[Montane Steppes]]
+		- [[Temperate Steppes]]
+	- Climate
+		- [[Alpine]]
+		- [[Humid Continental]]
+		- [[Subarctic]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

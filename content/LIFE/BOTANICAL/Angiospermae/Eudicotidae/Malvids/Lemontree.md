@@ -1,0 +1,35 @@
+# Drawing Board
+- **Afflatus:**
+	- Lemons
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- Far more sour than normal lemon
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+	- [[Speed Dial (Eudicotidae)|Eudicots]]
+	- [[Malvids]]
+	- [[Crop (Plant)]]
+- **Genetics & Reproduction**
+	- 
+- **Diet**
+	- N/A
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- Orange Coloring
+- **Byproducts & Exploitation**
+	- 

@@ -1,0 +1,50 @@
+# Properties
+- **Taste**
+	- 
+- **Odor**
+	- 
+- **Color**
+	- 
+- **Common Found State**
+	- 
+- **Physical Characteristics**
+	- 
+- **Properties**
+	- Sedative
+	- Painkiller
+- **Compounds**
+	- 
+- **Geology/Geography**
+	- 
+- **Origin**
+	- [[Silent Banshee]]
+# Usage
+- **History**
+	- 
+- **Discovery**
+	- 
+- **Common Use**
+	- 
+- **Cultural Use**
+	- 
+- **Refinement**
+	- 
+- **Manufacturing/Products**
+	- 
+- **Byproducts**
+	- 
+- **Hazards**
+	- 
+- **Environmental Impact**
+	- 
+# Distribution
+- **Value**
+	- 
+- **Rarity**
+	- Rare
+- **Trade & Market**
+	- 
+- **Storage**
+	- 
+- **Law & Regulation**
+	- 

@@ -1,0 +1,43 @@
+# Drawing Board
+- **Afflatus**
+	- Wall Lizards
+- **Chimerism**
+	- 
+- **Behavior**
+	- Hides in cracks in walls and ceilings
+- **Personality**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Reptilia)|Reptilia]]
+	- [[Speed Dial (Squamata)|Squamata]]
+	- [[Lacertidae]]
+	- [[Wild (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- 
+- **Diet**
+	- Carnivorous
+		- 
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

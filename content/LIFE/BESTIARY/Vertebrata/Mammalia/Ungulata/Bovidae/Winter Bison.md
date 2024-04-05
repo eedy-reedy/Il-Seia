@@ -1,0 +1,49 @@
+# Drawing Board
+- **Afflatus:**
+	- 
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Mammalia)]]
+	- [[Ungulata]]
+	- [[Bison]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Diet:**
+	- Herbivorous
+- **Habitat:**
+	- Regions
+		- [[General (Alskar)|Alskar]]
+		- [[General (Hafna)|Hafna]]
+		- [[General (Hiraeth)|Hiraeth]]
+		- [[General (Libelle)|Libelle]]
+		- [[General (Lumi)|Lumi]]
+	- Biomes
+		- [[Montane Steppes]]
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Tundra|Tundra]]
+	- Climate
+		- [[Alpine]]
+		- [[Polar]]
+		- [[Subarctic]]
+		- [[NATURE/BIOMES & CLIMATES/Climates/Tundra|Tundra]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

@@ -1,0 +1,43 @@
+# Drawing Board
+- **Afflatus**
+	- Bearded Vulture
+- **Chimerism**
+	- Bright red with black eye spots on the undersides of wings, whereas the rest just looks like a bearded vulture
+- **Behavior**
+	- 
+- **Personality**
+	- Has the intelligence and playful personality of corvids
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Aves)|Aves]]
+	- [[Speed Dial (Hieraves)]]
+	- [[Accipitridae]]
+	- [[Wild (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Diet**
+	- 
+- **Habitat**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

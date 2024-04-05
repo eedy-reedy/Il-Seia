@@ -1,0 +1,49 @@
+# Properties
+- **Taste**
+	- 
+- **Odor**
+	- 
+- **Color**
+	- 
+- **Common Found State**
+	- 
+- **Physical Characteristics**
+	- 
+- **Properties**
+	- 
+- **Compounds**
+	- 
+- **Geology/Geography**
+	- 
+- **Origin**
+	- [[Windrose Chamomile]]
+# Usage
+- **History**
+	- 
+- **Discovery**
+	- 
+- **Common Use**
+	- Medicine
+- **Cultural Use**
+	- 
+- **Refinement**
+	- 
+- **Manufacturing/Products**
+	- 
+- **Byproducts**
+	- 
+- **Hazards**
+	- 
+- **Environmental Impact**
+	- 
+# Distribution
+- **Value**
+	- 
+- **Rarity**
+	- 
+- **Trade & Market**
+	- 
+- **Storage**
+	- 
+- **Law & Regulation**
+	- 

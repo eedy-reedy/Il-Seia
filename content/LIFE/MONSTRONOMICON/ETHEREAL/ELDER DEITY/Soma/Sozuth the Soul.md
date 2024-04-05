@@ -1,0 +1,40 @@
+# Generic
+- **Aliases/Titles**
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[The Sun]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Elder Deity|Elder Deity]]
+	- [[Soma]]
+- **Divine Domains**
+	- Fortune
+	- Erraticism
+- **Source of Power (Trinity/Worship)**
+	- Trinity
+- **Power Level**
+	- [[1-B - Supercluster Level]]
+- **Alignment**
+	- [[Chaotic Neutral]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- N/A
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices: N/A
+	- Virtues: N/A
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- Never
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- Never
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- Never
+- **Investment (Interested/Disinterested)**
+	- Disinterested

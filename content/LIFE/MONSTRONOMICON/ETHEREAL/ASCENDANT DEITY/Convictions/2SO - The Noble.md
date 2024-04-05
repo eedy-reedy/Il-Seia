@@ -1,0 +1,92 @@
+# Enneagram
+
+**2S0 - Ambition**
+*The Social Two is a seducer of environments and groups—a powerful, leader type whose pride manifests as a sense of satisfaction in the conquest of an audience. This is a more adult Two in whom pride is the most obvious; the Social Two cultivates an image of being an influential, super-competent person worthy of admiration. The name “Ambition” reflects this person’s desire to “be on top,” and as a result of this lofty position, receive advantages and benefits. This Two “gives to get” the most and always has a strategic angle when expressing generosity.*
+# Generic
+- **Aliases/Titles**
+	- [[Safelo]] ([[Kirlo]])
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Church of Eihaat (Helpers)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Pride
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Chaotic Neutral]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Conformity]]
+		- [[Cowardice]]
+		- [[Humility]]
+		- [[Insecurity]]
+		- [[Justice]]
+		- [[Loyalty]]
+		- [[Selflessness]]
+		- [[Sobriety]]
+		- [[Weakness]]
+	- Virtues
+		- [[Conceit]]
+		- [[Dishonesty]]
+		- [[Hedonism]]
+		- [[Possession]]
+		- [[Charisma]]
+		- [[Creativity]]
+		- [[Dignity]]
+		- [[Passion]]
+		- [[Romanticism]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Spaeto (Raptor) Harpy]] (Harpy Eagle)
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 2 - The Helper]]
+		- **Basic Fear:** Of being unwanted, unworthy of being loved
+		- **Basic Desire:** To feel loved
+		- **Key Motivations:** Want to be loved, to express their feelings for others, to be needed and appreciated, to get others to respond to them, to vindicate their claims about themselves.
+		- **Level 5:** Become overly intimate and intrusive: they need to be needed, so they hover, meddle, and control in the name of love. Want others to depend on them: give, but expect a return: send double messages. Enveloping and possessive: the codependent, self-sacrificial person who cannot do enough for others—wearing themselves out for everyone, creating needs for themselves to fulfill.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

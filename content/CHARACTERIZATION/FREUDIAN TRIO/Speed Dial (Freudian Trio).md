@@ -1,0 +1,4 @@
+# Generic
+- [[Id]]
+- [[Ego]]
+- [[Superego]]

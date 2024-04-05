@@ -1,0 +1,59 @@
+# Generic
+
+- **Grammar**
+	- Demonym: 
+	- Plural:
+- **Creature Class**
+	- [[Humanoid]]
+- **Origin/Ancestry**
+	- [[Generic (Dohil)|Dohil]]
+- **Geographic Distribution**
+	- [[Elendu]]
+	- [[Athelu]]
+	- [[Skagi]]
+	- [[Kirkja]]
+	- [[The Advent]]
+- **Related Races**
+	- Arachnida Iktomi
+	- Insecta Iktomi
+	- Myriadpoda Iktomi
+- **Perception & Sensory/Extrasensory Capabilities**
+	- Heightened Sight/Smell (Insects)
+	- Vibration Sensitivity
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Growth Rate & Stages**
+	- Average
+		- Infancy: 1-2 years
+		- Childhood: 3-7 years
+		- Puberty: 8-15 years
+		- Adulthood: 15-40 years
+- **Dietary Needs & Habits**
+	- Omnivorous (Insect Iktomi); Carnivorous ([[Arachnida Iktomi]])
+- **Behavior & Psychology**
+	- Alignment: [[Chaotic Neutral]]
+# Extended
+- **Average Lifespan**
+	- 
+- **Average Height**
+	- 1-5ft (Average)
+- **Average Weight**
+	- 5-128lbs (Average)
+- **Characteristics & Features**
+	- Generic
+		- Head
+		- Torso
+		- Arms
+		- Legs
+		- Other
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Symbiotic & Parasitic Species**
+	- 
+- **Social Structure**
+	- 
+- **Byproducts & Exploitation**
+	- 
+- **Special Trait**
+	- Puppetry

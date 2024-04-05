@@ -1,0 +1,50 @@
+# Drawing Board
+- **Afflatus:**
+	- 
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Mammalia)]]
+	- [[Ungulata]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Diet:**
+	- Herbivorous
+- **Habitat:**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Alskar)|Alskar]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Hafna)|Hafna]]
+		- [[General (Hiraeth)|Hiraeth]]
+		- [[General (Morey)|Morey]]
+	- Biomes
+		- [[Flooded Steppes]]
+		- [[Montane Steppes]]
+		- [[Temperate Steppes]]
+	- Climate
+		- [[Alpine]]
+		- [[Humid Continental]]
+		- [[Mediterranean]]
+		- [[Subarctic]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

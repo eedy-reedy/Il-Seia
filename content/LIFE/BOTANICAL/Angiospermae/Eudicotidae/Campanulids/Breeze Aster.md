@@ -1,0 +1,53 @@
+# Drawing Board
+- **Afflatus:**
+	- Sea Aster
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+	- [[Speed Dial (Eudicotidae)|Eudicots]]
+	- [[Campanulids]]
+	- [[Wild (Plant)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Seed Birth
+- **Diet**
+	- N/A
+- **Habitat**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Alaethia)|Alethia]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Koromaea)|Coromea]]
+		- [[General (Harmolipe)|Harmolipi]]
+		- [[General (Etra)|Ilsu]]
+		- [[General (Morey)|Morey]]
+		- [[General (Sahalas)|Seleilu]]
+	- Biomes
+		- [[Flooded Steppes]]
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Mangroves|Mangroves]]
+		- [[Large River Deltas]]
+		- [[Oceanic Islands]]
+		- [[Temperate Coastal Rivers]]
+		- [[Tropical Floodplain Rivers]]
+	- Climate
+		- [[Humid Continental]]
+		- [[Humid Subtropical]]
+		- [[Mediterranean]]
+		- [[Semi-Arid]]
+		- [[Tropical Monsoon]]
+		- [[Tropical Rainforest]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

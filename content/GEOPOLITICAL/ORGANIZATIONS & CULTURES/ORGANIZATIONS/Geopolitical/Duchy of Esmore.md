@@ -1,0 +1,44 @@
+# Generic
+- **Motto/Slogan/Axiom**
+- **Alternative Names/Aliases**
+- **Demonym**
+	- Esmorish
+- **Founding Date**
+- **Leader**
+	- 
+- **Parent Organization**
+	- [[Moreyan Empire]]
+- **Leader Title**
+- **Founders**
+	- 
+- **Regional Spread**
+	- [[General (Morey)|Morey]]
+- **Related Species/Races**
+	- [[Generic (Humans)|Human]]
+		- [[Morey Human]]
+- **Related Cultures**
+	- 
+- **Hierarchy**
+# Geopolitical
+- **Capital**
+- **Head of State**
+- **Government System**
+	- [[Theocracy]]
+- **Power Structure System**
+	- [[Dependent Territory]]
+- **Economic System**
+	- [[Mixed Economy]]
+- **Recognized/Official Languages**
+	- [[Proto-Soman]]
+- **Gazetteer**
+- **Official Currency**
+	- [[Kingshand]]
+- **Laws**
+- **Agriculture and Industry**
+- **Imports**
+- **Exports**
+- **Technological Level**
+	- [[Medieval Age]]
+# Religious
+- **Official State Religion**
+	- [[Averyism]]

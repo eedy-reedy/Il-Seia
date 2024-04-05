@@ -1,0 +1,114 @@
+# RENEWABLE
+- **Sunlight**
+	- N/A
+- **Wind**
+	- N/A
+- **Saltwater**
+	- [[Aetikan Sea (Azelda)]]
+	- [[Great Western Sea (Redselie)]]
+	- [[Sea of the Banished (Natspar)]]
+	- [[Kirkjar Ocean (Keselie)]]
+	- [[Sea of Dusk (Djole)]]
+	- [[Sea of Dawn (Ktrove)]]
+	- [[White Sea (Lohie)]]
+	- [[Moreyan Ocean Sparko]]
+- **Freshwater**
+	- 
+- **Fertile Soil**
+	- N/A
+- **Plants & Animals**
+	- [[Alevaru Leaf]]
+	- [[Banshee Leaf]]
+	- [[Bán Flour]]
+	- [[Bán Seed]]
+	- [[Cabbagenut]]
+	- [[Cabbagenut Leaf]]
+	- [[Chamomile Tea]]
+	- [[Cherry Vanilla Bean]]
+	- [[Cherry Vanilla Extract]]
+	- [[Cinnamon]]
+	- [[Cocoa Butter]]
+	- [[Cocoa Powder]]
+	- [[Cotton]]
+	- [[Cucumber]]
+	- [[Dagger Almond]]
+	- [[Damarna Oil]]
+	- [[Deepcarrot]]
+	- [[Dew Mustard]]
+	- [[Fennel]]
+	- [[Garlic]]
+	- [[Garlic Powder]]
+	- [[Glaivemint Leaf]]
+	- [[Grape]]
+	- [[Gray Hazelnut]]
+	- [[Great Elder Pepper]]
+	- [[Greater Oat]]
+	- [[Hazel Oil]]
+	- [[Honeyweave]]
+	- [[Jitter Bean]]
+	- [[Labrys Oil]]
+	- [[Labrys Olive]]
+	- [[Lakemint]]
+	- [[Lemon]]
+	- [[Lettuce]]
+	- [[Crawling Malice]]
+	- [[Martyr's Pecan]]
+	- [[Nightberry]]
+	- [[Nutmeg]]
+	- [[Onion Powder]]
+	- [[Paleclove]]
+	- [[Paprika]]
+	- [[Parsley]]
+	- [[Potato]]
+	- [[Raybasil]]
+	- [[Rosemaiden]]
+	- [[Rye]]
+	- [[Selki]]
+	- [[Shattered Apple]]
+	- [[Silver Onion]]
+	- [[Silverbarley]]
+	- [[Snapfreeze Pepper]]
+	- [[Snapfreeze Powder]]
+	- [[Sourmoss]]
+	- [[Strawberry Ginger]]
+	- [[Sugar]]
+	- [[Sugar Snap Peanut]]
+	- [[Sulin]]
+	- [[Sweetwhirl]]
+	- [[Sword Peach]]
+	- [[Triplecherry]]
+	- [[Warnut]]
+	- [[Waterdew]]
+	- [[Wine Syrup]]
+	- [[Wintermaize]]
+- **Divine**
+	- [[Trinity]]
+# Non-Renewable
+- **Fossil Fuels**
+	- N/A
+- **Metallic Minerals**
+	- [[Twilight]]
+	- [[Bloody Malice]]
+	- [[Sage Amber]]
+	- [[Ygnul]]
+- **Non-Metallic Minerals**
+	- [[Saleidri]]
+- **Currency**
+	- [[Kingshand]]
+
+# AREAS OF USAGE
+- Agriculture
+- Clothing
+- Commerce
+- Communication
+- Construction
+- Food
+- Fuel
+- Hygiene
+- Labor
+- Luxury
+- Magic
+- Medicine
+- Recreation
+- Technology
+- Tools

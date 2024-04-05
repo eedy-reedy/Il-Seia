@@ -1,0 +1,13 @@
+# FUNDAMENTALS
+- Kaatro
+	- [[Aagia, Lord of the Sprawling Mountain]]
+	- [[Aihaal, Lord of the Sunlit Banquet]]
+	- [[Fleiri, Lord of the Wrathful Bible]]
+- Sofri
+	- [[Eihol, Lord of the Fervent Other]]
+	- [[Fri, Lord of the Crystal Waters]]
+	- [[Heivra, Lord of the Frigid Court]]
+- Nobruu
+	- [[Hoei, Lord of the Freed Skies]]
+	- [[Staari, Lord of the Valiant Arena]]
+	- [[Vaal, Lord of the Eldritch Vault]]

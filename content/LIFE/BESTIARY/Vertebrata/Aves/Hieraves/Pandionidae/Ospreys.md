@@ -1,0 +1,85 @@
+# Drawing Board
+- **Afflatus**
+	- 
+- **Chimerism**
+	- 
+- **Behavior**
+	- 
+- **Personality**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Aves)|Aves]]
+	- [[Speed Dial (Hieraves)]]
+	- [[Pandionidae]]
+	- [[Wild (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Diet**
+	- Carnivorous
+		- [[Channel Catfish]]
+- **Habitat**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Alaethia)|Alethia]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Koromaea)|Coromea]]
+		- [[General (Ersan)|Ersan]]
+		- [[General (Litreia)|Esura]]
+		- [[General (Harmolipe)|Harmolipi]]
+		- [[General (Ibere)|Ibere]]
+		- [[General (Etra)|Ilsu]]
+		- [[General (Isaz)|Isaz]]
+		- [[General (Kveld)|Kveld]]
+		- [[General (Surusa)|Leir]]
+		- [[General (Lemeinsi)|Lemeinsi]]
+		- [[General (Maen Alae)|Maen Alae]]
+		- [[General (Morey)|Morey]]
+		- [[General (Pavitra)|Pavitra]]
+		- [[General (Sahalas)|Seleilu]]
+		- [[General (Storelva)|Storelva]]
+		- [[General (Suay)|Suay]]
+	- Biomes
+		- [[Flooded Steppes]]
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Mangroves|Mangroves]]
+		- [[Mediterranean Forests]]
+		- [[Temperate Forests]]
+		- [[Temperate Steppes]]
+		- [[Tropical Forests]]
+		- [[Tropical Steppes]]
+		- [[Large Lakes]]
+		- [[Large River Deltas]]
+		- [[Oceanic Islands]]
+		- [[Temperate Coastal Rivers]]
+		- [[Temperate Floodplain Rivers]]
+		- [[Tropical Coastal Rivers]]
+		- [[Tropical Floodplain Rivers]]
+		- [[Xeric Freshwaters]]
+		- [[Littoral Zone]]
+	- Climate
+		- [[Arid]]
+		- [[Humid Continental]]
+		- [[Humid Subtropical]]
+		- [[Mediterranean]]
+		- [[Oceanic]]
+		- [[Semi-Arid]]
+		- [[Tropical Monsoon]]
+		- [[Tropical Rainforest]]
+		- [[Tropical Savanna]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

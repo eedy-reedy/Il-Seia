@@ -1,0 +1,92 @@
+# Enneagram
+
+**6SO - Duty**
+*Social Sixes express fear through a need to deal with anxiety by relying on abstract reason or ideologies as a frame of reference. Obeying authority through knowing the rules helps them to feel safe in the world. Unlike the SP Six, this Six has more certainty and can be “too sure” of things as a way of dealing with the anxiety of uncertainty. Social Sixes focus on precision and efficiency. They adhere to whatever the guidelines are as a form of having a protective authority.*
+# Generic
+- **Aliases/Titles**
+	- The Law
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Isles of Valoaath (Loyalists)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Order
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Neutral Good]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Cowardice]]
+		- [[Cruelty]]
+		- [[Dishonesty]]
+		- [[Dissonance]]
+		- [[Greed]]
+		- [[Hedonism]]
+		- [[Perversion]]
+		- [[Possession]]
+		- [[Prejudice]]
+	- Virtues
+		- [[Courage]]
+		- [[Dedication]]
+		- [[Discipline]]
+		- [[Dogma]]
+		- [[Honesty]]
+		- [[Justice]]
+		- [[Loyalty]]
+		- [[Protection]]
+		- [[Wisdom]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Urodela Kappa]] (Giant Chinese Salamander)
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 6 - The Loyalist]]
+		- **Basic Fear:** Of being without support and guidance
+		- **Basic Desire:** To have security and support
+		- **Key Motivations:** Want to have security, to feel supported by others, to have certitude and reassurance, to test the attitudes of others toward them, to fight against anxiety and insecurity.
+		- **Level 1 (At Their Best):** Become self-affirming, trusting of self and others, independent yet symbiotically interdependent and cooperative as an equal. Belief in self leads to true courage, positive thinking, leadership, and rich self-expression.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

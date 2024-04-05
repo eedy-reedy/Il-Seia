@@ -1,0 +1,92 @@
+# Enneagram
+
+**4SX - Competition**
+*Sexual Fours make others suffer as an unconscious way of trying to rid themselves of painful feelings of deficiency. In denying their suffering and being more shameless than shameful, they express their needs more and can be demanding of others. In seeking to be the best, they express envy in its manifestation as competition. They express “an envy that wants,” unconsciously turning their pain at inner lack into feelings of anger about not getting what they need from others.*
+# Generic
+- **Aliases/Titles**
+	- [[Aevin]] ([[Vokelie]])
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Court of Sleisiaat (Individualists)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Hunting
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Chaotic Evil]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Compassion]]
+		- [[Conformity]]
+		- [[Cowardice]]
+		- [[Dignity]]
+		- [[Honesty]]
+		- [[Insecurity]]
+		- [[Loyalty]]
+		- [[Sobriety]]
+		- [[Weakness]]
+	- Virtues
+		- [[Cruelty]]
+		- [[Dedication]]
+		- [[Destruction]]
+		- [[Dissonance]]
+		- [[Greed]]
+		- [[Hedonism]]
+		- [[Independence]]
+		- [[Loathing]]
+		- [[Possession]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Shark Siren]] (Frilled Shark)
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 4 - The Individualist]]
+		- **Basic Fear:** That they have no identity or personal significance
+		- **Basic Desire:** To find themselves and their significance (to create an identity)
+		- **Key Motivations:** Want to express themselves and their individuality, to create and surround themselves with beauty, to maintain certain moods and feelings, to withdraw to protect their self-image, to take care of emotional needs before attending to anything else, to attract a "rescuer."
+		- **Level 9:** Despairing, feel hopeless and become self-destructive, possibly abusing alcohol or drugs to escape. In the extreme: emotional breakdown or suicide is likely. Generally corresponds to the Avoidant, Depressive, and Narcissistic personality disorders.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

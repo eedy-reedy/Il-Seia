@@ -1,0 +1,53 @@
+# Generic
+- **Motto/Slogan/Axiom**
+- **Alternative Names/Aliases**
+- **Demonym**
+	- Moreyan
+- **Founding Date**
+- **Leader**
+- **Parent Organization**
+- **Leader Title**
+- **Founders**
+	- [[Avery Morey]]
+- **Regional Spread**
+	- [[General (Alskar)|Alskar]]
+	- [[General (Cerul)|Cerul]]
+	- [[General (Libelle)|Libelle]]
+	- [[General (Morey)|Morey]]
+- **Related Species/Races**
+	- [[Generic (Humans)|Human]]
+		- [[Morey Human]]
+- **Related Cultures**
+	- 
+- **Hierarchy**
+	- [[Kings & Queens]]
+		- [[Princes & Princesses]]
+			- [[Dukes & Duchesses]]
+				- [[Counts & Countesses]]
+					- [[Viscounts & Viscountesses]]
+						- [[Barons & Baronesses]]
+							- [[Lords & Ladies]]
+								- [[Knights]]
+# Geopolitical
+- **Capital**
+- **Head of State**
+- **Government System**
+	- [[Theocracy]]
+- **Power Structure System**
+	- [[Transnational Government]]
+- **Economic System**
+	- [[Mixed Economy]]
+- **Recognized/Official Languages**
+	- [[Proto-Soman]]
+- **Gazetteer**
+- **Official Currency**
+	- [[Kingshand]]
+- **Laws**
+- **Agriculture and Industry**
+- **Imports**
+- **Exports**
+- **Technological Level**
+	- [[Medieval Age]]
+# Religious
+- **Official State Religion**
+	- [[Averyism]]

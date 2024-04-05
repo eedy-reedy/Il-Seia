@@ -1,0 +1,36 @@
+# Geography & Nature
+- **Afflatus**
+	- **Which culture inspires this region?**
+- **Landscape**
+	- **What are the main biomes?**
+- **Climate**
+	- **What is the climate like?**
+	- **Is the climate consistent or changeable?**
+		- 
+# Generic
+- **Class**
+	- [[Plazas]]
+- **Parent Location**
+	- [[Ikleigiaa]]
+- **Founding Date**
+- **Founders**
+- **Destruction Date**
+- **Ruler**
+- **Owning Rank**
+- **Owning Organization**
+- **Alternative Names**
+- **Population**
+- **Demonym**
+- **Related Species/Races** 
+- **Government**
+- **Infrastructure**
+- **Districts**
+- **Assets**
+- **Defences**
+- **Imports**
+- **Exports**
+- **Guilds & Factions**
+- **History**
+- **Points of Interest**
+- **Architecture**
+- **Geography**

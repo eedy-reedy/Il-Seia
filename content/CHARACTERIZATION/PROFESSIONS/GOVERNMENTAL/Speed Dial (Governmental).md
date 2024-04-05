@@ -1,0 +1,22 @@
+# INSPIRED
+- [[Aristocrats]]
+- [[Bailiffs]]
+- [[Barons & Baronesses]]
+- [[Barristers]]
+- [[Castellans]]
+- [[Chancellors]]
+- [[Counts & Countesses]]
+- [[Dukes & Duchesses]]
+- [[Emperors & Empresses]]
+- [[Heralds]]
+- [[Jailers]]
+- [[Judges]]
+- [[Kings & Queens]]
+- [[Knights]]
+- [[Lords & Ladies]]
+- [[Princes & Princesses]]
+- [[Squires]]
+- [[Treasurers]]
+- [[Viscounts & Viscountesses]]
+# ORIGINAL
+- 

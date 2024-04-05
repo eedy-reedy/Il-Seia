@@ -1,0 +1,58 @@
+# Drawing Board
+- **Afflatus:**
+	- Lettuce
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+	- [[Speed Dial (Eudicotidae)|Eudicots]]
+	- [[Campanulids]]
+	- [[Crop (Plant)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Seed Birth
+- **Diet**
+	- N/A
+- **Habitat**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Alaethia)|Alethia]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Koromaea)|Coromea]]
+		- [[General (Ersan)|Ersan]]
+		- [[General (Litreia)|Esura]]
+		- [[General (Harmolipe)|Harmolipi]]
+		- [[General (Ibere)|Ibere]]
+		- [[General (Etra)|Ilsu]]
+		- [[General (Isaz)|Isaz]]
+		- [[General (Kveld)|Kveld]]
+		- [[General (Surusa)|Leir]]
+		- [[General (Maen Alae)|Maen Alae]]
+		- [[General (Morey)|Morey]]
+		- [[General (Pavitra)|Pavitra]]
+		- [[General (Sahalas)|Seleilu]]
+		- [[General (Storelva)|Storelva]]
+		- [[General (Suay)|Suay]]
+	- Biomes
+		- [[Temperate Steppes]]
+		- [[Tropical Steppes]]
+	- Climate
+		- [[Humid Continental]]
+		- [[Humid Subtropical]]
+		- [[Mediterranean]]
+		- [[Semi-Arid]]
+		- [[Tropical Savanna]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

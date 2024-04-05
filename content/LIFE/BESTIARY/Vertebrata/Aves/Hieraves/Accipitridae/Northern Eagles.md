@@ -1,0 +1,68 @@
+# Drawing Board
+- **Afflatus**
+	- Bald Eagles
+- **Chimerism**
+	- 
+- **Behavior**
+	- 
+- **Personality**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Aves)|Aves]]
+	- [[Speed Dial (Hieraves)]]
+	- [[Accipitridae]]
+	- [[Wild (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Diet**
+	- Carnivorous
+		- [[Beavers]]
+		- Carrion
+		- [[Cassowary Turkeys]]
+		- [[Domestic Agon]]
+		- [[Domestic Otters]]
+		- [[Common Foxes]]
+		- [[River Otters]]
+		- [[Ruffed Grouses]]
+		- [[Common Sheep]]
+		- [[Snake Minks]]
+		- [[Snake Stoats]]
+		- [[Snake Weasels]]
+		- [[Snow Otters]]
+		- [[Spruce Grouses]]
+		- [[Wild Agon]]
+- **Habitat**
+	- Regions
+		- [[General (Cerul)|Cerul]]
+		- [[General (Hafna)|Hafna]]
+		- [[General (Hiraeth)|Hiraeth]]
+		- [[General (Libelle)|Libelle]]
+		- [[General (Morey)|Morey]]
+	- Biomes
+		- [[Flooded Steppes]]
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Taigas|Taigas]]
+		- [[Temperate Forests]]
+		- [[Temperate Steppes]]
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Tundra|Tundra]]
+	- Climate
+		- [[Humid Continental]]
+		- [[Subarctic]]
+		- [[NATURE/BIOMES & CLIMATES/Climates/Tundra|Tundra]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 7 ft
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

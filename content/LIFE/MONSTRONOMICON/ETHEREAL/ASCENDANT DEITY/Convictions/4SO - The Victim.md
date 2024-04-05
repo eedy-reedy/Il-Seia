@@ -1,0 +1,92 @@
+# Enneagram
+
+**4SO - Shame**
+*The Social Four suffers more, feels more shame, and is more sensitive than the other two Fours. Envy fuels a focus on shame and suffering as they employ a strategy of seducing others into meeting their needs through an intensification of pain and suffering. They experience a sense of comfort in feeling melancholy. Envy also manifests in lamenting too much, taking on the victim role, and focusing on a sense of their own inferiority. Social Fours don’t compete with others as much as they compare themselves to others and find themselves lacking.*
+# Generic
+- **Aliases/Titles**
+	- [[Harmoloi]] ([[Kirlo]])
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Court of Sleisiaat (Individualists)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Pain
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Chaotic Neutral]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Cowardice]]
+		- [[Cruelty]]
+		- [[Destruction]]
+		- [[Independence]]
+		- [[Insecurity]]
+		- [[Loathing]]
+		- [[Neglect]]
+		- [[Perversion]]
+		- [[Weakness]]
+	- Virtues
+		- [[Discipline]]
+		- [[Dishonesty]]
+		- [[Dissonance]]
+		- [[Dogma]]
+		- [[Hedonism]]
+		- [[Humility]]
+		- [[Loyalty]]
+		- [[Protection]]
+		- [[Selflessness]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Hylo (Songbird) Harpy]] (White Bellbird)
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 4 - The Individualist]]
+		- **Basic Fear:** That they have no identity or personal significance
+		- **Basic Desire:** To find themselves and their significance (to create an identity)
+		- **Key Motivations:** Want to express themselves and their individuality, to create and surround themselves with beauty, to maintain certain moods and feelings, to withdraw to protect their self-image, to take care of emotional needs before attending to anything else, to attract a "rescuer."
+		- **Level 5:** To stay in touch with feelings, they interiorize everything, taking everything personally, but become self-absorbed and introverted, moody and hypersensitive, shy and self-conscious, unable to be spontaneous or to "get out of themselves." Stay withdrawn to protect their self-image and to buy time to sort out feelings.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

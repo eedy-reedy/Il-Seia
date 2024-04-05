@@ -1,0 +1,20 @@
+# Government Systems
+- [[Anarchy]]
+- [[Democracy]]
+- [[Dictatorship]]
+- [[Kratocracy]]
+- [[Monarchy]]
+- [[Plutocracy]]
+- [[Oligarchy]]
+- [[Theocracy]]
+# Power Structure Systems
+- [[Autonomous Area]]
+- [[Confederation]]
+- [[Dependent Territory]]
+- [[Federation]]
+- [[Provisional Government]]
+- [[Transnational Government]]
+# Economic Systems
+- [[Barter System]]
+- [[Market Economy]]
+- [[Mixed Economy]]

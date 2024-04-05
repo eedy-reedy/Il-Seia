@@ -1,0 +1,55 @@
+# Drawing Board
+- **Afflatus:**
+	- 
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- Has bite force that can crunch bone
+	- Ambush predator
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Mammalia)]]
+	- [[Carnivora]]
+	- [[Mustelidae]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Diet**
+	- Carnivorous
+		- [[Anaconda Pine Martens]]
+		- [[Channel Catfish]]
+		- [[Dire Wolves]]
+		- [[Elk]]
+		- [[Giant Salmon]]
+		- [[Hafnar Sturgeons]]
+		- [[Lynx Wolves]]
+		- [[Snow Otters]]
+		- [[Wolverines]]
+- **Habitat**
+	- Regions
+		- [[General (Hafna)|Hafna]]
+		- [[General (Hiraeth)|Hiraeth]]
+		- [[General (Libelle)|Libelle]]
+	- Biomes
+		- [[Large Lakes]]
+		- [[Temperate Coastal Rivers]]
+		- [[Temperate Floodplain Rivers]]
+	- Climate
+		- [[Subarctic]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 10 ft
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

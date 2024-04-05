@@ -1,0 +1,41 @@
+# Generic
+- **Motto/Slogan/Axiom**
+	- N/A
+- **Alternative Names/Aliases**
+- **Demonym**
+	- Fortune Keeper
+- **Founding Date**
+- **Leader**
+	- [[Lillian Windhelm]]
+- **Parent Organization**
+	- N/A
+- **Leader Title**
+	- Fortune Keeper
+- **Founders**
+	- [[Lillian Windhelm]]
+- **Regional Spread**
+	- N/A
+- **Related Species/Races**
+	- N/A
+- **Hierarchy**
+	- N/A
+- **Core Beliefs/Customs**
+- **Public Agenda**
+# Geopolitical
+- **Capital**
+- **Head of State**
+- **Government System**
+- **Power Structure System**
+- **Economic System**
+- **Recognized/Official Languages**
+- **Gazetteer**
+- **Official Currency**
+	- 
+- **Laws**
+- **Agriculture and Industry**
+- **Imports**
+- **Exports**
+- **Technological Level**
+# Religious
+- **Official State Religion**
+	- N/A

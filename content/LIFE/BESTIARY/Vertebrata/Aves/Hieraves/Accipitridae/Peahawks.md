@@ -1,0 +1,57 @@
+# Drawing Board
+- **Afflatus**
+	- Hawks
+- **Chimerism**
+	- Peacocks
+- **Behavior**
+	- Runs on trees
+- **Personality**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Aves)|Aves]]
+	- [[Speed Dial (Hieraves)]]
+	- [[Accipitridae]]
+	- [[Wild (Animal)]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- 
+- **Genetics & Reproduction**
+	- 
+- **Diet**
+	- Carnivorous
+		- [[Giant Squirrels]]
+		- [[Rabbits]]
+		- [[Ruffed Grouses]]
+		- [[Snake Weasels]]
+		- [[Snowshoe Hares]]
+		- [[Spruce Grouses]]
+		- [[Common Squirrels]]
+		- [[Woodpeckers]]
+- **Habitat**
+	- Regions
+		- [[General (Cerul)|Cerul]]
+		- [[General (Hafna)|Hafna]]
+		- [[General (Hiraeth)|Hiraeth]]
+		- [[General (Libelle)|Libelle]]
+		- [[General (Morey)|Morey]]
+	- Biomes
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Taigas|Taigas]]
+		- [[Temperate Forests]]
+	- Climate
+		- [[Alpine]]
+		- [[Humid Continental]]
+		- [[Subarctic]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

@@ -1,0 +1,92 @@
+# Enneagram
+
+**9SX - Fusion**
+*Sexual Nines express the passion of laziness by merging with the important people in their lives. Sexual Nines unconsciously take on the attitudes, opinions, and feelings of others, because it can feel too hard to stand on their own. These Nines tend to be kind, gentle, shy characters who are not very assertive.*
+# Generic
+- **Aliases/Titles**
+	- The Drifting
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Skyway of Seliaath (Peacemakers)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Sleep
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Lawful Neutral]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Conformity]]
+		- [[Cowardice]]
+		- [[Discipline]]
+		- [[Dishonesty]]
+		- [[Insecurity]]
+		- [[Loyalty]]
+		- [[Neglect]]
+		- [[Perversion]]
+		- [[Sobriety]]
+	- Virtues
+		- [[Charisma]]
+		- [[Creativity]]
+		- [[Dissonance]]
+		- [[Hedonism]]
+		- [[Independence]]
+		- [[Passion]]
+		- [[Possession]]
+		- [[Romanticism]]
+		- [[Wisdom]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Agaricale Shiitake]] (Psilocybe)
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 9 - The Peacemaker]]
+		- **Basic Fear:** Of loss and separation
+		- **Basic Desire:** To have inner stability "peace of mind"
+		- **Key Motivations:** Want to create harmony in their environment, to avoid conflicts and tension, to preserve things as they are, to resist whatever would upset or disturb them.
+		- **Level 9:** They finally become severely disoriented and catatonic, abandoning themselves, turning into shattered shells. Multiple personalities possible. Generally corresponds to the Schizoid and Dependent personality disorders.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

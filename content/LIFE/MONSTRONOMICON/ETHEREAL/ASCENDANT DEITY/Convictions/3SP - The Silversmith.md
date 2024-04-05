@@ -1,0 +1,92 @@
+# Enneagram
+
+**3SP - Security**
+*Three Self-Preservation three has a sense of vanity for having no vanity. This Three also wants to be admired by others but avoids openly seeking recognition. Not just satisfied with looking good, the SP three strives to be good. They are determined to be a good person—to match the perfect model of how a person should be. Being the perfect model of quality implies virtue, and virtue implies a lack of vanity. SP Threes seek a sense of security through being good, working hard, and being effective and productive.*
+# Generic
+- **Aliases/Titles**
+	- [[Seitha Heidri]] ([[Isra]])
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Peaks of Vakiaath (Achievers)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- The Forge
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[True Neutral]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Conformity]]
+		- [[Destruction]]
+		- [[Greed]]
+		- [[Hedonism]]
+		- [[Indignity]]
+		- [[Insecurity]]
+		- [[Loyalty]]
+		- [[Neglect]]
+		- [[Weakness]]
+	- Virtues
+		- [[Creativity]]
+		- [[Dedication]]
+		- [[Discipline]]
+		- [[Dogma]]
+		- [[Independence]]
+		- [[Justice]]
+		- [[Passion]]
+		- [[Protection]]
+		- [[Wisdom]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Saxifragales Sages]]
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 3 - The Achiever]]
+		- **Basic Fear:** Of being worthless
+		- **Basic Desire:** To feel valuable and worthwhile
+		- **Key Motivations:** Want to be affirmed, to distinguish themselves from others, to have attention, to be admired, and to impress others.
+		- **Level 5:** Become image-conscious, highly concerned with how they are perceived. Begin to package themselves according to the expectations of others and what they need to do to be successful. Pragmatic and efficient, but also premeditated, losing touch with their own feelings beneath a smooth facade. Problems with intimacy, credibility, and "phoniness" emerge.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

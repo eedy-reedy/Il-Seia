@@ -1,0 +1,1 @@
+*Able to excuse and rationalize what they do since they feel abused and victimized by others and are bitterly resentful and angry. Somatization of their aggressions results in chronic health problems as they vindicate themselves by "falling apart" and burdening others. Generally corresponds to the Histrionic Personality Disorder and Factitious Disorder.*

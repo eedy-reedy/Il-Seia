@@ -1,0 +1,46 @@
+# Drawing Board
+- **Afflatus:**
+	- German Chamomile
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+	- [[Speed Dial (Eudicotidae)|Eudicots]]
+	- [[Campanulids]]
+	- [[Crop (Plant)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Seed Birth
+- **Diet**
+	- N/A
+- **Habitat**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Isaz)|Isaz]]
+		- [[General (Kveld)|Kveld]]
+		- [[General (Morey)|Morey]]
+		- [[General (Storelva)|Storelva]]
+	- Biomes
+		- [[Mediterranean Forests]]
+		- [[Temperate Forests]]
+		- [[Temperate Steppes]]
+		- [[Tropical Forests]]
+		- [[Tropical Steppes]]
+	- Climate
+		- [[Humid Continental]]
+		- [[Mediterranean]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

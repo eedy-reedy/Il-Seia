@@ -1,0 +1,20 @@
+*Innovative inventors with an unquenchable thirst for knowledge.*
+# Introduction
+
+INTP (Logician) is a personality type with the [Introverted](https://www.16personalities.com/articles/energy-introverted-vs-extraverted), [Intuitive](https://www.16personalities.com/articles/mind-intuitive-vs-observant), [Thinking](https://www.16personalities.com/articles/nature-thinking-vs-feeling), and [Prospecting](https://www.16personalities.com/articles/tactics-judging-vs-prospecting) traits. These flexible thinkers enjoy taking an unconventional approach to many aspects of life. They often seek out unlikely paths, mixing willingness to experiment with personal creativity.
+
+# Strengths
+
+- **Analytical** – People with the INTP personality type (Logicians) analyze everything that they come across. This gives them a knack for spotting unexpected patterns and connections that other personalities might overlook.
+- **Original** – Thanks to their unrelenting imagination, these personalities can come up with creative, counterintuitive ideas that wouldn’t occur to most people. Not all of these ideas are feasible, of course, but INTPs’ willingness to think outside the box can produce remarkable innovations.
+- **Open-Minded** – INTPs are driven by curiosity and an intense desire to learn. As they learn, they’re rarely afraid to shift their perspective – even in matters of politics, religion, and philosophy. People with this personality type tend to be receptive to new ideas, as long as those ideas are something that they connect with on an intellectual level.
+- **Curious** – These personalities are always casting about for new things to learn about. One week, they might be obsessed with geophysics, and the next, they might lose themselves in videos about guitar building. When inspiration strikes, INTPs go all in on their newfound interest, learning everything that they can.
+- **Honest** – INTPs care about the truth. Rather than taking comfort in ideology or received ideas, they want to understand what’s really going on beneath the surface of things. As a result, they can be relied upon to combat bias and misinformation even when it isn’t easy to do so – and they expect other people to be honest with them in return.
+
+# Weaknesses
+
+- **Disconnected** – INTP personalities can get lost in their own train of thought even when they’re with other people. After finally resurfacing with something to say, they may find that the conversation has moved on without them. This can cause people with this personality type to feel disconnected from others, especially in large social gatherings.
+- **Insensitive** – INTPs see rationality as the key to a better, happier world. At times, they may underestimate the importance of such irrational values as emotion, compassion, etiquette, and tradition. As a result, these personalities may inadvertently come across as insensitive or unkind even though their intentions are generally good.
+- **Dissatisfied** – People with this personality type can’t help but imagine how things could be better than they already are. INTPs are constantly on the lookout for problems to solve, topics to learn, and new ways to approach things. Taken too far, this mindset can become overwhelming, with these personalities constantly trying to reinvent the wheel rather than reliably addressing their needs and responsibilities.
+- **Overthinkers** – INTPs’ minds are ceaselessly active, toiling away even when they’re not consciously thinking. While their rapid-fire thoughts can be beneficial at times, they can also cause them to overthink and fall prey to analysis paralysis. When this occurs, INTPs can struggle to reach a decision or take action because they’re too caught up in considering every possible outcome or angle.
+- **Impatient** – INTP personalities take pride in their knowledge and in sharing their ideas. When it comes to explaining their rationale, however, they aren’t always patient. If their conversation partner doesn’t follow along or seem sufficiently interested, they may give up with a dismissive “never mind.”

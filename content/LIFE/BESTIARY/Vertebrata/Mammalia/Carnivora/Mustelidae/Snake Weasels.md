@@ -1,0 +1,58 @@
+# Drawing Board
+- **Afflatus:**
+	- Weasels
+- **Chimerism:**
+	- Common King Snake
+- **Behavior:**
+	- 
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Mammalia)]]
+	- [[Carnivora]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Diet**
+	- Carnivorous
+		- [[Giant Squirrels]]
+		- [[Marmots]]
+		- [[Pikas]]
+		- [[Rabbits]]
+		- [[Ruffed Grouses]]
+		- [[Snowshoe Hares]]
+		- [[Spruce Grouses]]
+		- [[Common Squirrels]]
+- **Habitat**
+	- Regions
+		- [[General (Cerul)|Cerul]]
+		- [[General (Hafna)|Hafna]]
+	- Biomes
+		- [[Mediterranean Forests]]
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Taigas|Taigas]]
+		- [[Temperate Forests]]
+		- [[Tropical Forests]]
+	- Climate
+		- [[Alpine]]
+		- [[Humid Continental]]
+		- [[Humid Subtropical]]
+		- [[Mediterranean]]
+		- [[Subarctic]]
+		- [[Tropical Monsoon]]
+		- [[Tropical Rainforest]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 3 ft
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

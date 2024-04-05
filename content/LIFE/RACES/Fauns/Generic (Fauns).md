@@ -1,0 +1,88 @@
+# Generic
+
+- **Grammar**
+	- Demonym: 
+	- Plural:
+- **Creature Class**
+	- [[Humanoid]]
+- **Origin/Ancestry**
+	- Kobolds
+- **Geographic Distribution**
+	- [[Elendu]]
+	- [[Athelu]]
+	- [[Aetika]]
+	- [[Kirkja]]
+	- [[The Advent]]
+	- [[Skagi]]
+- **Related Races**
+	- Carnivora Fauns
+	- Chiroptera Fauns
+	- Creodonta Fauns
+	- Glires Fauns
+	- Marsupialia Fauns
+	- Monotremata Fauns
+	- Paenungulata Fauns
+	- Primata Fauns
+	- Ungulata Fauns
+	- Xenarthra Fauns
+- **Perception & Sensory/Extrasensory Capabilities**
+	- Echolocation ([[Glire Faun]], [[Bat Faun]])
+	- Electroreception ([[Monotreme Faun]])
+	- Infrared Vision ([[Bat Faun]])
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Growth Rate & Stages**
+	- Average
+		- Infancy: 1-3 years
+		- Childhood: 4-8 years
+		- Puberty: 9-17 years
+		- Adulthood: 18-60 years
+	- [[Carnivoran Faun]]
+		- Infancy: 1-3 years
+		- Childhood: 4-8 years
+		- Puberty: 9-17 years
+		- Adulthood: 18-50 years
+	- [[Glire Faun]]
+		- Infancy: 1-2 years
+		- Childhood: 3-7 years
+		- Puberty: 8-15 years
+		- Adulthood: 15-40 years
+	- [[Marsupial Faun]]
+		- Infancy: 1-2 years
+		- Childhood: 3-7 years
+		- Puberty: 8-15 years
+		- Adulthood: 15-40 years
+	- [[Monotreme Faun]]
+		- Infancy: 1-3 years
+		- Childhood: 4-8 years
+		- Puberty: 9-17 years
+		- Adulthood: 18-50 years
+- **Dietary Needs & Habits**
+	- Omnivorous (Average); Herbivorous ([[Ungulate Faun]]); Carnivorous ([[Carnivoran Faun]])
+- **Behavior & Psychology**
+	- Alignment: [[Lawful Good]]
+# Extended
+- **Average Lifespan**
+	- 
+- **Average Height**
+	- 2-6ft (Average); 2ft-8ft ([[Carnivoran Faun]]); 1-5ft ([[Glire Faun]]); 1-3ft ([[Monotreme Faun]]); 2-13ft ([[Ungulate Faun]])
+- **Average Weight**
+	- 20-184lbs (Average); 20-328ft ([[Carnivoran Faun]]); 5-128lbs ([[Glire Faun]]); 5-46ft ([[Monotreme Faun]]); 20-865lbs ([[Ungulate Faun]])
+- **Characteristics & Features**
+	- Generic
+		- Head
+		- Torso
+		- Arms
+		- Legs
+		- Other
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Symbiotic & Parasitic Species**
+	- 
+- **Social Structure**
+	- 
+- **Byproducts & Exploitation**
+	- 
+- **Special Trait**
+	- Satyr's Song

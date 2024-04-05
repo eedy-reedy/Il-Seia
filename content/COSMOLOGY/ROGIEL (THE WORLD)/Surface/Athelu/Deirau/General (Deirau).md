@@ -1,0 +1,24 @@
+---
+sticker: ""
+---
+# Geography & Nature
+- **Afflatus**
+	- **Which culture inspires this region?**
+		- Cherokee
+	- **What are the main biomes?**
+		- [[Temperate Coastal Rivers]]
+		- [[Temperate Floodplain Rivers]]
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Tundra|Tundra]]
+- **Climate**
+	- **What is the climate like?**
+		- [[Subarctic]]
+		- [[NATURE/BIOMES & CLIMATES/Climates/Tundra|Tundra]]
+	- **Is the climate consistent or changeable?**
+		- Consistent
+- **Seasons**
+	- **How many seasons are there?**
+		- 
+	- **How long are the seasons?**
+		- 
+	- **What seasons are there?**
+		- 

@@ -1,0 +1,92 @@
+# Enneagram
+
+**8SX - Possession**
+*Sexual Eights express lust through rebellion and the need to possess everyone’s attention. Sexual Eights are intense, charismatic characters who want to have control and influence. Instead of seeking material security, they try to get power over things and people. The name “Possession” refers to an energetic takeover of the whole scene—a need to feel powerful through dominating the whole environment.*
+# Generic
+- **Aliases/Titles**
+	- 
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Colosseum of Kartaath (Challengers)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Magic
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Chaotic Evil]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Compassion]]
+		- [[Dignity]]
+		- [[Discipline]]
+		- [[Honesty]]
+		- [[Humility]]
+		- [[Justice]]
+		- [[Loyalty]]
+		- [[Selflessness]]
+		- [[Sobriety]]
+	- Virtues
+		- [[Conceit]]
+		- [[Cruelty]]
+		- [[Destruction]]
+		- [[Dishonesty]]
+		- [[Dissonance]]
+		- [[Dogma]]
+		- [[Greed]]
+		- [[Hedonism]]
+		- [[Loathing]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Generic (Wyverns)]]
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 8 - The Challenger]]
+		- **Basic Fear:** Of being harmed or controlled by others
+		- **Basic Desire:** To protect themselves (to be in control of their own life  
+		- **Key Motivations:** Want to be self-reliant, to prove their strength and resist weakness, to be important in their world, to dominate the environment, and to stay in control of their situation.
+		- **Level 9:** If they get in danger, they may brutally destroy everything that has not conformed to their will rather than surrender to anyone else. Vengeful, barbaric, murderous. Sociopathic tendencies. Generally corresponds to the Antisocial Personality Disorder.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

@@ -1,0 +1,25 @@
+---
+sticker: ""
+---
+# Geography & Nature
+- **Afflatus**
+	- **Which culture inspires this region?**
+		- Hawaiian
+- **Landscape**
+	- **What are the main biomes?**
+		- [[Temperate Steppes]]
+		- [[Temperate Coastal Rivers]]
+		- [[Temperate Floodplain Rivers]]
+- **Climate**
+	- **What is the climate like?**
+		- [[Humid Continental]]
+		- [[Mediterranean]]
+	- **Is the climate consistent or changeable?**
+		- Consistent
+- **Seasons**
+	- **How many seasons are there?**
+		- 
+	- **How long are the seasons?**
+		- 
+	- **What seasons are there?**
+		- 

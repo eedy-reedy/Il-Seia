@@ -1,0 +1,92 @@
+# Enneagram
+
+**9SP - Appetite**
+*Instead of feeling an ongoing connection to their feelings, desires, and power, Self-Preservation Nines focus on merging with physical comforts and routine activities, such as eating, sleeping, reading, or doing crossword puzzles. SP Nines are practical, concrete people who focus on everyday things rather than abstractions.*
+# Generic
+- **Aliases/Titles**
+	- The Insatiable
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Skyway of Seliaath (Peacemakers)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Greed
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Lawful Evil]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Conformity]]
+		- [[Destruction]]
+		- [[Discipline]]
+		- [[Honesty]]
+		- [[Humility]]
+		- [[Insecurity]]
+		- [[Neglect]]
+		- [[Selflessness]]
+		- [[Sobriety]]
+	- Virtues
+		- [[Creativity]]
+		- [[Dishonesty]]
+		- [[Greed]]
+		- [[Hedonism]]
+		- [[Indignity]]
+		- [[Passion]]
+		- [[Possession]]
+		- [[Protection]]
+		- [[Romanticism]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Squamata Naga]] (Komodo Dragon)
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 9 - The Peacemaker]]
+		- **Basic Fear:** Of loss and separation
+		- **Basic Desire:** To have inner stability "peace of mind"
+		- **Key Motivations:** Want to create harmony in their environment, to avoid conflicts and tension, to preserve things as they are, to resist whatever would upset or disturb them.
+		- **Level 5:** Active, but disengaged, unreflective, and inattentive. Do not want to be affected, so become unresponsive and complacent, walking away from problems, and "sweeping them under the rug." Thinking becomes hazy and ruminative, mostly comforting fantasies, as they begin to "tune out" reality, becoming oblivious. Emotionally indolent, unwillingness to exert self or to focus on problems: indifference.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

@@ -1,0 +1,49 @@
+# Generic
+
+- **Grammar**
+	- Demonym: 
+	- Plural:
+- **Creature Class**
+	- [[Humanoid]]
+- **Origin/Ancestry**
+	- [[Generic (Dohil)|Dohil]]
+- **Geographic Distribution**
+	- 
+- **Related Races**
+	- [[Agaricale Shiitake]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- Telepathy
+- **Genetics & Reproduction**
+	- Asexual (Fragmentation) and Sexual (Spores) Reproduction
+	- All shiitake are hermaphrodites
+	- No sexual dimorphism
+- **Growth Rate & Stages**
+	- 
+- **Dietary Needs & Habits**
+	- 
+- **Behavior & Psychology**
+	- Alignment: Lawful Neutral
+# Extended
+- **Average Lifespan**
+	- 
+- **Average Height**
+	- 5ft (Average)
+- **Average Weight**
+	- 128lbs (Average)
+- **Characteristics & Features**
+	- Generic
+		- Head
+		- Torso
+		- Arms
+		- Legs
+		- Other
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Symbiotic & Parasitic Species**
+	- 
+- **Social Structure**
+	- 
+- **Byproducts & Exploitation**
+	- 
+- **Special Trait**
+	- Puppetry

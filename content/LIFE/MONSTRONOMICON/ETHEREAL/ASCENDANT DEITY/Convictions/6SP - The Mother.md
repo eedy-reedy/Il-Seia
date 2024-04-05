@@ -1,0 +1,92 @@
+# Enneagram
+
+**6SP - Warmth**
+*Self-Preservation Sixes express the passion of fear through a need for protection, for friendship, and for banding together with others. In seeking protective alliances, SP Sixes endeavor to be warm, friendly, and trustworthy, which is why they bear the name “Warmth.” This most “phobic” of the Sixes has difficulty expressing anger, feels uncertain, and engages in a lot of self-doubt. For SP Sixes, fear manifests as insecurity, and they focus on relationships as a way of feeling safer in the world.*
+# Generic
+- **Aliases/Titles**
+	- [[Sihaltha Ahu]] ([[Isra (Main Branch)]])
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Isles of Valoaath (Loyalists)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Motherhood
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[True Neutral]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Cruelty]]
+		- [[Destruction]]
+		- [[Dishonesty]]
+		- [[Humility]]
+		- [[Insecurity]]
+		- [[Loathing]]
+		- [[Neglect]]
+		- [[Perversion]]
+		- [[Prejudice]]
+	- Virtues
+		- [[Compassion]]
+		- [[Dedication]]
+		- [[Discipline]]
+		- [[Hedonism]]
+		- [[Loyalty]]
+		- [[Passion]]
+		- [[Possession]]
+		- [[Protection]]
+		- [[Selflessness]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Nymphaeanae Sages]]
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 6 - The Loyalist]]
+		- **Basic Fear:** Of being without support and guidance
+		- **Basic Desire:** To have security and support
+		- **Key Motivations:** Want to have security, to feel supported by others, to have certitude and reassurance, to test the attitudes of others toward them, to fight against anxiety and insecurity.
+		- **Level 9:** Hysterical, and seeking to escape punishment, they become self-destructive and suicidal. Alcoholism, drug overdoses, self-abasing behavior. Generally corresponds to the Passive-Aggressive and Paranoid personality disorders.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

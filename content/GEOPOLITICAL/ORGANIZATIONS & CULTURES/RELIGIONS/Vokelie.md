@@ -1,0 +1,108 @@
+# Generic
+- **Motto/Slogan/Axiom**
+- **Alternative Names/Aliases**
+- **Demonym**
+	- Vokev
+- **Founding Date**
+- **Leader**
+- **Parent Organization**
+- **Leader Title**
+- **Founders**
+	- 
+- **Regional Spread**
+	- 
+- **Related Species/Races**
+- **Hierarchy**
+- **Core Beliefs/Customs**
+- **Public Agenda**
+# Religious
+- **Deities**
+	- Polytheistic
+		- **Sovereign**
+		- **Pantheon**
+			- [[1SO - The King]]
+			- [[2SO - The Noble]]
+			- [[2SP - The Jester]]
+			- [[2SX - The Concubine]]
+			- [[3SO - The Actor]]
+			- [[4SO - The Victim]]
+			- [[4SP - The Artist]]
+			- [[4SX - The Huntress]]
+			- [[5SP - The Knight]]
+			- [[6SX - The Chieftain]]
+			- [[7SO - The Martyr]]
+			- [[8SO - The Architect]]
+			- [[8SP - The Farmhand]]
+			- [[8SX - The Mage]]
+			- [[9SP - The Collector]]
+		- **Saints**
+- **Myths & Legends**
+- **Origins**
+- **Cosmology**
+	- 
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Holy Sites**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+- **Priesthood**
+- **Ethics**
+	- Vices
+		- [[Compassion]]
+		- [[Cowardice]]
+		- [[Dignity]]
+		- [[Dishonesty]]
+		- [[Humility]]
+		- [[Insecurity]]
+		- [[Loyalty]]
+		- [[Selflessness]]
+		- [[Weakness]]
+	- Virtues
+		- [[Charisma]]
+		- [[Courage]]
+		- [[Creativity]]
+		- [[Destruction]]
+		- [[Dissonance]]
+		- [[Independence]]
+		- [[Loathing]]
+		- [[Passion]]
+		- [[Possession]]
+- **Political Influence**
+- **Worship**
+
+# Ideals
+
+- **Are clergy permitted to marry or must they remain chaste?**
+- **Is this position limited to only certain groups?**
+- **Are totems/images of god(s) permitted or it is viewed as blasphemy?**
+- **How are ceremonies performed for:**
+	- **Weddings?**
+	- **Funerals?**
+	- **Coming of Age?**
+	- **Birth?**
+	- **Other Rituals?**
+- **What does this religion believe happens after death? Does this happen to nonbelievers as well?**
+- **What do they define as sin? How must they atone for it?**
+- **How do followers communicate with their divine power? Do they interact by making offerings?**
+- **What are its thoughts on:**
+	- **Gender Roles?**
+	- **Sex?**
+	- **Nudity?**
+	- **Love?**
+	- **Queer Identity?**
+	- **Substance Use?**
+	- **Murder & Suicide?**
+	- **Social Hierarchies?**
+	- **The Family Unit?**
+	- **Morality?**
+- **What are its thoughts on interfaith marriages? Are they permitted?**
+- **What are its thoughts on nonbelievers? Does this religion have missionaries?**
+- **Do followers of this religion have to follow any dietary restrictions?**
+- **Are there any specific articles of clothing worn during certain rituals? Daily?**
+- **Are there any specific things that are considered taboo by this religion?**
+- **How does it interact with other religions?**
+- **Are there any other sects of this religion? What are their major differences? How do they interact with one another?**

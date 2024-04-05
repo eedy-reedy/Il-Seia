@@ -1,0 +1,57 @@
+# Drawing Board
+- **Afflatus:**
+	- 
+- **Chimerism:**
+	- Coyote
+	- Fox
+- **Behavior:**
+	- 
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Mammalia)]]
+	- [[Carnivora]]
+	- [[Foxes]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Diet**
+	- Omnivorous
+		- Carrion
+		- [[Cassowary Turkeys]]
+		- [[Domestic Agon]]
+		- [[Domestic Otters]]
+		- [[Grave Shrikes]]
+		- [[Marmots]]
+		- [[Pikas]]
+		- [[River Otters ]]
+		- [[Snake Stoats]]
+		- [[Wild Agon]]
+		- [[Kangaroo Hares]]
+- **Habitat**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Morey)|Morey]]
+	- Biomes
+		- [[Flooded Steppes]]
+		- [[Temperate Steppes]]
+	- Climate
+		- [[Humid Continental]]
+		- [[Mediterranean]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

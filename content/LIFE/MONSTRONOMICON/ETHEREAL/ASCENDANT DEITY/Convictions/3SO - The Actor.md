@@ -1,0 +1,92 @@
+# Enneagram
+
+**3SO - Prestige**
+*Social Threes focus on achievement in the service of looking good and getting the job done. They act out vanity through their desire to be seen and have influence with people. They enjoy being on stage in the spotlight. Social Threes know how to climb the social ladder and achieve success. These are the most competitive and most aggressive of the Threes. They have a driving need to look good and possess a corporate or sales mentality.*
+# Generic
+- **Aliases/Titles**
+	- The Moving
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Peaks of Vakiaath (Achievers)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Theater
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Neutral Evil]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Compassion]]
+		- [[Conformity]]
+		- [[Honesty]]
+		- [[Humility]]
+		- [[Indignity]]
+		- [[Insecurity]]
+		- [[Neglect]]
+		- [[Selflessness]]
+		- [[Sobriety]]
+	- Virtues
+		- [[Charisma]]
+		- [[Creativity]]
+		- [[Dedication]]
+		- [[Dishonesty]]
+		- [[Dissonance]]
+		- [[Hedonism]]
+		- [[Passion]]
+		- [[Perversion]]
+		- [[Romanticism]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Generic (Hydras)|Hydra]]
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 3 - The Achiever]]
+		- **Basic Fear:** Of being worthless
+		- **Basic Desire:** To feel valuable and worthwhile
+		- **Key Motivations:** Want to be affirmed, to distinguish themselves from others, to have attention, to be admired, and to impress others.
+		- **Level 9:** Become vindictive, attempting to ruin others' happiness. Relentless, obsessive about destroying whatever reminds them of their own shortcomings and failures. Psychopathic behavior. Generally corresponds to the Narcissistic Personality Disorder.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

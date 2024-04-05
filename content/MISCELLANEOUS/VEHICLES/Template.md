@@ -1,0 +1,33 @@
+# Identity
+- **Class**
+- **Nickname**
+- **Designation**
+- **Motto**
+- **Creation Date**
+- **Decommission Date**
+- **Destruction Date**
+- **Current Location**
+- **Manufacturer**
+- **Owner**
+- **Owning Organization**
+- **Military Formation Usage**
+# Properties
+- **Related Technologies**
+- **Price**
+- **Rarity**
+- **Length**
+- **Beam**
+- **Height**
+- **Weight**
+- **Speed**
+- **Crew**
+- **Cargo Capacity**
+# Systems
+- **Power Generation**
+- **Propulsion**
+- **Weapons & Armament**
+- **Armor & Defense**
+- **Communication Tools**
+- **Sensors**
+- **Auxillary Systems**
+- **Hangars & Docked Vessels**

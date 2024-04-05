@@ -1,0 +1,60 @@
+# Drawing Board
+- **Afflatus:**
+	- Fennel Plant
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+	- [[Speed Dial (Eudicotidae)|Eudicots]]
+	- [[Campanulids]]
+	- [[Crop (Plant)]]
+- **Genetics & Reproduction**
+	- Asexual Reproduction
+	- Propagation
+- **Diet**
+	- N/A
+- **Habitat**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Alaethia)|Alethia]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Koromaea)|Coromea]]
+		- [[General (Ersan)|Ersan]]
+		- [[General (Litreia)|Esura]]
+		- [[General (Harmolipe)|Harmolipi]]
+		- [[General (Ibere)|Ibere]]
+		- [[General (Etra)|Ilsu]]
+		- [[General (Isaz)|Isaz]]
+		- [[General (Kveld)|Kveld]]
+		- [[General (Surusa)|Leir]]
+		- [[General (Maen Alae)|Maen Alae]]
+		- [[General (Morey)|Morey]]
+		- [[General (Storelva)|Storelva]]
+		- [[General (Suay)|Suay]]
+	- Biomes
+		- [[Flooded Steppes]]
+		- [[Montane Steppes]]
+		- [[Temperate Steppes]]
+		- [[Tropical Steppes]]
+	- Climate
+		- [[Alpine]]
+		- [[Humid Continental]]
+		- [[Humid Subtropical]]
+		- [[Mediterranean]]
+		- [[Tropical Monsoon]]
+		- [[Tropical Rainforest]]
+		- [[Tropical Savanna]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

@@ -1,0 +1,92 @@
+# Enneagram
+
+**5SP - Castle**
+*The Self-Preservation Five expresses avarice through a focus on boundaries—a need to be “encastled” in a sanctuary where they feel protected from intrusion and have control over their boundaries. SP Fives have a passion for being able to hide behind walls and know that they have everything they need to survive within those walls. They are the least expressive of the three Fives and they try to limit their needs and wants so that they can avoid being dependent on others.*
+# Generic
+- **Aliases/Titles**
+	- The Wall
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Library of Pseliaat (Investigators)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Protection
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Lawful Evil]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Compassion]]
+		- [[Conformity]]
+		- [[Cowardice]]
+		- [[Humility]]
+		- [[Indignity]]
+		- [[Insecurity]]
+		- [[Loyalty]]
+		- [[Selflessness]]
+		- [[Weakness]]
+	- Virtues
+		- [[Conceit]]
+		- [[Courage]]
+		- [[Dishonesty]]
+		- [[Dogma]]
+		- [[Greed]]
+		- [[Independence]]
+		- [[Loathing]]
+		- [[Possession]]
+		- [[Protection]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Dinosauria Naga]] (Ankylosaurus)
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 5 - The Investigator]]
+		- **Basic Fear:** Being useless, helpless, or incapable
+		- **Basic Desire:** To be capable and competent
+		- **Key Motivations:** Want to possess knowledge, to understand the environment, to have everything figured out as a way of defending the self from threats from the environment.
+		- **Level 9:** Seeking oblivion, they may commit suicide or have a psychotic break with reality. Deranged, explosively self-destructive, with schizophrenic overtones. Generally corresponds to the Schizoid Avoidant and Schizotypal personality disorders.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

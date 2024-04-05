@@ -1,0 +1,80 @@
+# Generic
+
+- **Grammar**
+	- Demonym: 
+	- Plural:
+- **Creature Class**
+	- [[Humanoid]]
+- **Origin/Ancestry**
+	- 
+- **Geographic Distribution**
+	- 
+- **Related Races**
+	- Aequorlitornith Harpies
+	- Australave Harpies
+	- Columbave Harpies
+	- Coraciimorphae Harpies
+	- Galloanserae Harpies
+	- Hierave Harpies
+	- Litusilvanae Harpies
+- **Perception & Sensory/Extrasensory Capabilities**
+	- Echolocation ([[Hylo (Songbird) Harpy]])
+	- Heightened Sight/Hearing
+	- Magnetoreception
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Growth Rate & Stages**
+	- Average
+		- Infancy: 1-3 years
+		- Childhood: 4-8 years
+		- Puberty: 9-17 years
+		- Adulthood: 18-60 years
+	- [[Haei (Fowl) Harpy]]
+		- Infancy: 1-2 years
+		- Childhood: 3-7 years
+		- Puberty: 8-15 years
+		- Adulthood: 15-40 years
+	-  [[Hylo (Songbird) Harpy]]
+		- Infancy: 1-2 years
+		- Childhood: 3-7 years
+		- Puberty: 8-15 years
+		- Adulthood: 15-40 years
+	- [[Alaro (Parrot) Harpy]]
+		- Infancy: 1-5 years
+		- Childhood: 6-15 years
+		- Puberty: 16-30 years
+		- Adulthood: 31-80 years
+- **Dietary Needs & Habits**
+	- Omnivorous (Average); Carnivorous ([[Spaeto (Raptor) Harpy]]); Herbivores ([[Alaro (Parrot) Harpy]])
+- **Behavior & Psychology**
+	- Alignment: [[Chaotic Neutral]]
+# Extended
+- **Average Lifespan**
+	- 
+- **Average Height**
+	- 2-5ft (Average); 2-8ft ([[Spaeto (Raptor) Harpy]]); 2-8ft ([[Tria (Ratite) Harpy]])
+- **Average Weight**
+	- 4-128lbs (Average); 4-66lbs ([[Spaeto (Raptor) Harpy]]); 20-328lbs ([[Tria (Ratite) Harpy]])
+- **Characteristics & Features**
+	- Generic
+		- Head
+			- Feathers in place of hair
+		- Torso
+			- Humanoid
+		- Arms
+			- Large wings in place of arms; three fingers similar to hoatzin wings
+		- Legs
+			- Digitigrade legs
+		- Other
+			- Feathers covering back, wings, thighs
+- **Body Tint, Coloring, & Marking**
+	- Coloring and marking aligns with afflatus
+- **Symbiotic & Parasitic Species**
+	- 
+- **Social Structure**
+	- 
+- **Byproducts & Exploitation**
+	- 
+- **Special Trait**
+	- Harpy's Song

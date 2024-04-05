@@ -1,0 +1,52 @@
+---
+sticker: ""
+---
+# Properties
+- **Taste**
+	- 
+- **Odor**
+	- 
+- **Color**
+	- 
+- **Common Found State**
+	- 
+- **Physical Characteristics**
+	- 
+- **Properties**
+	- 
+- **Compounds**
+	- Ygnul (Malice Alloy)
+- **Geology/Geography**
+	- 
+- **Origin**
+	- Malice Ore
+# Usage
+- **History**
+	- 
+- **Discovery**
+	- 
+- **Common Use**
+	- 
+- **Cultural Use**
+	- 
+- **Refinement**
+	- 
+- **Manufacturing/Products**
+	- 
+- **Byproducts**
+	- 
+- **Hazards**
+	- 
+- **Environmental Impact**
+	- 
+# Distribution
+- **Value**
+	- 
+- **Rarity**
+	- 
+- **Trade & Market**
+	- 
+- **Storage**
+	- 
+- **Law & Regulation**
+	- 

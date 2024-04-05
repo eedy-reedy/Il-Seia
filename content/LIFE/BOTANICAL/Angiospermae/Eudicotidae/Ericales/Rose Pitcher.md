@@ -1,0 +1,39 @@
+# Drawing Board
+- **Afflatus:**
+	- Pitcher Plant
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+	- [[Speed Dial (Eudicotidae)|Eudicots]]
+	- [[Ericales]]
+	- [[Crop (Plant)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Seed Birth
+- **Diet**
+	- N/A
+- **Habitat**
+	- Regions
+		- [[General (Etra)|Ilsu]]
+	- Biomes
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Mangroves|Mangroves]]
+		- [[Tropical Forests]]
+	- Climate
+		- [[Humid Subtropical]]
+		- [[Tropical Monsoon]]
+		- [[Tropical Rainforest]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- Honey-tasting, wine-like liquid called [[Rosewine]]

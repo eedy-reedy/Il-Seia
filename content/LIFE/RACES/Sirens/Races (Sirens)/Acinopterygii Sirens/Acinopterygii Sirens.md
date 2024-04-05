@@ -1,0 +1,23 @@
+# Generic
+- **Grammar**
+	- Demonym: 
+	- Plural: 
+- **Afflatus**
+	- 
+- **Origin/Ancestry**
+	- 
+- **Geographic Distribution**
+	- 
+# Extended
+- **Characteristics & Features**
+	- Head
+	- Torso
+	- Arms
+	- Legs
+	- Other
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Social Structure**
+	- 
+- **Special Trait**
+	- 

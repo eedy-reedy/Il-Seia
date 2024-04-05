@@ -1,0 +1,30 @@
+---
+sticker: ""
+---
+# Geography & Nature
+- **Afflatus**
+	- **Which culture inspires this region?**
+		- Swiss
+- **Landscape**
+	- **What are the main biomes?**
+		- [[Flooded Steppes]]
+		- [[Montane Steppes]]
+		- [[NATURE/BIOMES & CLIMATES/Biomes/TERRESTRIAL/Tundra|Tundra]]
+		- [[Montane Freshwaters]]
+		- [[Temperate Coastal Rivers]]
+		- [[Temperate Floodplain Rivers]]
+		- [[Temperate Upland Rivers]]
+- **Climate**
+	- **What is the climate like?**
+		- [[Alpine]]
+		- [[Polar]]
+		- [[NATURE/BIOMES & CLIMATES/Climates/Tundra|Tundra]]
+	- **Is the climate consistent or changeable?**
+		- Consistent
+- **Seasons**
+	- **How many seasons are there?**
+		- 
+	- **How long are the seasons?**
+		- 
+	- **What seasons are there?**
+		- 

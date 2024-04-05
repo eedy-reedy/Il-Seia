@@ -1,0 +1,74 @@
+# Generic
+
+- **Grammar**
+	- Demonym: 
+	- Plural:
+- **Creature Class**
+	- [[Humanoid]]
+- **Origin/Ancestry**
+	- [[Generic (Dohil)|Dohil]]
+- **Geographic Distribution**
+	- [[Great Western Sea (Redselie)]]
+	- [[Aetikan Sea (Azelda)]]
+	- [[Sea of the Banished (Natspar)]]
+	- [[Sea of Dusk (Djole)]]
+	- [[Kirkjar Ocean (Keselie)]]
+	- [[White Sea (Lohie)]]
+	- [[Sea of Dawn (Ktrove)]]
+	- [[Moreyan Ocean Sparko]]
+- **Related Races**
+	- Anthozoa Kanaloa
+	- Cephalopoda Kanaloa
+	- Crustacea Kanaloa
+	- Medusozoa Kanaloa
+	- Trilobita Kanaloa
+- **Perception & Sensory/Extrasensory Capabilities**
+	- Infrared and Ultraviolet Vision ([[Mantis Shrimp Kanaloa]])
+	- Lateral Line ([[Cephalopoda Kanaloa]])
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Egg Birth
+- **Growth Rate & Stages**
+	- [[Crustacea Kanaloa]]/[[Lobster Kanaloa]]
+		- Infancy: 1-5 years
+		- Childhood: 6-15 years
+		- Puberty: 16-30 years
+		- Adulthood: 31-100 years
+	- Crustacean Cecaelia
+		- Infancy: 1-2 years
+		- Childhood: 3-7 years
+		- Puberty: 8-15 years
+		- Adulthood: 15-40 years
+	- Mollusk Cecaelia
+		- Infancy: 1-2 years
+		- Childhood: 3-7 years
+		- Puberty: 8-15 years
+		- Adulthood: 15-40 years
+- **Dietary Needs & Habits**
+	- Omnivorous (Average); Carnivorous ([[Cephalopoda Kanaloa]])
+- **Behavior & Psychology**
+	- Alignment: [[Lawful Neutral]]
+# Extended
+- **Average Lifespan**
+	- 
+- **Average Height**
+	- 2-7ft (Crustacean Cecaelia); 5-15ft (Mollusk Cecaelia)
+- **Average Weight**
+	- 20-251lbs (Crustacean Cecaelia); 128-1152lbs (Mollusk Cecaelia)
+- **Characteristics & Features**
+	- Generic
+		- Head
+		- Torso
+		- Arms
+		- Legs
+		- Other
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Symbiotic & Parasitic Species**
+	- 
+- **Social Structure**
+	- 
+- **Byproducts & Exploitation**
+	- 
+- **Special Trait**
+	- Limb Regeneration

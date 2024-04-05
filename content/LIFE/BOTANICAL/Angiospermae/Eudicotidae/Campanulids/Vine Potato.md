@@ -1,0 +1,45 @@
+# Drawing Board
+- **Afflatus:**
+	- Potato Plant
+- **Chimerism:**
+	- 
+- **Behavior:**
+	- Grows on vines
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+	- [[Speed Dial (Eudicotidae)|Eudicots]]
+	- [[Campanulids]]
+	- [[Crop (Plant)]]
+- **Genetics & Reproduction**
+	- 
+- **Diet**
+	- N/A
+- **Habitat**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Isaz)|Isaz]]
+		- [[General (Kveld)|Kveld]]
+		- [[General (Maen Alae)|Maen Alae]]
+		- [[General (Morey)|Morey]]
+		- [[General (Storelva)|Storelva]]
+		- [[General (Suay)|Suay]]
+	- Biomes
+		- [[Montane Steppes]]
+		- [[Temperate Steppes]]
+	- Climate
+		- [[Alpine]]
+		- [[Humid Continental]]
+		- [[Mediterranean]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

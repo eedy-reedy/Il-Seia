@@ -1,0 +1,20 @@
+*Quiet and mystical, yet very inspiring and tireless idealists.*
+# Introduction
+
+INFJ (Advocate) is a personality type with the [Introverted](https://www.16personalities.com/articles/energy-introverted-vs-extraverted), [Intuitive](https://www.16personalities.com/articles/mind-intuitive-vs-observant), [Feeling](https://www.16personalities.com/articles/nature-thinking-vs-feeling), and [Judging](https://www.16personalities.com/articles/tactics-judging-vs-prospecting) traits. They tend to approach life with deep thoughtfulness and imagination. Their inner vision, personal values, and a quiet, principled version of humanism guide them in all things.
+
+# Strengths
+
+- **Insightful** – People with the INFJ personality type (Advocates) know all too well that appearances can be misleading. These personalities strive to move beyond superficiality and seek out the deeper truths in life. This can give them an almost uncanny ability to understand people’s true motivations, feelings, and needs.
+- **Principled** – INFJs tend to have strong beliefs and values, particularly when it comes to matters of ethics. They consider lying to be morally wrong, and they make a concerted effort to not deceive others – even when they could directly benefit from doing so. In fact, they are the least likely personality type to say they sometimes take advantage of other people.
+- **Passionate** – INFJ personalities crave a sense of purpose in life. Rather than living on autopilot or sticking to the status quo, they want to chase after their dreams. This isn’t a personality type that shies away from shooting for the stars – they are energized and impassioned by the beauty of their visions for the future.
+- **Altruistic** – People with this personality type aren’t happy to succeed at another person’s expense. INFJs want to use their strengths for the greater good, and they rarely lose sight of how their words and actions might affect others. In their heart of hearts, they want to make the world a better place, starting with the people around them.
+- **Creative** – INFJ personalities aren’t exactly like everyone else – and that’s a wonderful thing. They embrace their creative side, always on the lookout for opportunities to express themselves and think outside the box.
+
+# Weaknesses
+
+- **Sensitive to Criticism** – INFJs are often averse to criticism, especially if they believe that someone is challenging their most cherished principles or values. When it comes to the issues that are near and dear to them, people with this personality type can become defensive, dismissive, or angry.
+- **Reluctant to Open Up** – INFJ personalities value honesty and authenticity, but they’re also private. They may find it difficult to open up and be vulnerable about their struggles, not wanting to burden someone else with their issues. Unfortunately, when they don’t ask for help, they may inadvertently hold themselves back or create distance in their relationships.
+- **Perfectionistic** – These visionary personalities are all but defined by idealism. While this is a wonderful quality in many ways, it doesn’t always leave room for the messiness of real life. INFJs might find it difficult to appreciate their jobs, living situations, or relationships if they’re continually fixating on imperfections and wondering whether they should be looking for something better.
+- **Avoiding the Ordinary** – INFJs yearn to do extraordinary things with their lives. But it’s hard to achieve anything extraordinary without breaking it down into small, manageable steps. Unless they translate their dreams into everyday routines and to-do lists, they may struggle to turn their grand visions into reality.
+- **Prone to Burnout** – INFJs’ perfectionism and reserve leave them with few options for letting off steam. People with this personality type can exhaust themselves if they don’t balance their drive to help others with necessary self-care and rest.

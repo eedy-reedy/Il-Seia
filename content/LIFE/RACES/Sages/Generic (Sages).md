@@ -1,0 +1,92 @@
+# Generic
+
+- **Grammar**
+	- Demonym: Druil
+	- Plural: Druan
+- **Creature Class**
+	- [[Humanoid]]
+- **Origin/Ancestry**
+	- [[Alaethian Alf|Vahir Alves]]
+	- [[Crawling Malice Vine]]
+- **Geographic Distribution**
+	- [[Aetika]]
+	- [[Elendu]]
+	- [[Athelu]]
+	- [[The Advent]]
+	- [[The Western Rim]]
+- **Related Races**
+	- Cycadopsida Sages
+		- [[Cycadineae Sages]]
+		- [[Zamiineae Sages]]
+	- Eudicotidae Sages
+		- [[Campanulids Sages]]
+		- [[Ericales Sages]]
+		- [[Fabids Sages]]
+		- [[Lamiids Sages]]
+		- [[Malvids Sages]]
+		- [[Saxifragales Sages]]
+		- [[Vitaceae Sages]]
+	- Ginkgoopsida Sages
+		- [[Ginkgoales Sages]]
+	- Gnetidae Sages
+		- [[Gnetales Sages]]
+	- Magnoliidae Sages
+		- [[Laurales Sages]]
+		- [[Magnoliales Sages]]
+		- [[Piperales Sages]]
+	- Monocotyleae Sages
+		- [[Alismatids Sages]]
+		- [[Asparagales Sages]]
+		- [[Commelinids Sages]]
+		- [[Lilioids Sages]]
+	- Nymphaeanae Sages
+		- [[Nymphaeaceae Sages]]
+	- Pinopsida Sages
+		- [[Cupressidae Sages]]
+		- [[Pinidae Sages]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- Average as fuck. Poor them
+- **Genetics & Reproduction**
+	- Sexual (Pollination) Reproduction
+	- Pollination is done through pollen glands on tongues (yes, they french kiss)
+	- Ovoviviparity
+- **Growth Rate & Stages**
+	- Average
+		- Infancy: 1-3 years
+		- Childhood: 4-8 years
+		- Puberty: 9-17 years
+		- Adulthood: 18-75
+		- Petrification: 76-500 years
+- **Dietary Needs & Habits**
+	- Omnivorous + Photosynthetic
+- **Behavior & Psychology**
+	- Alignment: [[True Neutral]]
+# Extended
+
+- **Average Lifespan**
+	- 
+- **Average Height**
+	- 3-7ft (Alive); 3-380ft (Petrified)
+- **Average Weight**
+	- 46-251lbs (Alive)
+- **Characteristics & Features**
+	- Generic
+		- Head
+			- Branch-like growths on head called “antlers”
+			- Long, grasslike growths in place of hair
+		- Torso
+		- Arms
+		- Legs
+		- Other
+- **Body Tint, Coloring, & Marking**
+	- Tint
+		- Shades of Green, Purple, Red, Yellow
+		- Veins appear lighter than skin
+- **Symbiotic & Parasitic Species**
+	- 
+- **Social Structure**
+	- 
+- **Byproducts & Exploitation**
+	- The sap-like substance in Sages’ antlers is believed to hold the key to the petrification process. Both Sages and foreign species believe it could prolong life if properly refined
+- **Special Trait**
+	- Proficiency in manipulating Isra

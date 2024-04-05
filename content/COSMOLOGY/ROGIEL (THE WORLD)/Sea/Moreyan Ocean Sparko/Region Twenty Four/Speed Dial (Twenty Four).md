@@ -1,0 +1,24 @@
+# Geography & Nature
+- **Afflatus**
+	- **Which culture inspires this region?**
+		- 
+- **Landscape**
+	- **What are the main biomes?**
+		- [[Abyssal Zone]]
+		- [[Kelp Forests]]
+		- [[Littoral Zone]]
+		- [[Pelagic Zone]]
+		- [[Polar Seas]]
+- **Climate**
+	- **What is the climate like?**
+		- [[Ice Cap]]
+		- [[Oceanic]]
+	- **Is the climate consistent or changeable?**
+		- Consistent
+- **Seasons**
+	- **How many seasons are there?**
+		- 
+	- **How long are the seasons?**
+		- 
+	- **What seasons are there?**
+		- 

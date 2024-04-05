@@ -1,0 +1,65 @@
+# Generic
+
+- **Grammar**
+	- Demonym: 
+	- Plural:
+- **Creature Class**
+	- [[Humanoid]]
+- **Origin/Ancestry**
+	- [[Squamata Naga]] (Tegu)
+- **Geographic Distribution**
+	- [[Kirkja]]
+	- [[The Western Rim]]
+	- [[Aetika]]
+	- [[Skagi]]
+	- [[The Advent]]
+- **Related Races**
+	- [[Mainland Kirkja Alf]]
+	- [[Alaethian Alf]]
+	- [[Isaz Alf]]
+- **Perception & Sensory/Extrasensory Capabilities**
+	- Heightened Smell/Taste
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Ovoviviparity
+- **Growth Rate & Stages**
+	- Average
+		- Infancy: 1-5 years
+		- Childhood: 6-15 years
+		- Puberty: 16-30 years
+		- Adulthood: 31-100 years
+- **Dietary Needs & Habits**
+	- Omnivorous
+- **Behavior & Psychology**
+	- Alignment: [[Chaotic Good]]
+# Extended
+- **Average Lifespan**
+	- 
+- **Average Height**
+	- 5-6ft (Average)
+- **Average Weight**
+	- 128-183lbs (Average)
+- **Characteristics & Features**
+	- Generic
+		- Head
+			- Parietal Eyes
+			- Forked Tongue
+			- Lengthened Earlobes
+		- Torso
+		- Arms
+		- Legs
+		- Other
+			- Mesothermic Blood
+			- Painful Venom
+			- Scales covering body in patches
+			- Claws on hands, feet
+- **Body Tint, Coloring, & Marking**
+	- Aligns with [[Generic (Humans)|Humans]]
+- **Symbiotic & Parasitic Species**
+	- 
+- **Social Structure**
+	- 
+- **Byproducts & Exploitation**
+	- 
+- **Special Trait**
+	- Rapid Healing

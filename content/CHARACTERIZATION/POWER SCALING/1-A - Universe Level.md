@@ -1,0 +1,2 @@
+# Generic
+*Characters or objects that can create or destroy all celestial bodies within a finite 3-D space at least equivalent in size to the observable universe via an omnidirectional explosion that covers the entire space, alternately create or significantly affect a 3-D universe or a pocket dimension of comparable size, which does not involve the destruction and/or creation of space-time.*

@@ -1,0 +1,92 @@
+# Enneagram
+
+**2SP - Privilege**
+*Self-Preservation Twos “seduce” like a child in the presence of grown-ups as a way of (unconsciously) inducing others to take care of them. Everyone likes children, and the SP Two adopts a youthful stance as a way of getting special treatment well beyond childhood. As the countertype, it’s less easy to see pride in this Two because they are more fearful of and ambivalent about connecting with others. The title “Privilege” reflects this Two’s desire to be loved and prioritized just for being who they are, not for what they give to others. Related to the youthful stance, these Twos are playful, irresponsible, and charming.*
+# Generic
+- **Aliases/Titles**
+	- The Jester
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Church of Eihaat (Helpers)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Trickery
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Chaotic Good]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Cowardice]]
+		- [[Cruelty]]
+		- [[Indignity]]
+		- [[Insecurity]]
+		- [[Loathing]]
+		- [[Loyalty]]
+		- [[Neglect]]
+		- [[Perversion]]
+		- [[Prejudice]]
+	- Virtues
+		- [[Charisma]]
+		- [[Courage]]
+		- [[Creativity]]
+		- [[Dedication]]
+		- [[Dissonance]]
+		- [[Hedonism]]
+		- [[Independence]]
+		- [[Passion]]
+		- [[Romanticism]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[(Toothed) Selkie]] (Orca)
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 2 - The Helper]]
+		- **Basic Fear:** Of being unwanted, unworthy of being loved
+		- **Basic Desire:** To feel loved
+		- **Key Motivations:** Want to be loved, to express their feelings for others, to be needed and appreciated, to get others to respond to them, to vindicate their claims about themselves.
+		- **Level 1 (At Their Best):** Become deeply unselfish, humble, and altruistic: giving unconditional love to self and others. Feel it is a privilege to be in the lives of others.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

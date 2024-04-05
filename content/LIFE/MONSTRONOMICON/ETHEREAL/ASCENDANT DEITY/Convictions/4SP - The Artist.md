@@ -1,0 +1,92 @@
+# Enneagram
+
+**4SP - Tenacity**
+*The Self-Preservation Four is long-suffering. As the countertype of the Fours, SP Fours are stoic in the face of their inner pain and they don’t share it with others as much as the other two Fours. This is a person who learns to tolerate pain and to do without as a way of earning love. Instead of dwelling in envy, SP Fours act out their envy by working hard to get what others have and they lack. More masochistic than melodramatic, these Fours demand a lot of themselves, have a strong need to endure, and have a passion for effort.*
+# Generic
+- **Aliases/Titles**
+	- [[Seigni Kathir]] ([[Kavora]])
+- **Church/Cult**
+	- N/A
+- **Realm**
+	- [[Court of Sleisiaat (Individualists)]]
+- **Creature Class**
+	- [[LIFE/CREATURE CLASSES/Ascendant Deity|Ascendant Deity]]
+	- [[Convictions]]
+- **Divine Domains**
+	- Arts
+- **Source of Power (Trinity/Worship)**
+	- Worship
+- **Power Level**
+	- [[3-A - Planet Level]]
+- **Alignment**
+	- [[Chaotic Good]]
+- **Artifacts**
+	- 
+- **Holy Books & Codes**
+	- 
+- **Divine Symbols & Sigils**
+	- 
+- **Tenets of Faith**
+	- Vices
+		- [[Conceit]]
+		- [[Conformity]]
+		- [[Cowardice]]
+		- [[Destruction]]
+		- [[Dishonesty]]
+		- [[Insecurity]]
+		- [[Neglect]]
+		- [[Prejudice]]
+		- [[Weakness]]
+	- Virtues
+		- [[Charisma]]
+		- [[Courage]]
+		- [[Creativity]]
+		- [[Dedication]]
+		- [[Discipline]]
+		- [[Independence]]
+		- [[Passion]]
+		- [[Romanticism]]
+		- [[Wisdom]]
+- **Divine Goals**
+	- 
+- **Characteristics & Features**
+	- 
+# Influence
+- **Divine Calling (Frequent/Infrequent/Never)**
+	- 
+- **Divine Inspiration (Frequent/Infrequent/Never)**
+	- 
+- **Divine Intervention (Frequent/Infrequent/Never)**
+	- 
+- **Investment (Interested/Disinterested)**
+	- Interested
+
+# Character Basics
+- **Role in Story**
+	- N/A
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Alaethian Alf]]
+- **Age**
+	- N/A
+- **Profession**
+	- N/A
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 4 - The Individualist]]
+		- **Basic Fear:** That they have no identity or personal significance
+		- **Basic Desire:** To find themselves and their significance (to create an identity)
+		- **Key Motivations:** Want to express themselves and their individuality, to create and surround themselves with beauty, to maintain certain moods and feelings, to withdraw to protect their self-image, to take care of emotional needs before attending to anything else, to attract a "rescuer."
+		- **Level 1 (At Their Best):** Profoundly creative, expressing the personal and the universal, possibly in a work of art. Inspired, self-renewing and regenerating: able to transform all their experiences into something valuable: self-creative.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **What are their character quirks?**
+	- 

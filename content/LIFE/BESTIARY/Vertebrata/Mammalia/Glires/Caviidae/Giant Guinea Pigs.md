@@ -1,0 +1,44 @@
+# Drawing Board
+- **Afflatus:**
+	- 
+- **Chimerism:**
+	- Size of Capybaras
+- **Behavior:**
+	- 
+- **Personality:**
+	- Stampedes
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Mammalia)]]
+	- [[Glires]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Main Trait:**
+	- 
+- **Ability:**
+	- 
+- **Diet:**
+	- 
+- **Habitat:**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

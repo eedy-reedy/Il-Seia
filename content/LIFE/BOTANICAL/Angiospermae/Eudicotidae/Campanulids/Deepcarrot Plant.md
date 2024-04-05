@@ -1,0 +1,48 @@
+# Drawing Board
+- **Afflatus:**
+	- Carrot Plant
+- **Chimerism:**
+	- Very Large
+- **Behavior:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Plant]]
+	- [[Speed Dial (Eudicotidae)|Eudicots]]
+	- [[Campanulids]]
+	- [[Crop (Plant)]]
+- **Genetics & Reproduction**
+	- Asexual Reproduction
+	- Propagation
+- **Diet**
+	- N/A
+- **Habitat**
+	- Regions
+		- [[General (Advu)|Aleil]]
+		- [[General (Alaethia)]]
+		- [[General (Cerul)|Cerul]]
+		- [[General (Ersan)|Ersan]]
+		- [[General (Harmolipe)]]
+		- [[General (Etra)|Ilsu]]
+		- [[General (Isaz)|Isaz]]
+		- [[General (Kveld)|Kveld]]
+		- [[General (Morey)|Morey]]
+	- Biomes
+		- [[Temperate Steppes]]
+		- [[Tropical Steppes]]
+	- Climate
+		- [[Humid Continental]]
+		- [[Humid Subtropical]]
+		- [[Mediterranean]]
+		- [[Tropical Savanna]]
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 

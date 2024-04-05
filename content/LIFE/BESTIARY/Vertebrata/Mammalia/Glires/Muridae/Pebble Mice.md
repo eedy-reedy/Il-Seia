@@ -1,0 +1,43 @@
+ # Drawing Board
+- **Afflatus:**
+	- Kangaroo Mice
+- **Chimerism:**
+	- Bipedal
+	- Opposable Thumbs
+- **Behavior:**
+	- Cracks open beetle shells with pebbles
+- **Personality:**
+	- 
+# Creature Basics
+- **Class:**
+	- [[Beast]]
+	- [[Speed Dial (Mammalia)]]
+	- [[Glires]]
+	- [[Muridae]]
+	- [[Wild (Animal)]]
+- **Genetics & Reproduction**
+	- Sexual Reproduction
+	- Live Birth
+- **Diet:**
+	- Herbivorous
+- **Habitat:**
+	- Regions
+		- 
+	- Biomes
+		- 
+	- Climate
+		- 
+- **Lifespan**
+	- 
+- **Characteristics & Features**
+	- Height/Length
+		- 6 in (Body)
+		- 10 in (Tail)
+	- Wingspan
+		- 
+	- Weight
+		- 
+- **Body Tint, Coloring, & Marking**
+	- 
+- **Byproducts & Exploitation**
+	- 
