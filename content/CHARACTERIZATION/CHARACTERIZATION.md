@@ -7,4 +7,8 @@ _sort:
   asc: false
   group: false
 sticker: lucide//user
+title: CHARACTERIZATION
+draft: false
+tags:
+
 ---
