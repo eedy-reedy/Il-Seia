@@ -1,0 +1,43 @@
+# Character Basics
+- **Aliases**
+	- [[7SO - The Martyr]]
+- **Role in Story**
+	- 
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Erithu (Gnetale) Sage]]
+- **Age**
+	- 
+- **Profession**
+	- 
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 7 - The Enthusiast]]
+		- **Basic Fear:** Of being deprived and in pain
+		- **Basic Desire:** To be satisfied and content—to have their needs fulfilled
+		- **Key Motivations:** Want to maintain their freedom and happiness, to avoid missing out on worthwhile experiences, to keep themselves excited and occupied, to avoid and discharge pain.
+		- **Level 9:** Finally, their energy and health is completely spent: become claustrophobic and panic-stricken. Often give up on themselves and life: deep depression and despair, self-destructive overdoses, impulsive suicide. Generally corresponds to the Bipolar disorder and Histrionic personality disorder.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **Top three things they value most in life?**
+- **What are their character quirks?**
+	- 
+# Other
+- **Spoken Languages**
+	- 
+- **Religious Belief/Deity**
+	- 
+- **Current Status**
+	- Dead
+- **Affiliated Cultures/Organizations**
+	- 
+- **Conditions**
+	- 

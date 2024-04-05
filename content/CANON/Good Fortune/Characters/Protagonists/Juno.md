@@ -1,0 +1,63 @@
+# Character Basics
+- **Aliases**
+	- 
+- **Role in Story**
+	- Protagonist; [[Heart]]
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender: Male
+	- Family: [[Ginkgoaceae Family]]
+	- Species: [[Eudicotidae Sages]] (Ginkgo Biloba)
+- **Age**
+	- 11-17
+- **Profession**
+	- [[Slaves|Slave]]
+- **Magic**
+	- Shape: [[Service]]
+	- Level of Desire: [[Level 4A - Obsession]]
+- **Personality Type (Enneagram)**
+	- [[Type 2 - The Helper]]
+		- **Basic Fear:** Of being unwanted, unworthy of being loved
+		- **Basic Desire:** To feel loved
+		- **Key Motivations:** Want to be loved, to express their feelings for others, to be needed and appreciated, to get others to respond to them, to vindicate their claims about themselves.
+		- **Level 5:** Become overly intimate and intrusive: they need to be needed, so they hover, meddle, and control in the name of love. Want others to depend on them: give, but expect a return: send double messages. Enveloping and possessive: the codependent, self-sacrificial person who cannot do enough for others—wearing themselves out for everyone, creating needs for themselves to fulfill.
+- **What is their greatest fear?**
+	- Of being separated from Myla/of being unloved by anyone
+- **What is their misbelief about the world?**
+	- There is nobody left in the world to love him except for Myla
+- **What happened in this character’s past to make them believe this lie?**
+- **What do they most often criticize others for?**
+- **What is their love language?**
+	- Words of Affirmation
+- **How do they respond to emotional pain?**
+	- Isolation; Violence
+- **What are their character quirks?**
+	- 
+- **Top three things they value most in life?**
+- **Is there an object they can’t bear to part with and why?**
+- **Describe a typical outfit for them top to bottom**
+- **What is their method of manipulation?**
+	- Guilt Tripping
+# Character Goals
+- **How is your character dissatisfied with their life?**
+- **What does your character believe will bring them true happiness or contentment?**
+- **What definitive step could they take to turn their dream into a reality?**
+- **How has their fear kept them from taking this action already?**
+- **How does your protagonist feel they can accomplish their goal while still steering clear of the thing they are afraid of?**
+- **What will actually bring your character true happiness or contentment?**
+- **What is preventing them from meeting that need?**
+- **What event could help them realize their need?**
+- **What definitive step could they take to fulfill their need?**
+# Other
+- **Spoken Languages**
+	- [[Great Western Trade]]
+	- [[New World Soman]]
+- **Religious Belief/Deity**
+	- [[Averyism]] (Sect of the Mother)
+- **Current Status**
+	- 
+- **Affiliated Cultures/Organizations**
+	- [[Fortune Keepers]]
+- **Conditions**
+	- [[The Calling]]

@@ -1,0 +1,405 @@
+# Plots
+## Main Plot
+- The quest of Meilarand
+- Lillian reclaiming her identity
+	- Motherhood/Sexuality
+	- Femininity
+## Subplots
+- Lillian making peace with the past
+- Juno adopting Lillian's anger
+- Myla adopting Moody's quietness
+- Moody learning not to try and recreate the past
+- Draia learning to be her own person
+# Roles
+## [[Lillian Windhelm]]
+- Character Foil: [[Aislin Connoly]]
+- Parental Foil: [[Moody Ansel]]
+- Pro-Motherhood Foil: [[Caitria Byrne]]
+## [[Juno]]
+- Influences: [[Lillian Windhelm]], [[Moody Ansel]]
+- Child Development Foil: [[Myla]]
+## [[Myla]]
+- Influences: [[Moody Ansel]], [[Serselei Draia]]
+- Child Development Foil: [[Juno]]
+## [[Moody Ansel]]
+- Parental Foil: [[Lillian Windhelm]]
+## [[Serselei Draia]]
+- Femininity Foil: [[Lillian Windhelm]]
+- Gender Identity Foil: [[Anneli Magni]]
+- Love Interest/Sexuality Foil: [[Jari Damarna]]
+# Arc One - Prelude
+- **Notes**
+	- Core Themes: Escapism
+	- Lillian's Age: 21; Juno's Age: 11; Myla's Age: 9; Moody's Age: N/A; Draia's Age: N/A
+	- Antagonists: [[Raina Windhelm]]
+- **Exposition**
+	- Juno and Myla are introduced. They are orphans in the small town of Belderry, just outside the Roswood, treated with particular malevolence for their sage heritage
+	- When they can, they venture out into the Roswood as an escape from their situation. Knowing the dangers, they always make sure to return before nightfall
+- **Inciting Incident**
+	- Having stayed out too long on accident, Juno and Myla find themselves attacked by mylings. Lillian is passing through the Roswood in her escape from Lettermore, and in the darkest hour she swoops in to save the day. Despite her efforts, though, Lillian can't fend off the mylings, and she is forced to use Meilarand to drive them away
+- **Plot Point One**
+	- Lillian starts to freak out. She's now placed the children in danger as a result of using Meilarand, but knows the journey ahead is also too dangerous for them. She tries to send the children back to Belderry, but they beg to come with her on her journey. When Lillian goes to literally drag them back to Belderry, Juno's beating scars are revealed, and Lillian finally caves
+- **Rising Action**
+	- **Crisis One**
+		- Juno is afflicted with the Calling as punishment for Lillian's usage of Meilarand. 
+- **Midpoint**
+- **Plot Point Two**
+- **Pre-Climax**
+- **Climax**
+	- 
+- **Resolution**
+# Arc Two - Overture
+## Sub Arc One - Windhelm
+- **Notes**
+	- Exposition to all core themes (Love, Protection)
+	- Clara's Age: 11-12.5; Raina's Age: 14-15.5; Aislin's Age: 11-12.5; Brin's Age: 12-13.5
+	- Antagonists: [[Raina Windhelm]]
+- **Exposition**
+- **Inciting Incident**
+- **Plot Point One**
+- **Rising Action**
+	- **Crisis One**
+	- **Crisis Two**
+	- **Crisis Three**
+- **Midpoint**
+- **Plot Point Two**
+- **Pre-Climax**
+- **Climax**
+- **Resolution**
+- Introduce Clara, Lily, Raina, etc.
+- Clara and Raina are told that the throne is meant for men. the windhelm family has tried over and over to have a male heir, but to no avail, so the throne will instead be passed to the first in line–their older sister
+- Raina kills elder sister and frames her death as food poisoning.
+- Raina breaks down and confesses to Clara that she was the one who killed
+- Clara walks in on Lily being raped by another noble as blackmail
+- Raina is now treated with a new level of respect as the new heiress of Windhelm, and she is relishing in it. Clara sees this, and, unable to bear the guilt of the truth any longer, she goes to confess to Sir Donnacha, Raina’s appointed knight. Donnacha reveals that he is well aware, and that he is being blackmailed by Raina into silence. Being of higher ranking, Raina has threatened Donnacha’s entire status were the truth to come out.
+- Lily dies in childbirth
+## Sub Arc Two - Esmore
+- **Notes**
+	- Exposition to all core themes (Gender, Strength, Trust)
+	- Clara's Age: 13-17; Raina's Age: 16; Aislin's Age: 12; Brin's Age: 15
+	- Antagonists: [[Milo Fachnan]]
+- **Exposition**
+	- In her grief, Clara makes the resolution to follow in Lily's footsteps. She travels to Esmore, where she hopes to become a squire, then a knight
+	- At Esmore, she first meets Aislin, who is kind despite Clara's tough exterior. The two of them then meet Brin, a trainee in the year before them, who takes them both under his wing.
+- **Inciting Incident**
+- **Plot Point One**
+- **Rising Action**
+	- **Crisis One**
+		- Clara makes advances on Brin
+	- **Crisis Two**
+		- Milo makes advances on Clara
+	- **Crisis Three**
+		- Clara kills Milo after Milo tries to assault her
+- **Midpoint**
+	- 
+- **Plot Point Two**
+	- 
+- **Pre-Climax**
+	- The war games: buildup to Clara and Aislin's battle
+- **Climax**
+	- Clara and Aislin come face-to-face in the War Games. In a tragedy reminiscent of Athena and Pallas, the Windhelm family uses an underhanded tactic to distract Aislin. In a twist of fate, the confusion causes Aislin to land a crippling blow on Clara
+- **Resolution**
+## Sub Arc Three - The Sword of Fortune
+- **Notes**
+	- Exposition to all core themes (Escapism, Honesty)
+	- Lillian's Age: 19.5-20.5; Moody's Age: 27.5-28
+	- Antagonists: 
+- **Exposition**
+- **Inciting Incident**
+- **Plot Point One**
+- **Rising Action**
+	- **Crisis One**
+		- Clara
+	- **Crisis Two**
+	- **Crisis Three**
+- **Midpoint**
+	- 
+- **Plot Point Two**
+	- 
+- **Pre-Climax**
+- **Climax**
+	- 
+- **Resolution**
+# Arc Three - The River Head
+## Sub Arc One - Journey
+- **Notes**
+	- Core Themes: Escapism
+	- Lillian's Age: 21.5; Juno's Age: 11.5; Myla's Age: 9.5; Moody's Age: 29; Draia's Age: N/A
+	- Antagonists: 
+- **Exposition**
+- **Inciting Incident**
+- **Plot Point One**
+- **Rising Action**
+	- **Crisis One**
+	- **Crisis Two**
+	- **Crisis Three**
+- **Midpoint**
+- **Plot Point Two**
+- **Pre-Climax**
+- **Climax**
+- **Resolution**
+- The team meets Moody Ansel at his family's farm in Coire
+- fun bonding moments
+## Sub Arc Two - Destination
+- **Notes**
+	- Core Themes: Escapism
+	- Lillian's Age: 22; Juno's Age: 12; Myla's Age: 10; Moody's Age: 29.5; Draia's Age: 17
+	- Antagonists: 
+- **Exposition**
+- **Inciting Incident**
+- **Plot Point One**
+- **Rising Action**
+	- **Crisis One**
+	- **Crisis Two**
+	- **Crisis Three**
+- **Midpoint**
+- **Plot Point Two**
+- **Pre-Climax**
+- **Climax**
+- **Resolution**
+# Arc Four - Draia's Proving
+- **Notes**
+	- Core Themes: Trust
+	- Lillian's Age: 22; Juno's Age: 12; Myla's Age: 10; Moody's Age: 29.5; Draia's Age: 17
+	- Antagonists: 
+- **Exposition**
+- **Inciting Incident**
+- **Plot Point One**
+- **Rising Action**
+	- **Crisis One**
+	- **Crisis Two**
+	- **Crisis Three**
+- **Midpoint**
+- **Plot Point Two**
+- **Pre-Climax**
+- **Climax**
+- **Resolution**
+- Magic system is *loosely* introduced
+# Arc Five - Fort Luca
+- **Notes**
+	- Core Themes: Protection
+	- Lillian's Age: 22.5; Juno's Age: 12.5; Myla's Age: 10.5; Moody's Age: 30; Draia's Age: 17.5
+	- Antagonists: 
+- **Exposition**
+- **Inciting Incident**
+- **Plot Point One**
+- **Rising Action**
+	- **Crisis One**
+	- **Crisis Two**
+	- **Crisis Three**
+- **Midpoint**
+- **Plot Point Two**
+- **Pre-Climax**
+- **Climax**
+- **Resolution**
+- lillian gets called the fuck out for being a bad person while caitria is busy being fucking awesome
+# Arc Six - Imprisonment/Sesira
+## First Sub Arc - Lillian's Imprisonment
+- **Notes**
+	- Core Themes: Love
+	- Lillian's Age: 23; Juno's Age: 13; Myla's Age: 11; Moody's Age: 30.5; Draia's Age: 18
+	- Antagonists: [[Raina Windhelm]]
+- **Exposition**
+	- The Fortune Keepers are moving past Machaire and into Toft. Passing through a town, they hear a rumor that the Windhelm army has crossed into toft and established a camp further ahead
+- **Inciting Incident**
+	- After a disagreement between Lillian and Draia, Draia storms off... straight into the Windhelm camp. Moody chases after her. The army attempts to abduct Draia but she escapes, though not without losing her arm in the process. The army leaves her for dead, but Moody manages to find her and brings her further ahead to Sesira, hoping he can save her life
+	- While chasing after Moody and Draia, the remaining Fortune Keepers come face to face with the Windhelm army. Raina tricks Lillian and steals Meilarand from her, arresting her and abducting Juno and Myla in the process. Everything has fallen apart
+- **Plot Point One**
+	- On Lillian's Side
+		- Lillian is imprisoned in Windhelm, visited only by a taunting Raina and her maid, Ishia Leinsi
+	- On Draia's Side
+		- Meet Cute, Stuck Together
+			- Draia awakes in Sesira, being tended to by the young healer Jari Damarna
+	- On Juno & Myla's Side
+		- Now abducted into Windhelm, Juno and Myla come face to face with the now-crowned Raina Windhelm, who treats them with a suspicious amount of warmth
+- **Rising Action**
+	- **Crisis One**
+		- On Lillian's Side
+			- Lillian tries to reason with Leinsi
+		- On Draia's Side
+			- Fighting Attraction
+		- On Juno & Myla's Side
+			- Raina begins to manipulate the children.
+	- **Crisis Two**
+		- On Lillian's Side
+			- Lillian learns about how Leinsi was groomed by Raina
+		- On Draia's Side
+			- Waning Resistance
+		- On Juno & Myla's Side
+			- Coupling a spoiled new life with horror stories of her younger sister, Raina begins to turn them against their foster mother
+	- **Crisis Three**
+		- On Lillian, Juno, & Myla's Side
+			- Raina taunts Lillian by bringing Juno and Myla to see her. The children have already fallen to Raina's manipulation, regarding Lillian with a new sort of fear. This taunting is done to weaken Lillian's morale, as Raina is secretly afraid of her tenacity
+		- On Draia's Side
+			- Desire
+	- **Crisis Four**
+		- On Lillian's Side
+			- Lillian tries again to reason with Leinsi, using the children's transformation as evidence of Raina's tactics. Leinsi is still not swayed
+		- On Draia's Side
+			- Pinch Point One
+				- Damarna's illness takes a turn for the worse
+		- On Juno & Myla's Side
+			- Seeing Lillian's weakened state has had differing effects on the children. Juno only fears Lillian more, while the experience has snapped Myla out of her trance. 
+			- Myla tries to pull Juno back to reason, but Juno, wanting Myla's best interests, insists they stay with Raina
+	- **Crisis Five**
+		- On Lillian's Side
+			- Lillian begins to despair. It seems there is nothing she can do to save herself
+		- On Draia's Side
+			- Imagining HEA, HEA within reach
+		- On Juno & Myla's Side
+			- In a certain conflict, Juno chooses Raina over Myla
+	- **Crisis Six**
+		- On Lillian's Side
+			- Lillian undergoes noetic atrophy
+		- On Draia's Side
+			- Doubt/Fear
+			- Pinch Point Two
+				- Draia is nearly healed. The time has come for her and Moody to move on, and Draia must choose whether to stay with Damarna or continue forward
+		- On Juno & Myla's Side
+			- Juno and Myla become acquainted with Leinsi, and Myla realizes Raina's true intent: the princess intends to use the children for their natural proficiency in Desire magic
+- **Midpoint**
+	- On Lillian's Side
+		- Seeing Lillian's weakened state has brought about a pity in Leinsi, and thus a change of heart. Leinsi becomes more open to Lillian's suggestion
+	- On Draia's Side
+		- Retreat
+		- Black Moment
+	- On Juno & Myla's Side
+		- Myla too begins to reason with Leinsi. It is still very difficult to turn the young sage against her master
+- **Plot Point Two**
+	- On Lillian's Side
+		- Lillian finally wins Leinsi over. Leinsi stops restricting Lillian with her magic
+	- On Draia's Side
+		- Aftermath/Misery
+	- On Juno & Myla's Side
+		- Leinsi does not have the key to Lillian's cell; Raina does. After a near-harrowing failure, Myla manages to steal the key from under Raina's nose. She does not have access to the dungeon so she gives the key to Leinsi, who has been won over
+- **Pre-Climax**
+	- On Lillian, Juno, & Myla's Side
+		- Leinsi frees Lillian, and the deeply weakened knight follows her to where Raina, Juno, and Myla are waiting. When the two forces collide, Raina immediately puts the children in a hostage situation using Meilarand. She will not lose this chance at power
+	- On Draia's Side
+		- Epiphany
+- **Climax**
+	- On Lillian, Juno, & Myla's Side
+		- Lillian kills raina and reunites with Juno and Myla
+	- On Draia's Side
+		- Grand Gesture
+- **Resolution**
+	- With Raina dead, Lillian has become the final heir to the Windhelm throne. This is her sweet temptation--she doesn't take it
+# Arc Seven - Toft
+- **Notes**
+	- Core Themes: Strength
+	- Lillian's Age: 25; Juno's Age: 15; Myla's Age: 13; Moody's Age: 32.5; Draia's Age: 20
+	- Antagonists: 
+- **Exposition**
+- **Inciting Incident**
+- **Plot Point One**
+- **Rising Action**
+	- **Crisis One**
+	- **Crisis Two**
+	- **Crisis Three**
+- **Midpoint**
+- **Plot Point Two**
+- **Pre-Climax**
+- **Climax**
+- **Resolution**
+- lillian has to recover her strength
+# Arc Eight - Fara Dalr
+## First Sub Arc - The Last Bastion
+- **Notes**
+	- Core Themes: Gender
+	- Lillian's Age: 25.5; Juno's Age: 15.5; Myla's Age: 13.5; Moody's Age: 33; Draia's Age: 20.5
+	- Antagonists: 
+- **Exposition**
+- **Inciting Incident**
+- **Plot Point One**
+- **Rising Action**
+	- **Crisis One**
+	- **Crisis Two**
+	- **Crisis Three**
+- **Midpoint**
+- **Plot Point Two**
+- **Pre-Climax**
+- **Climax**
+- **Resolution**
+## Second Sub Arc - No Man's Land
+- **Notes**
+	- Core Themes: Honesty
+	- Lillian's Age: 26; Juno's Age: 16; Myla's Age: 14; Moody's Age: 33.5; Draia's Age: 21
+	- Antagonists: 
+- **Exposition**
+- **Inciting Incident**
+- **Plot Point One**
+- **Rising Action**
+	- **Crisis One**
+	- **Crisis Two**
+	- **Crisis Three**
+- **Midpoint**
+- **Plot Point Two**
+- **Pre-Climax**
+- **Climax**
+- **Resolution**
+- lillian fights a baby wyvern and manages to take it down using her desire magic. though it is a testament to how far she's come and then recovered, it feels empty. lillian realizes that she doesnt need her strength anymore
+# Arc Nine - Haven
+## First Sub Arc
+- **Notes**
+	- Culmination of Core Themes
+	- Lillian's Age: 26; Juno's Age: 16; Myla's Age: 14; Moody's Age: 33.5; Draia's Age: 21
+	- Antagonists: [[Speki Asketil]]
+- **Exposition**
+- **Inciting Incident**
+- **Plot Point One**
+- **Rising Action**
+	- **Crisis One**
+	- **Crisis Two**
+	- **Crisis Three**
+- **Midpoint**
+- **Plot Point Two**
+- **Pre-Climax**
+- **Climax**
+- **Resolution**
+## Second Sub Arc
+- **Notes**
+	- Culmination of Core Themes
+	- Lillian's Age: 26.5; Juno's Age: 16.5; Myla's Age: 14.5; Moody's Age: 34; Draia's Age: 21.5
+	- Antagonists: [[Speki Asketil]]
+- **Exposition**
+- **Inciting Incident**
+- **Plot Point One**
+- **Rising Action**
+	- **Crisis One**
+	- **Crisis Two**
+	- **Crisis Three**
+- **Midpoint**
+- **Plot Point Two**
+- **Pre-Climax**
+	- Asketil comes to kill Lillian
+- **Climax**
+	- Battle between Lillian and Asketil. The fight ends with Lillian being forced to choose between Meilarand or Juno and Myla. She sacrifices herself for the children
+	- Lillian is killed by Asketil
+- **Resolution**
+	- Asketil gets away, and the Fortune Keepers are devastated
+## Third Sub Arc
+- **Notes**
+	- Culmination of Core Themes
+	- Lillian's Age: N/A; Juno's Age: 17; Myla's Age: 15; Moody's Age: 34.5; Draia's Age: 22
+	- Antagonists: [[Speki Asketil]]
+- **Exposition**
+	- The Fortune Keepers regroup after burying Lillian
+- **Inciting Incident**
+	- Draia inherits Meilarand from Lillian's will
+- **Plot Point One**
+	- Juno steals Meilarand
+- **Rising Action**
+	- **Crisis One**
+		- Juno kills Asketil using Meilarand
+	- **Crisis Two**
+		- The Fortune Keepers reunite with Juno, but Juno turns them away
+- **Midpoint**
+	- Myla goes out to connect with Juno alone
+- **Plot Point Two**
+	- Juno and Myla make it to the forgotten foundry, where they learn of the truth behind Meilarand
+- **Pre-Climax**
+	- Myla begs Juno not to sacrifice himself to destroy the sword
+- **Climax**
+	- Juno decides not to destroy Meilarand
+- **Resolution**
+	- Juno returns to the Fortune Keepers

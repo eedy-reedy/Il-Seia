@@ -1,0 +1,43 @@
+# Character Basics
+- **Aliases**
+	- [[2SO - The Noble]]
+- **Role in Story**
+	- 
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Spaeto (Raptor) Harpy]]
+- **Age**
+	- 
+- **Profession**
+	- 
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 2 - The Helper]]
+		- **Basic Fear:** Of being unwanted, unworthy of being loved
+		- **Basic Desire:** To feel loved
+		- **Key Motivations:** Want to be loved, to express their feelings for others, to be needed and appreciated, to get others to respond to them, to vindicate their claims about themselves.
+		- **Level 5:** Become overly intimate and intrusive: they need to be needed, so they hover, meddle, and control in the name of love. Want others to depend on them: give, but expect a return: send double messages. Enveloping and possessive: the codependent, self-sacrificial person who cannot do enough for others—wearing themselves out for everyone, creating needs for themselves to fulfill.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **Top three things they value most in life?**
+- **What are their character quirks?**
+	- 
+# Other
+- **Spoken Languages**
+	- 
+- **Religious Belief/Deity**
+	- 
+- **Current Status**
+	- Dead
+- **Affiliated Cultures/Organizations**
+	- 
+- **Conditions**
+	- 

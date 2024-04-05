@@ -1,0 +1,43 @@
+# Character Basics
+- **Aliases**
+	- [[4SP - The Artist]]
+- **Role in Story**
+	- 
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Alaethian Alf]]
+- **Age**
+	- 
+- **Profession**
+	- 
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 4 - The Individualist]]
+		- **Basic Fear:** That they have no identity or personal significance
+		- **Basic Desire:** To find themselves and their significance (to create an identity)
+		- **Key Motivations:** Want to express themselves and their individuality, to create and surround themselves with beauty, to maintain certain moods and feelings, to withdraw to protect their self-image, to take care of emotional needs before attending to anything else, to attract a "rescuer."
+		- **Level 1 (At Their Best):** Profoundly creative, expressing the personal and the universal, possibly in a work of art. Inspired, self-renewing and regenerating: able to transform all their experiences into something valuable: self-creative.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **Top three things they value most in life?**
+- **What are their character quirks?**
+	- 
+# Other
+- **Spoken Languages**
+	- 
+- **Religious Belief/Deity**
+	- 
+- **Current Status**
+	- Dead
+- **Affiliated Cultures/Organizations**
+	- 
+- **Conditions**
+	- 

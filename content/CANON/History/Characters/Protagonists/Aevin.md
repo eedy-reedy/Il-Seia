@@ -1,0 +1,43 @@
+# Character Basics
+- **Aliases**
+	- [[4SX - The Huntress]]
+- **Role in Story**
+	- 
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Shark Siren]]
+- **Age**
+	- 
+- **Profession**
+	- 
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 4 - The Individualist]]
+		- **Basic Fear:** That they have no identity or personal significance
+		- **Basic Desire:** To find themselves and their significance (to create an identity)
+		- **Key Motivations:** Want to express themselves and their individuality, to create and surround themselves with beauty, to maintain certain moods and feelings, to withdraw to protect their self-image, to take care of emotional needs before attending to anything else, to attract a "rescuer."
+		- **Level 9:** Despairing, feel hopeless and become self-destructive, possibly abusing alcohol or drugs to escape. In the extreme: emotional breakdown or suicide is likely. Generally corresponds to the Avoidant, Depressive, and Narcissistic personality disorders.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **Top three things they value most in life?**
+- **What are their character quirks?**
+	- 
+# Other
+- **Spoken Languages**
+	- 
+- **Religious Belief/Deity**
+	- 
+- **Current Status**
+	- Dead
+- **Affiliated Cultures/Organizations**
+	- 
+- **Conditions**
+	- 

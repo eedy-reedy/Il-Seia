@@ -1,0 +1,43 @@
+# Character Basics
+- **Aliases**
+	- [[6SP - The Mother]]
+- **Role in Story**
+	- 
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Muei (Nymphaeale) Sage]]
+- **Age**
+	- 
+- **Profession**
+	- 
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 6 - The Loyalist]]
+		- **Basic Fear:** Of being without support and guidance
+		- **Basic Desire:** To have security and support
+		- **Key Motivations:** Want to have security, to feel supported by others, to have certitude and reassurance, to test the attitudes of others toward them, to fight against anxiety and insecurity.
+		- **Level 9:** Hysterical, and seeking to escape punishment, they become self-destructive and suicidal. Alcoholism, drug overdoses, self-abasing behavior. Generally corresponds to the Passive-Aggressive and Paranoid personality disorders.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **Top three things they value most in life?**
+- **What are their character quirks?**
+	- 
+# Other
+- **Spoken Languages**
+	- 
+- **Religious Belief/Deity**
+	- 
+- **Current Status**
+	- Dead
+- **Affiliated Cultures/Organizations**
+	- 
+- **Conditions**
+	- 

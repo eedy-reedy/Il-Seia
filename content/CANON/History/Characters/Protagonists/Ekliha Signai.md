@@ -1,0 +1,43 @@
+# Character Basics
+- **Aliases**
+	- [[8SO - The Architect]]
+- **Role in Story**
+	- 
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Isaz Alf]]
+- **Age**
+	- 
+- **Profession**
+	- 
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 8 - The Challenger]]
+		- **Basic Fear:** Of being harmed or controlled by others
+		- **Basic Desire:** To protect themselves (to be in control of their own life  
+		- **Key Motivations:** Want to be self-reliant, to prove their strength and resist weakness, to be important in their world, to dominate the environment, and to stay in control of their situation.
+		- **Level 5:** Begin to dominate their environment, including others: want to feel that others are behind them, supporting their efforts. Swaggering, boastful, forceful, and expansive: the "boss" whose word is law. Proud, egocentric, want to impose their will and vision on everything, not seeing others as equals or treating them with respect.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **Top three things they value most in life?**
+- **What are their character quirks?**
+	- 
+# Other
+- **Spoken Languages**
+	- 
+- **Religious Belief/Deity**
+	- 
+- **Current Status**
+	- Dead
+- **Affiliated Cultures/Organizations**
+	- 
+- **Conditions**
+	- 

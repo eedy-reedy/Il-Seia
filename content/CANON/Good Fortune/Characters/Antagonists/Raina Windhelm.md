@@ -1,0 +1,51 @@
+# Character Basics
+- **Aliases**
+	- 
+- **Role in Story**
+	- Antagonist
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family: [[Windhelm Family]]
+	- Species: [[Morey Human]]
+- **Age**
+	- 13-27
+- **Profession**
+	- [[Princes & Princesses|Princess]]
+- **Magic**
+	- Shape:
+	- LoD:
+- **MBTI Personality Type**
+	- [[INTP (Logician)]]
+		- **Strengths:** Analytical; Original; Open-Minded; Curious; Honest
+		- **Weaknesses:** Disconnected; Insensitive; Dissatisfied; Overthinkers; Impatient
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **Top three things they value most in life?**
+- **What are their character quirks?**
+	- 
+# Character Goals
+- **How is your character dissatisfied with their life?**
+- **What does your character believe will bring them true happiness or contentment?**
+- What definitive step could they take to turn their dream into a reality?
+- **How has their fear kept them from taking this action already?**
+- **How does your protagonist feel they can accomplish their goal while still steering clear of the thing they are afraid of?**
+- **What will actually bring your character true happiness or contentment?**
+- **What is preventing them from meeting that need?**
+- **What event could help them realize their need?**
+- **What definitive step could they take to fulfill their need?**
+# Other
+- **Spoken Languages**
+	- 
+- **Religious Belief/Deity**
+	- [[Averyism]] (Sect of the King)
+- **Current Status**
+	- Killed by [[Lillian Windhelm]]
+- **Affiliated Cultures/Organizations**
+	- [[Moreyan Empire]]
+	- [[Principality of Windhelm]]
+- **Conditions**

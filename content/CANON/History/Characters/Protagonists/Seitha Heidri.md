@@ -1,0 +1,43 @@
+# Character Basics
+- **Aliases**
+	- [[3SP - The Silversmith]]
+- **Role in Story**
+	- 
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Heidramaru (Saxifragale) Sage]]
+- **Age**
+	- 
+- **Profession**
+	- 
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 3 - The Achiever]]
+		- **Basic Fear:** Of being worthless
+		- **Basic Desire:** To feel valuable and worthwhile
+		- **Key Motivations:** Want to be affirmed, to distinguish themselves from others, to have attention, to be admired, and to impress others.
+		- **Level 5:** Become image-conscious, highly concerned with how they are perceived. Begin to package themselves according to the expectations of others and what they need to do to be successful. Pragmatic and efficient, but also premeditated, losing touch with their own feelings beneath a smooth facade. Problems with intimacy, credibility, and "phoniness" emerge.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **Top three things they value most in life?**
+- **What are their character quirks?**
+	- 
+# Other
+- **Spoken Languages**
+	- 
+- **Religious Belief/Deity**
+	- 
+- **Current Status**
+	- Dead
+- **Affiliated Cultures/Organizations**
+	- 
+- **Conditions**
+	- 

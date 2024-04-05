@@ -1,0 +1,55 @@
+# Generic
+- **Parent Plot**
+	- [[Speed Dial (Timeline)]]
+- **Related Characters**
+	- Protagonists
+		- [[Megara|"Maggie" Megara]]
+		- [[Anaktoria|"Tori" Anaktoria]]
+		- [[Haithali]]
+- **Section**
+	- Overview
+- **Plot Type**
+	- [[Tragedy]]
+- **Story Structure**
+	- [[The Seven Point Structure]]
+- **Sub-Structures**
+- **Themes**
+	- Primary
+		- Angsty Love
+		- Abuse
+		- Manipulation
+		- Introspection
+	- Secondary
+		- Personas
+		- Emotional Distance
+# Structure
+- **Exposition**
+- **Conflict**
+- **Rising Action**
+- **Climax**
+- **Falling Action**
+- **Resolution**
+# Components
+- **Goals**
+	- [[Megara|Maggie]] wants intimacy, [[Haithali]] wants friendship
+	- [[Anaktoria|Tori]] wants [[Megara|Maggie]] to stay close, [[Megara|Maggie]] needs space to herself
+	- [[Haithali]] is warming up to intimacy with [[Anaktoria|Tori]] but shying away from intimacy with [[Megara|Maggie]]
+- **Hooks**
+- **Stakes**
+- **Moral Quandaries**
+- **Cruel Tricks**
+- **Red Herrings**
+	- 
+# Backdrops
+- **Time Period**
+	- Late [[Age of Everwinter|Age of Everwinter]]
+- **Locations**
+	- Eastern [[General (Hiraeth)|Hiraeth]]
+- **Threats**
+	- The Everwinter
+	- Rogue Scavengers
+	- [[HtP_Clan_One]]
+	- [[HtP_Clan_Two]]
+- **Encounters**
+	- N/A
+- **Past Events**

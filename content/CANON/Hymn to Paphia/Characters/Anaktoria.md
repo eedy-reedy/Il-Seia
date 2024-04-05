@@ -1,0 +1,78 @@
+---
+aliases:
+  - Tori
+---
+# Character Basics
+- **Aliases**
+	- [[Anaktoria|Tori]]
+- **Role in Story**
+	- Protagonist; [[Heart]]; [[Ego]]
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family: 
+	- Species: [[Hylo (Songbird) Harpy]] (Raven)
+-**Age**
+- **Magic**
+	- Shape: N/A
+	- Level of Desire: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 9 - The Peacemaker]]
+		- **Basic Fear:** Of loss and separation
+		- **Basic Desire:** To have inner stability "peace of mind"
+		- **Key Motivations:** Want to create harmony in their environment, to avoid conflicts and tension, to preserve things as they are, to resist whatever would upset or disturb them.
+		- **Level 4:** Fear conflicts, so become self-effacing and accommodating, idealizing others and "going along" with their wishes, saying "yes" to things they do not really want to do. Fall into conventional roles and expectations. Use philosophies and stock sayings to deflect others.
+- **What is their greatest fear?**
+	- Losing stability in her love life
+- **What is their misbelief about the world?**
+	- She can “fix” others by being a beacon of kindness
+- **What happened in this character’s past to make them believe this lie?**
+	- A childhood of constant struggle and neglect in the Everwinter has lead her to become extremely dependent on others
+- **What do they most often criticize others for?**
+	- Repression; Dissociation; Depersonalization
+- **What is their love language?**
+	- Quality Time
+- **How do they respond to emotional pain?**
+	- Repression; Dissociation; Depersonalization
+- **What are their character quirks?**
+	- 
+- **Top three things they value most in life?**
+	- [[Megara|Maggie]]
+	- [[Haithali]]
+- **Is there an object they can’t bear to part with and why?**
+	- Almost everything. A life of struggle has lead her to covet every little thing she owns
+- **Describe a typical outfit for them top to bottom**
+- **What is their method of manipulation?**
+	- Guilt-Tripping
+# Character Goals
+- **How is your character dissatisfied with their life?**
+	- [[Anaktoria|Tori]] worries that [[Megara|Maggie]] is losing interest in her; that [[Megara|Maggie]] doesn’t truly love her
+- **What does your character believe will bring them true happiness or contentment?**
+	- A stable life with [[Megara|Maggie]] and [[Haithali]]
+- **What definitive step could they take to turn their dream into a reality?**
+	- “Fixing” [[Megara|Maggie]], stopping her from seeking solitude in the wilderness every day and instead keeping her close at all times
+- **How has their fear kept them from taking this action already?**
+	- She fears that trying to change [[Megara|Maggie's]] ways will only drive her further away
+- **How does your protagonist feel they can accomplish their goal while still steering clear of the thing they are afraid of?**
+	- By making herself useful to [[Megara|Maggie]], playing out an involved role that keeps [[Megara|Maggie]] from straying out of arms’ reach
+- **What will actually bring your character true happiness or contentment?**
+	- Accepting that she is not responsible for [[Megara|Maggie's]] actions or emotions
+- **What is preventing them from meeting that need?**
+	- Her fear that if she does not intervene, [[Megara|Maggie]] will stray further and further away
+- **What event could help them realize their need?**
+	- Haithali telling her the truth about [[Megara|Maggie's]] true nature
+- **What definitive step could they take to fulfill their need?**
+	- Confronting Harness about who she was, is, and wants to be
+# Other
+- **Spoken Languages**
+	- [[Trade Language]]
+	- [[Eloephe Language]]
+- **Religious Belief/Deity**
+	- N/A
+- **Current Status**
+	- 
+- **Affiliated Cultures/Organizations**
+	- 
+- **Conditions**
+	- 

@@ -1,0 +1,43 @@
+# Character Basics
+- **Aliases**
+	- [[2SX - The Concubine]]
+- **Role in Story**
+	- 
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family:
+	- Species: [[Chondrostei Siren]]
+- **Age**
+	- 
+- **Profession**
+	- 
+- **Magic**
+	- Shape: N/A
+	- LoD: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 2 - The Helper]]
+		- **Basic Fear:** Of being unwanted, unworthy of being loved
+		- **Basic Desire:** To feel loved
+		- **Key Motivations:** Want to be loved, to express their feelings for others, to be needed and appreciated, to get others to respond to them, to vindicate their claims about themselves.
+		- **Level 9:** Able to excuse and rationalize what they do since they feel abused and victimized by others and are bitterly resentful and angry. Somatization of their aggressions results in chronic health problems as they vindicate themselves by "falling apart" and burdening others. Generally corresponds to the Histrionic Personality Disorder and Factitious Disorder.
+- **Backstory**
+- **What is their greatest fear?**
+- **What is their misbelief about the world?**
+- **What happened in the character’s past to create this misbelief?**
+- **What is their agenda?**
+- **Top three things they value most in life?**
+- **What are their character quirks?**
+	- 
+# Other
+- **Spoken Languages**
+	- 
+- **Religious Belief/Deity**
+	- 
+- **Current Status**
+	- Dead
+- **Affiliated Cultures/Organizations**
+	- 
+- **Conditions**
+	- 

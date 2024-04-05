@@ -1,0 +1,61 @@
+# Character Basics
+- **Aliases**
+	- 
+- **Role in Story**
+	- Protagonist; [[Lancer]]; [[Brains]]
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender: Male
+	- Family: [[Ansel Family]]
+	- Species: [[New Cerul Human]]
+- **Age**
+	- 29-35
+- **Profession**
+	- [[Thieves|Thief]]
+- **Magic**
+	- Shape: [[Service]]
+	- Level of Desire: [[Level 3 - Idealization]]
+- **Personality Type (Enneagram)**
+	- [[Type 3 - The Achiever]]
+		- **Basic Fear:** Of loss and separation
+		- **Basic Desire:** To have inner stability "peace of mind"
+		- **Key Motivations:** Want to create harmony in their environment, to avoid conflicts and tension, to preserve things as they are, to resist whatever would upset or disturb them.
+		- **Level 3:** Optimistic, reassuring, supportive: have a healing and calming influence—harmonizing groups, bringing people together: a good mediator, synthesizer, and communicator.
+- **What is their greatest fear?**
+	- Losing the people closest to him again
+- **What is their misbelief about the world?**
+	- He can replace the family he lost with a new one and feel just as satisfied
+- **What happened in this character’s past to make them believe this lie?**
+- **What do they most often criticize others for?**
+- **What is their love language?**
+	- Quality Time
+- **How do they respond to emotional pain?**
+- **What are their character quirks?**
+	- 
+- **Top three things they value most in life?**
+- **Is there an object they can’t bear to part with and why?**
+- **Describe a typical outfit for them top to bottom**
+- **What is their method of manipulation?**
+# Character Goals
+- **How is your character dissatisfied with their life?**
+- **What does your character believe will bring them true happiness or contentment?**
+- **What definitive step could they take to turn their dream into a reality?**
+- **How has their fear kept them from taking this action already?**
+- **How does your protagonist feel they can accomplish their goal while still steering clear of the thing they are afraid of?**
+- **What will actually bring your character true happiness or contentment?**
+- **What is preventing them from meeting that need?**
+- **What event could help them realize their need?**
+- **What definitive step could they take to fulfill their need?**
+# Other
+- **Spoken Languages**
+	- [[Great Western Trade]]
+	- [[New World Soman]]
+- **Religious Belief/Deity**
+	- [[Averyism]] (Sect of the Mother)
+- **Current Status**
+	- 
+- **Affiliated Cultures/Organizations**
+	- [[Fortune Keepers]]
+- **Conditions**
+	- 

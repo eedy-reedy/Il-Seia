@@ -1,0 +1,61 @@
+# Character Basics
+- **Aliases**
+	- 
+- **Role in Story**
+	- Protagonist; [[Heart]]
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender: Female
+	- Family: [[Ginkgoaceae Family]]
+	- Species: [[Eudicotidae Sages]] (Ginkgo Biloba)
+- **Age**
+	- 9-15
+- **Profession**
+	- [[Slaves|Slave]]
+- **Magic**
+	- Shape: [[Poise]]
+	- Level of Desire: [[Level 5A - Delusion]]
+- **Personality Type (Enneagram)**
+	- [[Type 7 - The Enthusiast]]
+		- **Basic Fear:** Of being deprived and in pain
+		- **Basic Desire:** To be satisfied and content—to have their needs fulfilled
+		- **Key Motivations:** Want to maintain their freedom and happiness, to avoid missing out on worthwhile experiences, to keep themselves excited and occupied, to avoid and discharge pain.
+		- **Level 5:** Unable to discriminate what they really need, become hyperactive, unable to say "no" to themselves, throwing self into constant activity. Uninhibited, doing and saying whatever comes to mind: storytelling, flamboyant exaggerations, witty wise-cracking, performing. Fear being bored: in perpetual motion, but do too many things—many ideas but little follow through.
+- **What is their greatest fear?**
+	- Not being able to stay positive/being abandoned
+- **What is their misbelief about the world?**
+- **What happened in this character’s past to make them believe this lie?**
+- **What do they most often criticize others for?**
+- **What is their love language?**
+	- Quality Time
+- **How do they respond to emotional pain?**
+	- Frustration; Violence
+- **What are their character quirks?**
+	- 
+- **Top three things they value most in life?**
+- **Is there an object they can’t bear to part with and why?**
+- **Describe a typical outfit for them top to bottom**
+- **What is their method of manipulation?**
+# Character Goals
+- **How is your character dissatisfied with their life?**
+- **What does your character believe will bring them true happiness or contentment?**
+- **What definitive step could they take to turn their dream into a reality?**
+- **How has their fear kept them from taking this action already?**
+- **How does your protagonist feel they can accomplish their goal while still steering clear of the thing they are afraid of?**
+- **What will actually bring your character true happiness or contentment?**
+- **What is preventing them from meeting that need?**
+- **What event could help them realize their need?**
+- **What definitive step could they take to fulfill their need?**
+# Other
+- **Spoken Languages**
+	- [[Great Western Trade]]
+	- [[New World Soman]]
+- **Religious Belief/Deity**
+	- [[Averyism]] (Sect of the Mother)
+- **Current Status**
+	- 
+- **Affiliated Cultures/Organizations**
+	- [[Fortune Keepers]]
+- **Conditions**
+	- 

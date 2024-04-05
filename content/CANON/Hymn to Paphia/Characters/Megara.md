@@ -1,0 +1,76 @@
+---
+aliases:
+  - Maggie
+---
+# Character Basics
+- **Aliases**
+	- [[Megara|Maggie]]
+- **Role in Story**
+	- Protagonist; [[Leader]]; [[Id]]
+- **Physical Description**
+	- Height:
+	- Weight:
+	- Gender:
+	- Family: 
+	- Species: [[Western Hiraeth Alf]]
+- **Age**
+	- 23
+- **Magic**
+	- Shape: N/A
+	- Level of Desire: N/A
+- **Personality Type (Enneagram)**
+	- [[Type 4 - The Individualist]]
+		- **Basic Fear:** That they have no identity or personal significance
+		- **Basic Desire:** To find themselves and their significance (to create an identity)
+		- **Key Motivations:** Want to express themselves and their individuality, to create and surround themselves with beauty, to maintain certain moods and feelings, to withdraw to protect their self-image, to take care of emotional needs before attending to anything else, to attract a "rescuer."
+		- **Level 6:** Gradually think that they are different from others, and feel that they are exempt from living as everyone else does. They become melancholy dreamers, disdainful, decadent, and sensual, living in a fantasy world. Self-pity and envy of others leads to self-indulgence, and to becoming increasingly impractical, unproductive, effete, and precious.
+- **What is their greatest fear?**
+	- Confronting her mistakes
+- **What is their misbelief about the world?**
+	- She can love someone through a persona, without revealing her true nature
+- **What happened in this character’s past to make them believe this lie?**
+	- She was guilty of abuse in her relationship with [[Erinna]], leading her to hide away the facets of her personality that are bold and forward
+- **What do they most often criticize others for?**
+	- Self-Hatred; Isolation; Fantasizing
+- **What is their love language?**
+	- Words of affirmation
+- **How do they respond to emotional pain?**
+	- Self-Hatred; Isolation; Fantasizing
+- **What are their character quirks?**
+	- 
+- **Top three things they value most in life?**
+	- Her partner [[Anaktoria]]
+- **Is there an object they can’t bear to part with and why?**
+- **Describe a typical outfit for them top to bottom**
+- **What is their method of manipulation?**
+	- Blame-Shifting
+# Character Goals
+- **How is your character dissatisfied with their life?**
+	- She doesn’t feel genuine in her actions and her relationship
+- **What does your character believe will bring them true happiness or contentment?**
+	- Being accepted by [[Anaktoria|Tori]]
+- **What definitive step could they take to turn their dream into a reality?**
+	- Dropping her persona and acting as her genuine self
+- **How has their fear kept them from taking this action already?**
+	- [[Haithali]] is a walking reminder of [[Megara|Maggie]]’ mistakes, and to reveal her genuine self to [[Anaktoria|Tori]] she has to redeem herself with [[Haithali]]
+- **How does your protagonist feel they can accomplish their goal while still steering clear of the thing they are afraid of?**
+- **What will actually bring your character true happiness or contentment?**
+	- Admitting to her mistakes and redeeming herself through her relationship with [[Haithali]]
+- **What is preventing them from meeting that need?**
+	- [[Megara|Maggie]] is afraid of [[Haithali]] and the part of her that will resurface if she tries to be authentic
+- **What event could help them realize their need?**
+	- Having [[Haithali]] accuse [[Megara|Maggie]] of her true nature, giving [[Megara|Maggie]] a choice between redeeming herself with [[Haithali]] or letting [[Haithali]] turn [[Anaktoria|Tori]] against her
+- **What definitive step could they take to fulfill their need?**
+	- Reconciling and opening up with [[Haithali]] first, then [[Anaktoria|Tori]]
+# Other
+- **Spoken Languages**
+	- [[Trade Language]]
+	- [[Etskar Language]]
+- **Religious Belief/Deity**
+	- N/A
+- **Current Status**
+	- 
+- **Affiliated Cultures/Organizations**
+	- [[Etskar Culture]]
+- **Conditions**
+	- 

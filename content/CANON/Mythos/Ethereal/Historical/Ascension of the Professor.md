@@ -1,0 +1,34 @@
+# Generic
+- **Date of Recording**
+	- 
+- **Date of Setting**
+	- 
+- **Summary**
+	- 
+- **Historical Basis**
+	- 
+- **Spread**
+	- 
+- **Variations**
+	- 
+- **Cultural Reception**
+	- 
+- **In Literature**
+	- 
+- **In Art**
+	- 
+# Relations
+- **Related Prose**
+	- 
+- **Related People**
+	- [[5SO - The Professor]]
+- **Related Ethnicities**
+	- 
+- **Related Species**
+	- 
+- **Related Organizations**
+	- 
+- **Related Items**
+	- 
+- **Related Vehicles**
+	- 
