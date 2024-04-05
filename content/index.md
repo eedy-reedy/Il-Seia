@@ -1,5 +1,5 @@
 ---
-title: The Archives of Il-Seia
+title: Archives of Il-Seia
+draft: false
+tags:
 ---
-
-Welcome :)
